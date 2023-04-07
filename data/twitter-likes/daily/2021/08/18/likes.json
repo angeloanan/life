@@ -1,0 +1,114 @@
+[
+  {
+    "created_at": "Wed Aug 18 21:30:00 +0000 2021",
+    "id": 1428106931785375700,
+    "id_str": "1428106931785375748",
+    "text": "@btaylor In the early 2000s I thought news would evolve into whatever got the most clicks, and that would be better… https://t.co/LFOtl69FCW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "btaylor",
+          "name": "Bret Taylor",
+          "id": 7456262,
+          "id_str": "7456262",
+          "indices": [
+            0,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/LFOtl69FCW",
+          "expanded_url": "https://twitter.com/i/web/status/1428106931785375748",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1428106538913312800,
+    "in_reply_to_status_id_str": "1428106538913312773",
+    "in_reply_to_user_id": 183749519,
+    "in_reply_to_user_id_str": "183749519",
+    "in_reply_to_screen_name": "paulg",
+    "user": {
+      "id": 183749519,
+      "id_str": "183749519",
+      "name": "Paul Graham",
+      "screen_name": "paulg",
+      "location": "",
+      "description": "",
+      "url": "http://t.co/fDpOM1QB6e",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/fDpOM1QB6e",
+              "expanded_url": "http://paulgraham.com",
+              "display_url": "paulgraham.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1377243,
+      "friends_count": 645,
+      "listed_count": 13904,
+      "created_at": "Fri Aug 27 20:13:59 +0000 2010",
+      "favourites_count": 46583,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 26035,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ECD078",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/183749519/1401332683",
+      "profile_link_color": "BA0013",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "542437",
+      "profile_text_color": "DD5036",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "favorite_count": 293,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

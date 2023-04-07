@@ -1,0 +1,45 @@
+{
+  "2021-09-5": {
+    "total": 13950,
+    "rem": 1890,
+    "awake": 6990,
+    "deep": 6780,
+    "duration": 20940,
+    "efficiency": 67,
+    "light": 5280,
+    "score": 46
+  },
+  "2021-09-6": {
+    "total": 26910,
+    "rem": 2730,
+    "awake": 4230,
+    "deep": 9510,
+    "duration": 31140,
+    "efficiency": 86,
+    "light": 14670,
+    "score": 77
+  },
+  "2021-09-7": {
+    "total": 21900,
+    "rem": 2490,
+    "awake": 6960,
+    "deep": 6090,
+    "duration": 28860,
+    "efficiency": 76,
+    "light": 13320,
+    "score": 64
+  },
+  "2021-09-8": {
+    "total": 27540,
+    "rem": 3360,
+    "awake": 4140,
+    "deep": 7920,
+    "duration": 31680,
+    "efficiency": 87,
+    "light": 16260,
+    "score": 74
+  },
+  "2021-09-9": {},
+  "2021-09-10": {},
+  "2021-09-11": {}
+}

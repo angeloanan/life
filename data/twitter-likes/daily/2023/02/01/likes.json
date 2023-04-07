@@ -1,0 +1,104 @@
+[
+  {
+    "created_at": "Wed Feb 01 20:13:47 +0000 2023",
+    "id": 1620878096638554000,
+    "id_str": "1620878096638554112",
+    "text": "1/ Last year, my wife and I became parents.\n\nBetween the countless diaper changes, we wondered how much we'd spent… https://t.co/BP7bxtD41E",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/BP7bxtD41E",
+          "expanded_url": "https://twitter.com/i/web/status/1620878096638554112",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 7236102,
+      "id_str": "7236102",
+      "name": "Amit Jotwani",
+      "screen_name": "amit",
+      "location": "New York",
+      "description": "Developer Advocate @Retool. Lego nerd. Unpaid Instant Pot Evangelist. Tweets about code, workflows, and developer advocacy.",
+      "url": "https://t.co/jitcrGB9L1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jitcrGB9L1",
+              "expanded_url": "https://ajot.me",
+              "display_url": "ajot.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6321,
+      "friends_count": 609,
+      "listed_count": 242,
+      "created_at": "Tue Jul 03 20:21:08 +0000 2007",
+      "favourites_count": 10175,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10515,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1461045326765301760/2_Bfegg0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1461045326765301760/2_Bfegg0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7236102/1642950595",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "favorite_count": 27,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

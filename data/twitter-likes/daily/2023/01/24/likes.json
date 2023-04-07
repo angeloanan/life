@@ -1,0 +1,388 @@
+[
+  {
+    "created_at": "Tue Jan 24 18:45:52 +0000 2023",
+    "id": 1617956868319744000,
+    "id_str": "1617956868319744001",
+    "text": "@shashankbuilds @OpenAI That advice is only for founders who don't have Sam's skill in making deals. I.e. all other founders.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "shashankbuilds",
+          "name": "Shashank Khanna",
+          "id": 181427791,
+          "id_str": "181427791",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "OpenAI",
+          "name": "OpenAI",
+          "id": 4398626122,
+          "id_str": "4398626122",
+          "indices": [
+            16,
+            23
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1617930326701142000,
+    "in_reply_to_status_id_str": "1617930326701142016",
+    "in_reply_to_user_id": 181427791,
+    "in_reply_to_user_id_str": "181427791",
+    "in_reply_to_screen_name": "shashankbuilds",
+    "user": {
+      "id": 183749519,
+      "id_str": "183749519",
+      "name": "Paul Graham",
+      "screen_name": "paulg",
+      "location": "",
+      "description": "",
+      "url": "http://t.co/fDpOM1QB6e",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/fDpOM1QB6e",
+              "expanded_url": "http://paulgraham.com",
+              "display_url": "paulgraham.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1642546,
+      "friends_count": 717,
+      "listed_count": 16280,
+      "created_at": "Fri Aug 27 20:13:59 +0000 2010",
+      "favourites_count": 0,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 33449,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ECD078",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/183749519/1401332683",
+      "profile_link_color": "BA0013",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "542437",
+      "profile_text_color": "DD5036",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "favorite_count": 653,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 24 18:42:44 +0000 2023",
+    "id": 1617956081149563000,
+    "id_str": "1617956081149562880",
+    "text": "@rauchg @nextjs @tailwindcss @radix_ui @vercel @shadcn summoning circle, hope this works\n\n                       🕯… https://t.co/8E5HD2FVDN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rauchg",
+          "name": "Guillermo Rauch",
+          "id": 15540222,
+          "id_str": "15540222",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "nextjs",
+          "name": "Next.js",
+          "id": 1467726470533755000,
+          "id_str": "1467726470533754880",
+          "indices": [
+            8,
+            15
+          ]
+        },
+        {
+          "screen_name": "tailwindcss",
+          "name": "Tailwind CSS",
+          "id": 895273477711769600,
+          "id_str": "895273477711769600",
+          "indices": [
+            16,
+            28
+          ]
+        },
+        {
+          "screen_name": "radix_ui",
+          "name": "Radix",
+          "id": 1331987451955601400,
+          "id_str": "1331987451955601419",
+          "indices": [
+            29,
+            38
+          ]
+        },
+        {
+          "screen_name": "vercel",
+          "name": "Vercel",
+          "id": 4686835494,
+          "id_str": "4686835494",
+          "indices": [
+            39,
+            46
+          ]
+        },
+        {
+          "screen_name": "shadcn",
+          "name": "shadcn",
+          "id": 31206819,
+          "id_str": "31206819",
+          "indices": [
+            47,
+            54
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8E5HD2FVDN",
+          "expanded_url": "https://twitter.com/i/web/status/1617956081149562880",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1617955543204913200,
+    "in_reply_to_status_id_str": "1617955543204913152",
+    "in_reply_to_user_id": 15540222,
+    "in_reply_to_user_id_str": "15540222",
+    "in_reply_to_screen_name": "rauchg",
+    "user": {
+      "id": 334173439,
+      "id_str": "334173439",
+      "name": "Steven Tey",
+      "screen_name": "steventey",
+      "location": "Find startup names →",
+      "description": "building the future of the web ▲ @vercel | @dubdotsh",
+      "url": "https://t.co/ijLSdWtwMo",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ijLSdWtwMo",
+              "expanded_url": "https://owd.li/twitter",
+              "display_url": "owd.li/twitter",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 15959,
+      "friends_count": 797,
+      "listed_count": 299,
+      "created_at": "Tue Jul 12 17:51:55 +0000 2011",
+      "favourites_count": 38181,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 9610,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1506792347840888834/dS-r50Je_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1506792347840888834/dS-r50Je_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/334173439/1637011006",
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 24 15:41:16 +0000 2023",
+    "id": 1617910412342890500,
+    "id_str": "1617910412342890496",
+    "text": "@lmatteis dad",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "lmatteis",
+          "name": "Luca Matteis",
+          "id": 281950081,
+          "id_str": "281950081",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1617904409400467500,
+    "in_reply_to_status_id_str": "1617904409400467457",
+    "in_reply_to_user_id": 281950081,
+    "in_reply_to_user_id_str": "281950081",
+    "in_reply_to_screen_name": "lmatteis",
+    "user": {
+      "id": 90151483,
+      "id_str": "90151483",
+      "name": "Tejas Kumar",
+      "screen_name": "TejasKumar_",
+      "location": "https://tej.as/",
+      "description": "◆ International Keynote Speaker \n◆ YouTuber (https://t.co/VBcB8QiWex)\n◆ Angel Investor\n◆ Advisor \n◆ Mentor \n◆ Ex-@xata, @spotify, @vercel, @g2i_co.",
+      "url": "https://t.co/xmv1xntTKy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/xmv1xntTKy",
+              "expanded_url": "https://youtube.com/@tejask",
+              "display_url": "youtube.com/@tejask",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/VBcB8QiWex",
+              "expanded_url": "http://youtube.com/@tejask",
+              "display_url": "youtube.com/@tejask",
+              "indices": [
+                45,
+                68
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 28484,
+      "friends_count": 974,
+      "listed_count": 287,
+      "created_at": "Sun Nov 15 12:22:27 +0000 2009",
+      "favourites_count": 28283,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 41154,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "050F38",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1599020785687212032/mCYNmPX6_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1599020785687212032/mCYNmPX6_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/90151483/1665331380",
+      "profile_link_color": "FF691F",
+      "profile_sidebar_border_color": "BCB302",
+      "profile_sidebar_fill_color": "171106",
+      "profile_text_color": "938F1E",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 57,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "und"
+  }
+]

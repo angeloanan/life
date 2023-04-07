@@ -1,0 +1,423 @@
+[
+  {
+    "created_at": "Wed Jul 13 16:03:48 +0000 2022",
+    "id": 1547250450897940500,
+    "id_str": "1547250450897940482",
+    "text": "0/ @pulley raised $40M led by @rabois at @foundersfund!\n\nWe're excited to keep working with @stripe, @eladgil,… https://t.co/8VkDIPnRkn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "pulley",
+          "name": "Pulley",
+          "id": 1311944193938342000,
+          "id_str": "1311944193938341889",
+          "indices": [
+            3,
+            10
+          ]
+        },
+        {
+          "screen_name": "rabois",
+          "name": "Keith Rabois",
+          "id": 20263710,
+          "id_str": "20263710",
+          "indices": [
+            30,
+            37
+          ]
+        },
+        {
+          "screen_name": "foundersfund",
+          "name": "Founders Fund",
+          "id": 541042800,
+          "id_str": "541042800",
+          "indices": [
+            41,
+            54
+          ]
+        },
+        {
+          "screen_name": "stripe",
+          "name": "Stripe",
+          "id": 102812444,
+          "id_str": "102812444",
+          "indices": [
+            92,
+            99
+          ]
+        },
+        {
+          "screen_name": "eladgil",
+          "name": "Elad Gil",
+          "id": 6535212,
+          "id_str": "6535212",
+          "indices": [
+            101,
+            109
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/8VkDIPnRkn",
+          "expanded_url": "https://twitter.com/i/web/status/1547250450897940482",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            112,
+            135
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 66608475,
+      "id_str": "66608475",
+      "name": "Yin Wu",
+      "screen_name": "yinyinwu",
+      "location": "San Francisco, CA",
+      "description": "Founder at @pulley (msg me at yin@pulley.com). Startup helper. I heard people like profiles pics with dog 🐶",
+      "url": "https://t.co/TPA9ShZCiX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/TPA9ShZCiX",
+              "expanded_url": "https://pulley.com/",
+              "display_url": "pulley.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4867,
+      "friends_count": 538,
+      "listed_count": 104,
+      "created_at": "Tue Aug 18 05:44:03 +0000 2009",
+      "favourites_count": 918,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 432,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1375149211566567425/XEnAW4MZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1375149211566567425/XEnAW4MZ_normal.jpg",
+      "profile_link_color": "91D2FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 49,
+    "favorite_count": 741,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jul 13 12:42:07 +0000 2022",
+    "id": 1547199696329838600,
+    "id_str": "1547199696329838597",
+    "text": "what is the hardest color to work with in design and why is it yellow https://t.co/vuide0ywc0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1547199693049868300,
+          "id_str": "1547199693049868290",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXjB7GTUsAIxbpJ.png",
+          "media_url_https": "https://pbs.twimg.com/media/FXjB7GTUsAIxbpJ.png",
+          "url": "https://t.co/vuide0ywc0",
+          "display_url": "pic.twitter.com/vuide0ywc0",
+          "expanded_url": "https://twitter.com/Gavmn/status/1547199696329838597/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 480,
+              "h": 678,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 480,
+              "h": 678,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 678,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1547199693049868300,
+          "id_str": "1547199693049868290",
+          "indices": [
+            70,
+            93
+          ],
+          "media_url": "http://pbs.twimg.com/media/FXjB7GTUsAIxbpJ.png",
+          "media_url_https": "https://pbs.twimg.com/media/FXjB7GTUsAIxbpJ.png",
+          "url": "https://t.co/vuide0ywc0",
+          "display_url": "pic.twitter.com/vuide0ywc0",
+          "expanded_url": "https://twitter.com/Gavmn/status/1547199696329838597/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 480,
+              "h": 678,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 480,
+              "h": 678,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 480,
+              "h": 678,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 20938766,
+      "id_str": "20938766",
+      "name": "Gavin Nelson",
+      "screen_name": "Gavmn",
+      "location": "San Diego",
+      "description": "Product designer @GitHub working on GitHub Mobile. Icon designer on the side.",
+      "url": "https://t.co/IxojA6e8Lk",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/IxojA6e8Lk",
+              "expanded_url": "https://nelson.co",
+              "display_url": "nelson.co",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 19448,
+      "friends_count": 444,
+      "listed_count": 287,
+      "created_at": "Sun Feb 15 21:27:38 +0000 2009",
+      "favourites_count": 7026,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3302,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1441252222076002314/SDg3txMu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1441252222076002314/SDg3txMu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/20938766/1660419975",
+      "profile_link_color": "25DBDB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 102,
+    "favorite_count": 1588,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Jul 13 10:31:17 +0000 2022",
+    "id": 1547166768778469400,
+    "id_str": "1547166768778469378",
+    "text": "before bun, i built a lot of frontend stuff. many small things annoyed me\n\ni try to fix them in bun. \n- why do you… https://t.co/sDbNqrvXcJ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/sDbNqrvXcJ",
+          "expanded_url": "https://twitter.com/i/web/status/1547166768778469378",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2489440172,
+      "id_str": "2489440172",
+      "name": "Jarred Sumner (Hiring Engineers)",
+      "screen_name": "jarredsumner",
+      "location": "Oakland, CA",
+      "description": "building bun 🐰. formerly: @stripe (twice) @thielfellowship. high school dropout 🌈",
+      "url": "https://t.co/0qpSZ1eiQo",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0qpSZ1eiQo",
+              "expanded_url": "https://oven.sh",
+              "display_url": "oven.sh",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 32684,
+      "friends_count": 796,
+      "listed_count": 288,
+      "created_at": "Sun May 11 07:12:54 +0000 2014",
+      "favourites_count": 12291,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8315,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1342417825483300864/Vz4ChOFG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342417825483300864/Vz4ChOFG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 35,
+    "favorite_count": 693,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

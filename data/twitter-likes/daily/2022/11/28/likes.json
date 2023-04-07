@@ -1,0 +1,855 @@
+[
+  {
+    "created_at": "Mon Nov 28 21:12:35 +0000 2022",
+    "id": 1597337682207993900,
+    "id_str": "1597337682207993856",
+    "text": "The USA vs Iran game in Qatar tomorrow will be the first time the US is fighting in the Middle East without looking for oil",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1295526279194828800,
+      "id_str": "1295526279194828800",
+      "name": "Dr. Parik Patel, BA, CFA, ACCA Esq.",
+      "screen_name": "ParikPatelCFA",
+      "location": "Parody. Not Investment Advice.",
+      "description": "Aswath Damodaran 🙏🏾 Dhandho Investor Chapter 3:4 🐂 | God first, full employment second 😤 | Investor @SamosaCapital | Subscribe to my newsletter 👇🏾",
+      "url": "https://t.co/UERDBqsvcp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/UERDBqsvcp",
+              "expanded_url": "http://parikpatel.com",
+              "display_url": "parikpatel.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 589071,
+      "friends_count": 717,
+      "listed_count": 3026,
+      "created_at": "Tue Aug 18 01:01:57 +0000 2020",
+      "favourites_count": 108248,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 29160,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1341030286386192386/TzEiVCaJ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1341030286386192386/TzEiVCaJ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1295526279194828800/1608339007",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 11462,
+    "favorite_count": 66950,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 28 20:05:25 +0000 2022",
+    "id": 1597320778391130000,
+    "id_str": "1597320778391130112",
+    "text": "Map of Tesla charging stations 1437 AD https://t.co/eMOOmPzFax",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1597320776180457500,
+          "id_str": "1597320776180457473",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/FirSyHCWYAE5Tpg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FirSyHCWYAE5Tpg.jpg",
+          "url": "https://t.co/eMOOmPzFax",
+          "display_url": "pic.twitter.com/eMOOmPzFax",
+          "expanded_url": "https://twitter.com/TerribleMaps/status/1597320778391130112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 544,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 544,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 514,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1597320776180457500,
+          "id_str": "1597320776180457473",
+          "indices": [
+            39,
+            62
+          ],
+          "media_url": "http://pbs.twimg.com/media/FirSyHCWYAE5Tpg.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FirSyHCWYAE5Tpg.jpg",
+          "url": "https://t.co/eMOOmPzFax",
+          "display_url": "pic.twitter.com/eMOOmPzFax",
+          "expanded_url": "https://twitter.com/TerribleMaps/status/1597320778391130112/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 720,
+              "h": 544,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 720,
+              "h": 544,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 514,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1663172653,
+      "id_str": "1663172653",
+      "name": "Terrible Maps",
+      "screen_name": "TerribleMaps",
+      "location": "",
+      "description": "The home of terrible maps with a pinch of humour  https://t.co/piQqPjCXFm   \n  terriblemaps@gmail.com",
+      "url": "https://t.co/4ev2escfz0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/4ev2escfz0",
+              "expanded_url": "https://ko-fi.com/TerribleMaps",
+              "display_url": "ko-fi.com/TerribleMaps",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/piQqPjCXFm",
+              "expanded_url": "https://www.instagram.com/terriblemap/",
+              "display_url": "instagram.com/terriblemap/",
+              "indices": [
+                50,
+                73
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 1553221,
+      "friends_count": 935,
+      "listed_count": 3544,
+      "created_at": "Sun Aug 11 18:15:23 +0000 2013",
+      "favourites_count": 611,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1197,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "FCF7FC",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/695741339326160900/CalT3T7Y_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/695741339326160900/CalT3T7Y_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663172653/1454712717",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8505,
+    "favorite_count": 186002,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 28 16:13:18 +0000 2022",
+    "id": 1597262367951573000,
+    "id_str": "1597262367951572992",
+    "text": "Hardware is hard... \n\n... under the boundary condition of operating a fast-growing, VC-backed startup.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 385904343,
+      "id_str": "385904343",
+      "name": "Carlo Badini",
+      "screen_name": "carlobadini",
+      "location": "",
+      "description": "Founder @PabioHQ (YC S21). Somewhat successful entrepreneur according to Forbes. Doesn't know nothing about anything.",
+      "url": "https://t.co/WdXzi0eJ0D",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/WdXzi0eJ0D",
+              "expanded_url": "http://carlobadini.com",
+              "display_url": "carlobadini.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1656,
+      "friends_count": 341,
+      "listed_count": 23,
+      "created_at": "Thu Oct 06 10:24:28 +0000 2011",
+      "favourites_count": 348,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 59,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1587558387641978880/bfJ2pmTQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1587558387641978880/bfJ2pmTQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/385904343/1668883290",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 28 15:29:18 +0000 2022",
+    "id": 1597251293965594600,
+    "id_str": "1597251293965594624",
+    "text": "Midjourney generates the most amazing app icons. https://t.co/68LzqcXZnX",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1597250766695112700,
+          "id_str": "1597250766695112704",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FiqTHBYVIAAtzOl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FiqTHBYVIAAtzOl.jpg",
+          "url": "https://t.co/68LzqcXZnX",
+          "display_url": "pic.twitter.com/68LzqcXZnX",
+          "expanded_url": "https://twitter.com/sindresorhus/status/1597251293965594624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1597250766695112700,
+          "id_str": "1597250766695112704",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FiqTHBYVIAAtzOl.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FiqTHBYVIAAtzOl.jpg",
+          "url": "https://t.co/68LzqcXZnX",
+          "display_url": "pic.twitter.com/68LzqcXZnX",
+          "expanded_url": "https://twitter.com/sindresorhus/status/1597251293965594624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1597250865257074700,
+          "id_str": "1597250865257074688",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FiqTMwjVUAATy20.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FiqTMwjVUAATy20.jpg",
+          "url": "https://t.co/68LzqcXZnX",
+          "display_url": "pic.twitter.com/68LzqcXZnX",
+          "expanded_url": "https://twitter.com/sindresorhus/status/1597251293965594624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1597250990700343300,
+          "id_str": "1597250990700343297",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FiqTUD3VsAEu6mz.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FiqTUD3VsAEu6mz.jpg",
+          "url": "https://t.co/68LzqcXZnX",
+          "display_url": "pic.twitter.com/68LzqcXZnX",
+          "expanded_url": "https://twitter.com/sindresorhus/status/1597251293965594624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1597251215921848300,
+          "id_str": "1597251215921848320",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/FiqThK4VIAAyPkY.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FiqThK4VIAAyPkY.jpg",
+          "url": "https://t.co/68LzqcXZnX",
+          "display_url": "pic.twitter.com/68LzqcXZnX",
+          "expanded_url": "https://twitter.com/sindresorhus/status/1597251293965594624/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 1200,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 170686450,
+      "id_str": "170686450",
+      "name": "Sindre Sorhus",
+      "screen_name": "sindresorhus",
+      "location": "",
+      "description": "Full-time open-sourcerer & indie Mac developer. ❤️ Swift. Makes macOS apps & Node.js stuff. Made @awesome__re. &: @sindre_gh_repos @sindresorhus@mastodon.social",
+      "url": "https://t.co/WUPAI7THAy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/WUPAI7THAy",
+              "expanded_url": "https://sindresorhus.com",
+              "display_url": "sindresorhus.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 53904,
+      "friends_count": 493,
+      "listed_count": 1455,
+      "created_at": "Sun Jul 25 13:48:23 +0000 2010",
+      "favourites_count": 14436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 19087,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FAFAFA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1131626244745834497/0SzJoz_J_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1131626244745834497/0SzJoz_J_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/170686450/1670853600",
+      "profile_link_color": "7F5CE3",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 719,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 28 12:52:05 +0000 2022",
+    "id": 1597211729066610700,
+    "id_str": "1597211729066610690",
+    "text": "BS: \"Happiness doesn't increase above $75,000\"\n\nTruth: \"Well-being rises linearly with log income (and doesn't reac… https://t.co/1cDLIzN18S",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1cDLIzN18S",
+          "expanded_url": "https://twitter.com/i/web/status/1597211729066610690",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 5901702,
+      "id_str": "5901702",
+      "name": "Michael Karnjanaprakorn",
+      "screen_name": "mikekarnj",
+      "location": "NC",
+      "description": "I started Skillshare and Otis. Now taking some time off. I write about life, money, and random tings. Subscribe: https://t.co/OxHYIIQQel",
+      "url": "https://t.co/tAoLfc3zgp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/tAoLfc3zgp",
+              "expanded_url": "http://mikekarnj.com",
+              "display_url": "mikekarnj.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/OxHYIIQQel",
+              "expanded_url": "http://newsletter.mikekarnj.com",
+              "display_url": "newsletter.mikekarnj.com",
+              "indices": [
+                113,
+                136
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 43691,
+      "friends_count": 549,
+      "listed_count": 1108,
+      "created_at": "Wed May 09 14:49:15 +0000 2007",
+      "favourites_count": 10273,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 5494,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1573107822002421760/pZD8Dcwk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1573107822002421760/pZD8Dcwk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/5901702/1670438037",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "262626",
+      "profile_text_color": "696969",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1225,
+    "favorite_count": 9784,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Nov 28 03:13:32 +0000 2022",
+    "id": 1597066133709893600,
+    "id_str": "1597066133709893633",
+    "text": "Headed on a week long trip to completely focus on and study AI tomorrow. Would love any links, code, papers to read… https://t.co/fKTrXY5U2A",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fKTrXY5U2A",
+          "expanded_url": "https://twitter.com/i/web/status/1597066133709893633",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 793023,
+      "id_str": "793023",
+      "name": "Suhail",
+      "screen_name": "Suhail",
+      "location": "",
+      "description": "Founder: @playground_ai, @mixpanel\nPizzatarian, programmer, & music maker",
+      "url": "https://t.co/YLJca8C5OG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/YLJca8C5OG",
+              "expanded_url": "http://playgroundai.com",
+              "display_url": "playgroundai.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 188024,
+      "friends_count": 452,
+      "listed_count": 2379,
+      "created_at": "Sat Feb 24 22:17:47 +0000 2007",
+      "favourites_count": 4406,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 13486,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1467327500967579651/M-hifx0d_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1467327500967579651/M-hifx0d_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/793023/1477244032",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 37,
+    "favorite_count": 975,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

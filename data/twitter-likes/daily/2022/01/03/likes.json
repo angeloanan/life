@@ -1,0 +1,372 @@
+[
+  {
+    "created_at": "Mon Jan 03 20:39:20 +0000 2022",
+    "id": 1478103709850636300,
+    "id_str": "1478103709850636288",
+    "text": "ANNOUNCEMENT: I'm looking for work!\n\nI'm a JavaScript expert with a ton of experience in TypeScript, Node, ASTs, Te… https://t.co/yeh2Fjk1iN",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/yeh2Fjk1iN",
+          "expanded_url": "https://twitter.com/i/web/status/1478103709850636288",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 176864575,
+      "id_str": "176864575",
+      "name": "Lily Scott 🏳️‍⚧️",
+      "screen_name": "suchipi",
+      "location": "Broomfield, CO",
+      "description": "She/her ~ Trans, Ace, Panrom ~ Icon and header by @lemyawn ❤️\n\nWorks at @_dotbigbang_; previously @webflow, others.\nAlso does JS open-source; see https://t.co/ytCL77uYXk",
+      "url": "https://t.co/l6vZulhMUp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/l6vZulhMUp",
+              "expanded_url": "http://www.suchipi.com",
+              "display_url": "suchipi.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/ytCL77uYXk",
+              "expanded_url": "http://suchipi.com",
+              "display_url": "suchipi.com",
+              "indices": [
+                146,
+                169
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 2742,
+      "friends_count": 599,
+      "listed_count": 37,
+      "created_at": "Tue Aug 10 17:01:27 +0000 2010",
+      "favourites_count": 49541,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 19294,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1458591555778842625/mcP9Ntp2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1458591555778842625/mcP9Ntp2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/176864575/1594444804",
+      "profile_link_color": "AB82FF",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 352,
+    "favorite_count": 1402,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jan 03 13:11:22 +0000 2022",
+    "id": 1477990973166739500,
+    "id_str": "1477990973166739457",
+    "text": "Throat and Nasal Passages https://t.co/Vc6rIUciyO https://t.co/AWjqZlgvEo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Vc6rIUciyO",
+          "expanded_url": "http://xkcd.com/2563",
+          "display_url": "xkcd.com/2563",
+          "indices": [
+            26,
+            49
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1477990970847379500,
+          "id_str": "1477990970847379457",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/FILg9Q6XwAEWmB3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FILg9Q6XwAEWmB3.jpg",
+          "url": "https://t.co/AWjqZlgvEo",
+          "display_url": "pic.twitter.com/AWjqZlgvEo",
+          "expanded_url": "https://twitter.com/xkcd/status/1477990973166739457/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 517,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 835,
+              "h": 635,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 835,
+              "h": 635,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1477990970847379500,
+          "id_str": "1477990970847379457",
+          "indices": [
+            50,
+            73
+          ],
+          "media_url": "http://pbs.twimg.com/media/FILg9Q6XwAEWmB3.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FILg9Q6XwAEWmB3.jpg",
+          "url": "https://t.co/AWjqZlgvEo",
+          "display_url": "pic.twitter.com/AWjqZlgvEo",
+          "expanded_url": "https://twitter.com/xkcd/status/1477990973166739457/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 517,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 835,
+              "h": 635,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 835,
+              "h": 635,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 21146468,
+      "id_str": "21146468",
+      "name": "Randall Munroe",
+      "screen_name": "xkcd",
+      "location": "",
+      "description": "I draw the comic xkcd",
+      "url": "https://t.co/gADSbeGBoi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/gADSbeGBoi",
+              "expanded_url": "http://xkcd.com",
+              "display_url": "xkcd.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 207486,
+      "friends_count": 1,
+      "listed_count": 1640,
+      "created_at": "Tue Feb 17 23:36:03 +0000 2009",
+      "favourites_count": 6,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 374,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1488600831377252354/hEpPeSu0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1488600831377252354/hEpPeSu0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/21146468/1643641483",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1054,
+    "favorite_count": 8012,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jan 03 07:54:12 +0000 2022",
+    "id": 1477911157486669800,
+    "id_str": "1477911157486669826",
+    "text": "API design is product design.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 257765996,
+      "id_str": "257765996",
+      "name": "🧁 Mark Dalgleish",
+      "screen_name": "markdalgleish",
+      "location": "Melbourne, Australia",
+      "description": "🦄 CSS Modules co-creator / 🧁 vanilla-extract / 🍨 Sprinkles / Creator of Braid, Playroom / @MelbJS / dad x4 / UI, OSS, design systems @rainbowdotme 🌈",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 66499,
+      "friends_count": 5,
+      "listed_count": 1258,
+      "created_at": "Sat Feb 26 03:41:25 +0000 2011",
+      "favourites_count": 46170,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 22869,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDF5EE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/754886061872979968/BzaOWhs1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/754886061872979968/BzaOWhs1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/257765996/1524144135",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "D9F2E4",
+      "profile_text_color": "4C61A6",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 118,
+    "favorite_count": 1059,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

@@ -1,0 +1,67 @@
+{
+  "2022-11-20": {
+    "Software Development": 8384,
+    "Entertainment": 4431,
+    "Other Work": 469,
+    "Communication & Scheduling": 182,
+    "Utilities": 19,
+    "Business": 11,
+    "Uncategorized": 8
+  },
+  "2022-11-21": {
+    "Entertainment": 8736,
+    "Software Development": 7237,
+    "Communication & Scheduling": 5278,
+    "Other Work": 1197,
+    "Utilities": 41,
+    "Business": 20,
+    "Uncategorized": 19
+  },
+  "2022-11-22": {
+    "Communication & Scheduling": 9364,
+    "Entertainment": 5730,
+    "Other Work": 3552,
+    "Software Development": 3414,
+    "Business": 48,
+    "Uncategorized": 17,
+    "Utilities": 2
+  },
+  "2022-11-23": {
+    "Entertainment": 13463,
+    "Communication & Scheduling": 5995,
+    "Other Work": 4028,
+    "Software Development": 797,
+    "Business": 214,
+    "Utilities": 105,
+    "Uncategorized": 60,
+    "Reference & Learning": 10
+  },
+  "2022-11-24": {
+    "Entertainment": 22382,
+    "Software Development": 5508,
+    "Communication & Scheduling": 3524,
+    "Other Work": 1983,
+    "Utilities": 67,
+    "Uncategorized": 33
+  },
+  "2022-11-25": {
+    "Entertainment": 16082,
+    "Software Development": 3592,
+    "Communication & Scheduling": 3510,
+    "Other Work": 1079,
+    "Utilities": 21,
+    "Uncategorized": 19,
+    "Business": 5,
+    "News & Opinion": 3
+  },
+  "2022-11-26": {
+    "Entertainment": 10892,
+    "Communication & Scheduling": 4314,
+    "Software Development": 2748,
+    "Uncategorized": 576,
+    "Design & Composition": 568,
+    "Other Work": 388,
+    "Utilities": 71,
+    "Reference & Learning": 15
+  }
+}

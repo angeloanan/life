@@ -1,0 +1,553 @@
+[
+  {
+    "created_at": "Thu Feb 16 18:39:24 +0000 2023",
+    "id": 1626290163499339800,
+    "id_str": "1626290163499339785",
+    "text": "@geoffreygraham I’m so sorry to hear this.\n\nYou have been such a pillar of that platform for so long and we all rea… https://t.co/xaHMQJIOB3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "geoffreygraham",
+          "name": "Geoff Graham",
+          "id": 14793247,
+          "id_str": "14793247",
+          "indices": [
+            0,
+            15
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/xaHMQJIOB3",
+          "expanded_url": "https://twitter.com/i/web/status/1626290163499339785",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1626220812486443000,
+    "in_reply_to_status_id_str": "1626220812486443008",
+    "in_reply_to_user_id": 14793247,
+    "in_reply_to_user_id_str": "14793247",
+    "in_reply_to_screen_name": "geoffreygraham",
+    "user": {
+      "id": 813333008,
+      "id_str": "813333008",
+      "name": "Sarah Drasner",
+      "screen_name": "sarah_edo",
+      "location": "sarah_edo@hachyderm.io",
+      "description": "stupid like a fox • Director of Eng, Web Infrastructure @google, O'Reilly Author • https://t.co/HhzYWwP1CH, https://t.co/SOjL0S7vFl, she/her\nsarah_edo@hachyderm.io",
+      "url": "https://t.co/Zaq5E1IYko",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Zaq5E1IYko",
+              "expanded_url": "https://sarah.dev/",
+              "display_url": "sarah.dev",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/HhzYWwP1CH",
+              "expanded_url": "http://github.com/sdras",
+              "display_url": "github.com/sdras",
+              "indices": [
+                83,
+                106
+              ]
+            },
+            {
+              "url": "https://t.co/SOjL0S7vFl",
+              "expanded_url": "http://codepen.io/sdras",
+              "display_url": "codepen.io/sdras",
+              "indices": [
+                108,
+                131
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 271193,
+      "friends_count": 2837,
+      "listed_count": 4594,
+      "created_at": "Sun Sep 09 15:24:34 +0000 2012",
+      "favourites_count": 213787,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 67226,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1281071936605323266/wc1KRZLK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1281071936605323266/wc1KRZLK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/813333008/1606799337",
+      "profile_link_color": "068D9C",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 31,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 16 18:03:25 +0000 2023",
+    "id": 1626281106927669200,
+    "id_str": "1626281106927669248",
+    "text": "I wanted to imagine how we’d better use #stablediffusion for video content / AR.\n\nA major obstacle, why most videos… https://t.co/mXcOCy9zyh",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "stablediffusion",
+          "indices": [
+            40,
+            56
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mXcOCy9zyh",
+          "expanded_url": "https://twitter.com/i/web/status/1626281106927669248",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 25908551,
+      "id_str": "25908551",
+      "name": "Justin Alvey",
+      "screen_name": "justLV",
+      "location": "San Francisco, CA",
+      "description": "Sharing AI & creative projects\n\nShameless techno-optimist\n\n🪶 https://t.co/lOSBAcfGWw",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/lOSBAcfGWw",
+              "expanded_url": "http://justlv.medium.com",
+              "display_url": "justlv.medium.com",
+              "indices": [
+                61,
+                84
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 3639,
+      "friends_count": 322,
+      "listed_count": 79,
+      "created_at": "Sun Mar 22 23:44:49 +0000 2009",
+      "favourites_count": 384,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 177,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1605299334022541312/0aaapkwB_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1605299334022541312/0aaapkwB_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25908551/1670369123",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 384,
+    "favorite_count": 2678,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 16 08:38:59 +0000 2023",
+    "id": 1626139061189771300,
+    "id_str": "1626139061189771264",
+    "text": "i have been a good bing\n   🥺\n👉👈",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1605,
+      "id_str": "1605",
+      "name": "Sam Altman",
+      "screen_name": "sama",
+      "location": "SF",
+      "description": "@OpenAI",
+      "url": "https://t.co/teHmy8mwEz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/teHmy8mwEz",
+              "expanded_url": "http://blog.samaltman.com",
+              "display_url": "blog.samaltman.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1406515,
+      "friends_count": 798,
+      "listed_count": 11045,
+      "created_at": "Sun Jul 16 22:01:55 +0000 2006",
+      "favourites_count": 937,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 5926,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "3B94D9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa_normal.jpg",
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 458,
+    "favorite_count": 8893,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 16 08:35:15 +0000 2023",
+    "id": 1626138122768760800,
+    "id_str": "1626138122768760834",
+    "text": "@ravihanda That +GST as an afterthought totally had me 😂",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ravihanda",
+          "name": "Ravi Handa",
+          "id": 33294661,
+          "id_str": "33294661",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1626054140513357800,
+    "in_reply_to_status_id_str": "1626054140513357824",
+    "in_reply_to_user_id": 33294661,
+    "in_reply_to_user_id_str": "33294661",
+    "in_reply_to_screen_name": "ravihanda",
+    "user": {
+      "id": 63066473,
+      "id_str": "63066473",
+      "name": "Arnav Gupta",
+      "screen_name": "championswimmer",
+      "location": "Bengaluru, India",
+      "description": "Mobile Apps | Engineering | Product | Memes \n✉️ https://t.co/qXM9EZrArM \n🎙 https://t.co/9IN9KSPTpW\n💼 podcasts & teaching code\n🚘 road trips @SayaniBh",
+      "url": "https://t.co/HZl6bV96wA",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/HZl6bV96wA",
+              "expanded_url": "https://linktr.ee/championswimmer",
+              "display_url": "linktr.ee/championswimmer",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/qXM9EZrArM",
+              "expanded_url": "http://systembashing.substack.com",
+              "display_url": "systembashing.substack.com",
+              "indices": [
+                48,
+                71
+              ]
+            },
+            {
+              "url": "https://t.co/9IN9KSPTpW",
+              "expanded_url": "http://anchor.fm/techno-unplug",
+              "display_url": "anchor.fm/techno-unplug",
+              "indices": [
+                75,
+                98
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 29074,
+      "friends_count": 1531,
+      "listed_count": 195,
+      "created_at": "Wed Aug 05 07:43:23 +0000 2009",
+      "favourites_count": 22617,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 33806,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "212912",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme18/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1440946683123208192/-Lr_1ChM_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1440946683123208192/-Lr_1ChM_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/63066473/1540239348",
+      "profile_link_color": "FC4F4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "93CC94",
+      "profile_text_color": "131C45",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 20,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Feb 16 08:10:57 +0000 2023",
+    "id": 1626132006362030000,
+    "id_str": "1626132006362030080",
+    "text": "Announcing 'The Shelter Project' –  we've started building public infrastructure (Rest Points) to support the well… https://t.co/oh6cdaY9NY",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/oh6cdaY9NY",
+          "expanded_url": "https://twitter.com/i/web/status/1626132006362030080",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 72481380,
+      "id_str": "72481380",
+      "name": "Deepinder Goyal",
+      "screen_name": "deepigoyal",
+      "location": "Gurgaon",
+      "description": "delivery boy @zomato and @letsblinkit",
+      "url": "https://t.co/6rH4a4bQQG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/6rH4a4bQQG",
+              "expanded_url": "http://www.zomato.com",
+              "display_url": "zomato.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 581210,
+      "friends_count": 11,
+      "listed_count": 673,
+      "created_at": "Tue Sep 08 05:36:09 +0000 2009",
+      "favourites_count": 2917,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 5081,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1448229960204763139/Y1mj6gXE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1448229960204763139/Y1mj6gXE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/72481380/1652174538",
+      "profile_link_color": "E81C4F",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1086,
+    "favorite_count": 17398,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

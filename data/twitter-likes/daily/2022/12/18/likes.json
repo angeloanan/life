@@ -1,0 +1,392 @@
+[
+  {
+    "created_at": "Sun Dec 18 22:58:09 +0000 2022",
+    "id": 1604612006656475100,
+    "id_str": "1604612006656475138",
+    "text": "hardcore engineering https://t.co/4moFWz3GvV",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1604611675314864000,
+          "id_str": "1604611675314864131",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkS50S2WQAM5UyH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkS50S2WQAM5UyH.jpg",
+          "url": "https://t.co/4moFWz3GvV",
+          "display_url": "pic.twitter.com/4moFWz3GvV",
+          "expanded_url": "https://twitter.com/CubicleApril/status/1604612006656475138/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1824,
+              "h": 620,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 231,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 408,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1604611675314864000,
+          "id_str": "1604611675314864131",
+          "indices": [
+            21,
+            44
+          ],
+          "media_url": "http://pbs.twimg.com/media/FkS50S2WQAM5UyH.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FkS50S2WQAM5UyH.jpg",
+          "url": "https://t.co/4moFWz3GvV",
+          "display_url": "pic.twitter.com/4moFWz3GvV",
+          "expanded_url": "https://twitter.com/CubicleApril/status/1604612006656475138/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1824,
+              "h": 620,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 231,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 408,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 88974227,
+      "id_str": "88974227",
+      "name": "April King 🌀",
+      "screen_name": "CubicleApril",
+      "location": "Pig’s Eye, MN",
+      "description": "Staff Security Engineer at @Dropbox, previously @Mozilla, @Twitter. Has read @kateconger's autobiography. Mastodon: @april@macaw.social.",
+      "url": "https://t.co/5P6jHjVeAV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/5P6jHjVeAV",
+              "expanded_url": "https://grayduck.mn",
+              "display_url": "grayduck.mn",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 17638,
+      "friends_count": 317,
+      "listed_count": 337,
+      "created_at": "Tue Nov 10 17:19:57 +0000 2009",
+      "favourites_count": 24076,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 16123,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1584947376405479424/xyE6qu0O_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1584947376405479424/xyE6qu0O_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/88974227/1473011096",
+      "profile_link_color": "088253",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 327,
+    "favorite_count": 4433,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Dec 18 10:25:28 +0000 2022",
+    "id": 1604422587622244400,
+    "id_str": "1604422587622244352",
+    "text": "Stripe story time: A couple weeks after joining in 2012, I asked @collision if he would like to go to a party on a… https://t.co/gKNcbfE7Mt",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "collision",
+          "name": "John Collison",
+          "id": 5418912,
+          "id_str": "5418912",
+          "indices": [
+            65,
+            75
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gKNcbfE7Mt",
+          "expanded_url": "https://twitter.com/i/web/status/1604422587622244352",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14285961,
+      "id_str": "14285961",
+      "name": "Ric Burton",
+      "screen_name": "ricburton",
+      "location": "San Francisco, CA",
+      "description": "Designing, kiting & helping founders. Redesigning mobile Ethereum wallets with @light_wallet & @hito_xyz 📟 Find me on Lens if you want to talk: ricburton.lens",
+      "url": "https://t.co/VvCvG1MOdy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/VvCvG1MOdy",
+              "expanded_url": "https://ricburton.com",
+              "display_url": "ricburton.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 62085,
+      "friends_count": 23773,
+      "listed_count": 1294,
+      "created_at": "Wed Apr 02 18:16:40 +0000 2008",
+      "favourites_count": 140073,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 51423,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "0099B9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1546016759978741760/UiYjTl78_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1546016759978741760/UiYjTl78_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14285961/1670970633",
+      "profile_link_color": "0099B9",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "95E8EC",
+      "profile_text_color": "3C3940",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 80,
+    "favorite_count": 1588,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Dec 18 03:42:14 +0000 2022",
+    "id": 1604321111939899400,
+    "id_str": "1604321111939899393",
+    "text": "@Shpigford Since the type of that value can only be string or PaymentIntent, I'd do something like this.\nconst stat… https://t.co/QAIE1yTJxg",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Shpigford",
+          "name": "Josh Pigford",
+          "id": 626803,
+          "id_str": "626803",
+          "indices": [
+            0,
+            10
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/QAIE1yTJxg",
+          "expanded_url": "https://twitter.com/i/web/status/1604321111939899393",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1604318229043839000,
+    "in_reply_to_status_id_str": "1604318229043838977",
+    "in_reply_to_user_id": 626803,
+    "in_reply_to_user_id_str": "626803",
+    "in_reply_to_screen_name": "Shpigford",
+    "user": {
+      "id": 1913742878,
+      "id_str": "1913742878",
+      "name": "Jonathan Grahl | Bittermandel",
+      "screen_name": "jonathangrahl",
+      "location": "Stockholm, Sweden",
+      "description": "Building something great at https://t.co/OBY0H9P8jB\n\nex @embarkstudios @king_games @jetstackhq | Bittermandel @ Games",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/OBY0H9P8jB",
+              "expanded_url": "http://keyholders.io",
+              "display_url": "keyholders.io",
+              "indices": [
+                28,
+                51
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 252,
+      "friends_count": 718,
+      "listed_count": 11,
+      "created_at": "Sat Sep 28 10:00:16 +0000 2013",
+      "favourites_count": 20225,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1103,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1219206372690219008/xAdjEyzO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1219206372690219008/xAdjEyzO_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

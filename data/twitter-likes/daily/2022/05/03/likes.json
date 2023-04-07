@@ -1,0 +1,529 @@
+[
+  {
+    "created_at": "Tue May 03 23:15:04 +0000 2022",
+    "id": 1521629445093658600,
+    "id_str": "1521629445093658625",
+    "text": "1/ Mighty is expanding its Builder in Residence program: we are looking for another impressive founder that is in b… https://t.co/2QA4KeyOIb",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/2QA4KeyOIb",
+          "expanded_url": "https://twitter.com/i/web/status/1521629445093658625",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 793023,
+      "id_str": "793023",
+      "name": "Suhail",
+      "screen_name": "Suhail",
+      "location": "Get a fast browser ⇢",
+      "description": "Founder: @mightyapp\nPizzatarian, programmer, & music maker",
+      "url": "https://t.co/0vtq2wUMJZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0vtq2wUMJZ",
+              "expanded_url": "https://mightyapp.com",
+              "display_url": "mightyapp.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 156313,
+      "friends_count": 412,
+      "listed_count": 2104,
+      "created_at": "Sat Feb 24 22:17:47 +0000 2007",
+      "favourites_count": 3948,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 11409,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1467327500967579651/M-hifx0d_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1467327500967579651/M-hifx0d_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/793023/1477244032",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "favorite_count": 357,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue May 03 20:40:50 +0000 2022",
+    "id": 1521590631302369300,
+    "id_str": "1521590631302369285",
+    "text": "Building something unique in a competitive space is hard. After 18mo of building in stealth, we’re excited to share… https://t.co/FAQQSRBbG0",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/FAQQSRBbG0",
+          "expanded_url": "https://twitter.com/i/web/status/1521590631302369285",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1088933540362940400,
+      "id_str": "1088933540362940416",
+      "name": "Sean Stapleton",
+      "screen_name": "byseanstapleton",
+      "location": "San Francisco, CA",
+      "description": "product alchemist @lumosidentity, prev @google @umich // tweeting about product, community, and collaboration",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 605,
+      "friends_count": 1487,
+      "listed_count": 5,
+      "created_at": "Fri Jan 25 22:56:02 +0000 2019",
+      "favourites_count": 2950,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 209,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1521531140334440449/mzzBcJzW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1521531140334440449/mzzBcJzW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1088933540362940416/1651596282",
+      "profile_link_color": "303D87",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1521531026799054800,
+    "quoted_status_id_str": "1521531026799054851",
+    "quoted_status": {
+      "created_at": "Tue May 03 16:44:00 +0000 2022",
+      "id": 1521531026799054800,
+      "id_str": "1521531026799054851",
+      "text": "Lumos raises over $30m from @a16z to build the AppStore for companies🚨 Read @TechCrunch's article for the exclusive… https://t.co/Z8Ug0iix64",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "a16z",
+            "name": "a16z",
+            "id": 64844802,
+            "id_str": "64844802",
+            "indices": [
+              28,
+              33
+            ]
+          },
+          {
+            "screen_name": "TechCrunch",
+            "name": "TechCrunch",
+            "id": 816653,
+            "id_str": "816653",
+            "indices": [
+              76,
+              87
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/Z8Ug0iix64",
+            "expanded_url": "https://twitter.com/i/web/status/1521531026799054851",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1318950392189902800,
+        "id_str": "1318950392189902848",
+        "name": "Lumos",
+        "screen_name": "lumosidentity",
+        "location": "San Francisco, CA",
+        "description": "Lumos is the internal AppStore for companies. We’re on a mission to make every company more secure, compliant, & productive.💡 More here: https://t.co/hLW2kOAaua",
+        "url": "https://t.co/e5u0Jr7l54",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/e5u0Jr7l54",
+                "expanded_url": "http://lumos.com",
+                "display_url": "lumos.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/hLW2kOAaua",
+                "expanded_url": "https://bit.ly/3MduKcY",
+                "display_url": "bit.ly/3MduKcY",
+                "indices": [
+                  137,
+                  160
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 152,
+        "friends_count": 49,
+        "listed_count": 3,
+        "created_at": "Wed Oct 21 16:21:40 +0000 2020",
+        "favourites_count": 239,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 59,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1521917917520039937/WwBR7Vzd_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1521917917520039937/WwBR7Vzd_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1318950392189902848/1651688482",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 46,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 31,
+    "favorite_count": 136,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue May 03 20:08:18 +0000 2022",
+    "id": 1521582440783007700,
+    "id_str": "1521582440783007745",
+    "text": "Our Q1 results are in:\n\n102M nights booked\n$1.5B revenue (70% Y/Y)\n$(19)M net loss \n$229M Adjusted EBITDA \n$1.2B fr… https://t.co/ukoHBDg8PZ",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ukoHBDg8PZ",
+          "expanded_url": "https://twitter.com/i/web/status/1521582440783007745",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 12901712,
+      "id_str": "12901712",
+      "name": "Brian Chesky",
+      "screen_name": "bchesky",
+      "location": "An Airbnb somewhere ",
+      "description": "Airbnb",
+      "url": "https://t.co/jeulvKDUlu",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jeulvKDUlu",
+              "expanded_url": "http://airbnb.org/help-ukraine",
+              "display_url": "airbnb.org/help-ukraine",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 483045,
+      "friends_count": 88,
+      "listed_count": 4313,
+      "created_at": "Thu Jan 31 05:54:52 +0000 2008",
+      "favourites_count": 2439,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 4952,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/680250513951084544/yFwa_Sjd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/680250513951084544/yFwa_Sjd_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2046,
+    "favorite_count": 18190,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue May 03 16:18:57 +0000 2022",
+    "id": 1521524723431055400,
+    "id_str": "1521524723431055360",
+    "text": "@MichaelTrazzi How do we know this \"Google engineer\" isn't a large language model?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "MichaelTrazzi",
+          "name": "Michaël in the bay July-Sep",
+          "id": 824207366484848600,
+          "id_str": "824207366484848641",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1521461164504494000,
+    "in_reply_to_status_id_str": "1521461164504494081",
+    "in_reply_to_user_id": 824207366484848600,
+    "in_reply_to_user_id_str": "824207366484848641",
+    "in_reply_to_screen_name": "MichaelTrazzi",
+    "user": {
+      "id": 15627997,
+      "id_str": "15627997",
+      "name": "Dr. Dad, PhD 🔄🔼◀️🔽▶️",
+      "screen_name": "GarrettPetersen",
+      "location": "Canada",
+      "description": "Economics PhD and host of Economics Detective Radio.\n\nOpinions expressed are the official opinions of my employer, my country, and the entire human race.",
+      "url": "https://t.co/TNz8fvZfIC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/TNz8fvZfIC",
+              "expanded_url": "http://economicsdetective.com/",
+              "display_url": "economicsdetective.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3780,
+      "friends_count": 2172,
+      "listed_count": 112,
+      "created_at": "Mon Jul 28 04:51:31 +0000 2008",
+      "favourites_count": 103903,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 25358,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "666666",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1530903114236145665/LdzB7uJP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1530903114236145665/LdzB7uJP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15627997/1648962913",
+      "profile_link_color": "AC0000",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 182,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

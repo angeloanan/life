@@ -1,0 +1,454 @@
+[
+  {
+    "created_at": "Wed Sep 22 23:45:22 +0000 2021",
+    "id": 1440824575659368400,
+    "id_str": "1440824575659368452",
+    "text": "Lowlight portrait mode on iPhone 13 Pro ✨ https://t.co/rylDfpzHeG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1440824567971283000,
+          "id_str": "1440824567971282953",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_7WT42VgAkJAOx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_7WT42VgAkJAOx.jpg",
+          "url": "https://t.co/rylDfpzHeG",
+          "display_url": "pic.twitter.com/rylDfpzHeG",
+          "expanded_url": "https://twitter.com/ijustine/status/1440824575659368452/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1440824567971283000,
+          "id_str": "1440824567971282953",
+          "indices": [
+            42,
+            65
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_7WT42VgAkJAOx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E_7WT42VgAkJAOx.jpg",
+          "url": "https://t.co/rylDfpzHeG",
+          "display_url": "pic.twitter.com/rylDfpzHeG",
+          "expanded_url": "https://twitter.com/ijustine/status/1440824575659368452/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 900,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 510,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1536,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 7846,
+      "id_str": "7846",
+      "name": "iJustine",
+      "screen_name": "ijustine",
+      "location": "Los Angeles, CA",
+      "description": "Jenna's sister! tech • video games • podcast 🧠 @samebrain 🪙 ijustine.eth",
+      "url": "https://t.co/Mz4wcD1D9q",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Mz4wcD1D9q",
+              "expanded_url": "http://youtube.com/ijustine",
+              "display_url": "youtube.com/ijustine",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1792268,
+      "friends_count": 2723,
+      "listed_count": 14459,
+      "created_at": "Tue Oct 10 02:53:00 +0000 2006",
+      "favourites_count": 21601,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 60150,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1423538447612923908/2elGk3EW_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1423538447612923908/2elGk3EW_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/7846/1628235429",
+      "profile_link_color": "91D2FA",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 445,
+    "favorite_count": 14530,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 22 18:26:33 +0000 2021",
+    "id": 1440744340536529000,
+    "id_str": "1440744340536528896",
+    "text": "Freshworks has created FIVE HUBDRED new crorepatis in India with its @Nasdaq IPO! They’re all employees. And 70 of… https://t.co/5vwBtALnKn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Nasdaq",
+          "name": "Nasdaq",
+          "id": 18639734,
+          "id_str": "18639734",
+          "indices": [
+            69,
+            76
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/5vwBtALnKn",
+          "expanded_url": "https://twitter.com/i/web/status/1440744340536528896",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 81678457,
+      "id_str": "81678457",
+      "name": "Nayantara Rai",
+      "screen_name": "NayantaraRai",
+      "location": "",
+      "description": "Senior Editor at ET Now. Love breaking big stories. Doing new show on Startups. Was with CNBC-TV18. Led Zep, Tennis, Cricket fan. Tweets personal.",
+      "url": "https://t.co/Wo8feH8hox",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Wo8feH8hox",
+              "expanded_url": "http://www.timesnownews.com",
+              "display_url": "timesnownews.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 43563,
+      "friends_count": 2888,
+      "listed_count": 293,
+      "created_at": "Sun Oct 11 20:29:51 +0000 2009",
+      "favourites_count": 6443,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 13765,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/720597466702352385/hrAN2fIO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/720597466702352385/hrAN2fIO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/81678457/1493742782",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 286,
+    "favorite_count": 1909,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Sep 22 00:42:41 +0000 2021",
+    "id": 1440476611636129800,
+    "id_str": "1440476611636129794",
+    "text": "excuse me, GitHub Copilot, but\n\nwhat? https://t.co/0zGQeJj8h7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1440476598432534500,
+          "id_str": "1440476598432534532",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_2Z1ZTVkAQDHAq.png",
+          "media_url_https": "https://pbs.twimg.com/media/E_2Z1ZTVkAQDHAq.png",
+          "url": "https://t.co/0zGQeJj8h7",
+          "display_url": "pic.twitter.com/0zGQeJj8h7",
+          "expanded_url": "https://twitter.com/zkat__/status/1440476611636129794/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 694,
+              "h": 86,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 86,
+              "h": 86,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 84,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 694,
+              "h": 86,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1440476598432534500,
+          "id_str": "1440476598432534532",
+          "indices": [
+            38,
+            61
+          ],
+          "media_url": "http://pbs.twimg.com/media/E_2Z1ZTVkAQDHAq.png",
+          "media_url_https": "https://pbs.twimg.com/media/E_2Z1ZTVkAQDHAq.png",
+          "url": "https://t.co/0zGQeJj8h7",
+          "display_url": "pic.twitter.com/0zGQeJj8h7",
+          "expanded_url": "https://twitter.com/zkat__/status/1440476611636129794/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 694,
+              "h": 86,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 86,
+              "h": 86,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 84,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 694,
+              "h": 86,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2978661890,
+      "id_str": "2978661890",
+      "name": "kat marchán",
+      "screen_name": "zkat__",
+      "location": "stolen Chochenyo Ohlone land",
+      "description": "nb (they/them). queer af. boricua. I like drawing📝+ 3d modeling 🍩 + coding 🦀. tweets my own. 1312. NSFW🔞. lots of cute GL #fe3h #lockedtomb. anti-NFT",
+      "url": "https://t.co/nURmQWS2Ep",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/nURmQWS2Ep",
+              "expanded_url": "https://toot.cat/@zkat",
+              "display_url": "toot.cat/@zkat",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14202,
+      "friends_count": 500,
+      "listed_count": 406,
+      "created_at": "Tue Jan 13 06:07:49 +0000 2015",
+      "favourites_count": 234428,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 101486,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1379317565948788740/dWqUc1nA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1379317565948788740/dWqUc1nA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2978661890/1617689909",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 152,
+    "favorite_count": 1568,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "created_at": "Sun Jan 30 11:10:02 +0000 2022",
+    "id": 1487744910514012200,
+    "id_str": "1487744910514012160",
+    "text": "@asn_deepthink You know the best part about my thread?\n\nI know who read it and who didn't, based on the reply (or r… https://t.co/nOO49N623k",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "asn_deepthink",
+          "name": "Aditya Sivaram",
+          "id": 1231781087975628800,
+          "id_str": "1231781087975628806",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/nOO49N623k",
+          "expanded_url": "https://twitter.com/i/web/status/1487744910514012160",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1487743889695928300,
+    "in_reply_to_status_id_str": "1487743889695928320",
+    "in_reply_to_user_id": 1231781087975628800,
+    "in_reply_to_user_id_str": "1231781087975628806",
+    "in_reply_to_screen_name": "asn_deepthink",
+    "user": {
+      "id": 296690998,
+      "id_str": "296690998",
+      "name": "Vivek Raju",
+      "screen_name": "vivekraju93",
+      "location": "BLR",
+      "description": "1️⃣ Helping Series A-D founders with investment memos at https://t.co/3l2rOBhWW1 (positioning/narrative/viz.) 2️⃣ ELI5-ing tech & VC at https://t.co/XuthroeKhB (on pause)",
+      "url": "https://t.co/fqlyEKZhNF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/fqlyEKZhNF",
+              "expanded_url": "https://www.vivekraju.in",
+              "display_url": "vivekraju.in",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/3l2rOBhWW1",
+              "expanded_url": "http://deckrooster.com",
+              "display_url": "deckrooster.com",
+              "indices": [
+                57,
+                80
+              ]
+            },
+            {
+              "url": "https://t.co/XuthroeKhB",
+              "expanded_url": "http://simplanations.in",
+              "display_url": "simplanations.in",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 20360,
+      "friends_count": 1389,
+      "listed_count": 104,
+      "created_at": "Wed May 11 07:22:10 +0000 2011",
+      "favourites_count": 7078,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 13254,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1246112271312416769/78OVSFss_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1246112271312416769/78OVSFss_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/296690998/1584643008",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 103,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

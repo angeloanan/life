@@ -1,0 +1,689 @@
+[
+  {
+    "created_at": "Wed Dec 29 20:29:11 +0000 2021",
+    "id": 1476289213775626200,
+    "id_str": "1476289213775626240",
+    "text": "Thanks for reading and have a great 2022! 🎉",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://getchirrapp.com\" rel=\"nofollow\">chirr.app</a>",
+    "in_reply_to_status_id": 1476289212915798000,
+    "in_reply_to_status_id_str": "1476289212915798025",
+    "in_reply_to_user_id": 39725981,
+    "in_reply_to_user_id_str": "39725981",
+    "in_reply_to_screen_name": "AnandChowdhary",
+    "user": {
+      "id": 39725981,
+      "id_str": "39725981",
+      "name": "Anand Chowdhary",
+      "screen_name": "AnandChowdhary",
+      "location": "twitter.com/AnandStalker",
+      "description": "Co-founder of Pabio (YC S21) & Oswald Labs • Forbes 30 Under 30 & GitHub Star • 🇮🇳🔄🇳🇱",
+      "url": "https://t.co/H7V1GJfQ7M",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/H7V1GJfQ7M",
+              "expanded_url": "https://anandchowdhary.com/?utm_source=twitter&utm_medium=about-link",
+              "display_url": "anandchowdhary.com/?utm_source=tw…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2037,
+      "friends_count": 1149,
+      "listed_count": 34,
+      "created_at": "Wed May 13 10:34:06 +0000 2009",
+      "favourites_count": 5102,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2625,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EEEEEE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39725981/1512292567",
+      "profile_link_color": "4E30E2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "5E5E5E",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 29 20:29:11 +0000 2021",
+    "id": 1476289212915798000,
+    "id_str": "1476289212915798025",
+    "text": "I've found myself working on Sundays or checking my phone during coding sprints and I want to do less at a time but… https://t.co/B7Q9MfwGtt",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/B7Q9MfwGtt",
+          "expanded_url": "https://twitter.com/i/web/status/1476289212915798025",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://getchirrapp.com\" rel=\"nofollow\">chirr.app</a>",
+    "in_reply_to_status_id": 1476289212043387000,
+    "in_reply_to_status_id_str": "1476289212043386880",
+    "in_reply_to_user_id": 39725981,
+    "in_reply_to_user_id_str": "39725981",
+    "in_reply_to_screen_name": "AnandChowdhary",
+    "user": {
+      "id": 39725981,
+      "id_str": "39725981",
+      "name": "Anand Chowdhary",
+      "screen_name": "AnandChowdhary",
+      "location": "twitter.com/AnandStalker",
+      "description": "Co-founder of Pabio (YC S21) & Oswald Labs • Forbes 30 Under 30 & GitHub Star • 🇮🇳🔄🇳🇱",
+      "url": "https://t.co/H7V1GJfQ7M",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/H7V1GJfQ7M",
+              "expanded_url": "https://anandchowdhary.com/?utm_source=twitter&utm_medium=about-link",
+              "display_url": "anandchowdhary.com/?utm_source=tw…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2037,
+      "friends_count": 1149,
+      "listed_count": 34,
+      "created_at": "Wed May 13 10:34:06 +0000 2009",
+      "favourites_count": 5102,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2625,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EEEEEE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39725981/1512292567",
+      "profile_link_color": "4E30E2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "5E5E5E",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 29 20:29:10 +0000 2021",
+    "id": 1476289212043387000,
+    "id_str": "1476289212043386880",
+    "text": "I want to continue improving my physical and mental health and keep working hard towards my goals, both short- and… https://t.co/JkAL8PVdPn",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/JkAL8PVdPn",
+          "expanded_url": "https://twitter.com/i/web/status/1476289212043386880",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://getchirrapp.com\" rel=\"nofollow\">chirr.app</a>",
+    "in_reply_to_status_id": 1476289211200426000,
+    "in_reply_to_status_id_str": "1476289211200425989",
+    "in_reply_to_user_id": 39725981,
+    "in_reply_to_user_id_str": "39725981",
+    "in_reply_to_screen_name": "AnandChowdhary",
+    "user": {
+      "id": 39725981,
+      "id_str": "39725981",
+      "name": "Anand Chowdhary",
+      "screen_name": "AnandChowdhary",
+      "location": "twitter.com/AnandStalker",
+      "description": "Co-founder of Pabio (YC S21) & Oswald Labs • Forbes 30 Under 30 & GitHub Star • 🇮🇳🔄🇳🇱",
+      "url": "https://t.co/H7V1GJfQ7M",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/H7V1GJfQ7M",
+              "expanded_url": "https://anandchowdhary.com/?utm_source=twitter&utm_medium=about-link",
+              "display_url": "anandchowdhary.com/?utm_source=tw…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2037,
+      "friends_count": 1149,
+      "listed_count": 34,
+      "created_at": "Wed May 13 10:34:06 +0000 2009",
+      "favourites_count": 5102,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2625,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EEEEEE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39725981/1512292567",
+      "profile_link_color": "4E30E2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "5E5E5E",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 29 20:29:10 +0000 2021",
+    "id": 1476289211200426000,
+    "id_str": "1476289211200425989",
+    "text": "Finally, like this past year, I want to continue to do the things I did right, but invest more in my support system.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://getchirrapp.com\" rel=\"nofollow\">chirr.app</a>",
+    "in_reply_to_status_id": 1476289210290221000,
+    "in_reply_to_status_id_str": "1476289210290221062",
+    "in_reply_to_user_id": 39725981,
+    "in_reply_to_user_id_str": "39725981",
+    "in_reply_to_screen_name": "AnandChowdhary",
+    "user": {
+      "id": 39725981,
+      "id_str": "39725981",
+      "name": "Anand Chowdhary",
+      "screen_name": "AnandChowdhary",
+      "location": "twitter.com/AnandStalker",
+      "description": "Co-founder of Pabio (YC S21) & Oswald Labs • Forbes 30 Under 30 & GitHub Star • 🇮🇳🔄🇳🇱",
+      "url": "https://t.co/H7V1GJfQ7M",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/H7V1GJfQ7M",
+              "expanded_url": "https://anandchowdhary.com/?utm_source=twitter&utm_medium=about-link",
+              "display_url": "anandchowdhary.com/?utm_source=tw…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2037,
+      "friends_count": 1149,
+      "listed_count": 34,
+      "created_at": "Wed May 13 10:34:06 +0000 2009",
+      "favourites_count": 5102,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2625,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EEEEEE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39725981/1512292567",
+      "profile_link_color": "4E30E2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "5E5E5E",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 29 20:29:10 +0000 2021",
+    "id": 1476289210290221000,
+    "id_str": "1476289210290221062",
+    "text": "Secondly, I want to do a better job at internalizing feedback; I've been told that I'm very receptive to it, but th… https://t.co/HAxs8LraAT",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/HAxs8LraAT",
+          "expanded_url": "https://twitter.com/i/web/status/1476289210290221062",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://getchirrapp.com\" rel=\"nofollow\">chirr.app</a>",
+    "in_reply_to_status_id": 1476289209501638700,
+    "in_reply_to_status_id_str": "1476289209501638658",
+    "in_reply_to_user_id": 39725981,
+    "in_reply_to_user_id_str": "39725981",
+    "in_reply_to_screen_name": "AnandChowdhary",
+    "user": {
+      "id": 39725981,
+      "id_str": "39725981",
+      "name": "Anand Chowdhary",
+      "screen_name": "AnandChowdhary",
+      "location": "twitter.com/AnandStalker",
+      "description": "Co-founder of Pabio (YC S21) & Oswald Labs • Forbes 30 Under 30 & GitHub Star • 🇮🇳🔄🇳🇱",
+      "url": "https://t.co/H7V1GJfQ7M",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/H7V1GJfQ7M",
+              "expanded_url": "https://anandchowdhary.com/?utm_source=twitter&utm_medium=about-link",
+              "display_url": "anandchowdhary.com/?utm_source=tw…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2037,
+      "friends_count": 1149,
+      "listed_count": 34,
+      "created_at": "Wed May 13 10:34:06 +0000 2009",
+      "favourites_count": 5102,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2625,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EEEEEE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39725981/1512292567",
+      "profile_link_color": "4E30E2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "5E5E5E",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 29 20:29:10 +0000 2021",
+    "id": 1476289209501638700,
+    "id_str": "1476289209501638658",
+    "text": "I also want to involve more stakeholders more early on and more frequently when making decision, both in my persona… https://t.co/f5pE672AAd",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/f5pE672AAd",
+          "expanded_url": "https://twitter.com/i/web/status/1476289209501638658",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://getchirrapp.com\" rel=\"nofollow\">chirr.app</a>",
+    "in_reply_to_status_id": 1476289208662773800,
+    "in_reply_to_status_id_str": "1476289208662773763",
+    "in_reply_to_user_id": 39725981,
+    "in_reply_to_user_id_str": "39725981",
+    "in_reply_to_screen_name": "AnandChowdhary",
+    "user": {
+      "id": 39725981,
+      "id_str": "39725981",
+      "name": "Anand Chowdhary",
+      "screen_name": "AnandChowdhary",
+      "location": "twitter.com/AnandStalker",
+      "description": "Co-founder of Pabio (YC S21) & Oswald Labs • Forbes 30 Under 30 & GitHub Star • 🇮🇳🔄🇳🇱",
+      "url": "https://t.co/H7V1GJfQ7M",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/H7V1GJfQ7M",
+              "expanded_url": "https://anandchowdhary.com/?utm_source=twitter&utm_medium=about-link",
+              "display_url": "anandchowdhary.com/?utm_source=tw…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2037,
+      "friends_count": 1149,
+      "listed_count": 34,
+      "created_at": "Wed May 13 10:34:06 +0000 2009",
+      "favourites_count": 5102,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2625,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EEEEEE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39725981/1512292567",
+      "profile_link_color": "4E30E2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "5E5E5E",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Dec 29 20:29:10 +0000 2021",
+    "id": 1476289208662773800,
+    "id_str": "1476289208662773763",
+    "text": "I still spend the majority of my time as an individual contributor, which is scaling very poorly. I've been in a \"m… https://t.co/Ef27kjxWWv",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ef27kjxWWv",
+          "expanded_url": "https://twitter.com/i/web/status/1476289208662773763",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://getchirrapp.com\" rel=\"nofollow\">chirr.app</a>",
+    "in_reply_to_status_id": 1476289207761047600,
+    "in_reply_to_status_id_str": "1476289207761047558",
+    "in_reply_to_user_id": 39725981,
+    "in_reply_to_user_id_str": "39725981",
+    "in_reply_to_screen_name": "AnandChowdhary",
+    "user": {
+      "id": 39725981,
+      "id_str": "39725981",
+      "name": "Anand Chowdhary",
+      "screen_name": "AnandChowdhary",
+      "location": "twitter.com/AnandStalker",
+      "description": "Co-founder of Pabio (YC S21) & Oswald Labs • Forbes 30 Under 30 & GitHub Star • 🇮🇳🔄🇳🇱",
+      "url": "https://t.co/H7V1GJfQ7M",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/H7V1GJfQ7M",
+              "expanded_url": "https://anandchowdhary.com/?utm_source=twitter&utm_medium=about-link",
+              "display_url": "anandchowdhary.com/?utm_source=tw…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2037,
+      "friends_count": 1149,
+      "listed_count": 34,
+      "created_at": "Wed May 13 10:34:06 +0000 2009",
+      "favourites_count": 5102,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2625,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EEEEEE",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1480962423829893120/RUvQSGFs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/39725981/1512292567",
+      "profile_link_color": "4E30E2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "5E5E5E",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "favorited": false,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

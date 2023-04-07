@@ -1,0 +1,103 @@
+[
+  {
+    "created_at": "Mon Nov 29 19:10:08 +0000 2021",
+    "id": 1465397684655718400,
+    "id_str": "1465397684655718401",
+    "text": "When I visited Ellis Island as a kid, I learned why there were so few Indian people in the US: \"Luce-Celler Act of… https://t.co/LO7l92QedS",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LO7l92QedS",
+          "expanded_url": "https://twitter.com/i/web/status/1465397684655718401",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 793023,
+      "id_str": "793023",
+      "name": "Suhail",
+      "screen_name": "Suhail",
+      "location": "Get a fast browser ⇢",
+      "description": "Founder: @mightyapp, @mixpanel\nPizzatarian, programmer, & music maker",
+      "url": "https://t.co/0vtq2wUMJZ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0vtq2wUMJZ",
+              "expanded_url": "https://mightyapp.com",
+              "display_url": "mightyapp.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 135446,
+      "friends_count": 410,
+      "listed_count": 1956,
+      "created_at": "Sat Feb 24 22:17:47 +0000 2007",
+      "favourites_count": 3474,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 9353,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1467327500967579651/M-hifx0d_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1467327500967579651/M-hifx0d_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/793023/1477244032",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "favorite_count": 488,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

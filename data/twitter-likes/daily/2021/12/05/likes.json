@@ -1,0 +1,547 @@
+[
+  {
+    "created_at": "Sun Dec 05 18:29:23 +0000 2021",
+    "id": 1467561758546006000,
+    "id_str": "1467561758546006016",
+    "text": "The best part of a pyramid scheme is when you build another layer on top of your existing pyramids https://t.co/okSaUcERyE",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/okSaUcERyE",
+          "expanded_url": "https://twitter.com/FoldableHuman/status/1467551146831388672",
+          "display_url": "twitter.com/FoldableHuman/…",
+          "indices": [
+            99,
+            122
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 13502732,
+      "id_str": "13502732",
+      "name": "foone",
+      "screen_name": "Foone",
+      "location": "",
+      "description": "Hardware / software necromancer, collector of Weird Stuff, maker of Death Generators. (they/them)\n\nko-fi: https://t.co/RWnHtUISyM",
+      "url": "https://t.co/0gnaVwARmR",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0gnaVwARmR",
+              "expanded_url": "https://floppy.foone.org/w/Main_Page",
+              "display_url": "floppy.foone.org/w/Main_Page",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/RWnHtUISyM",
+              "expanded_url": "https://ko-fi.com/fooneturing",
+              "display_url": "ko-fi.com/fooneturing",
+              "indices": [
+                106,
+                129
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 131183,
+      "friends_count": 559,
+      "listed_count": 1012,
+      "created_at": "Fri Feb 15 03:51:09 +0000 2008",
+      "favourites_count": 89626,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 234546,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/880340410333143040/-s_buYC0_normal.jpg",
+      "profile_link_color": "008080",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1467551146831388700,
+    "quoted_status_id_str": "1467551146831388672",
+    "quoted_status": {
+      "created_at": "Sun Dec 05 17:47:13 +0000 2021",
+      "id": 1467551146831388700,
+      "id_str": "1467551146831388672",
+      "text": "Me: this is all just a gateway to endless layers of DRM\nCrypto evangelists: no! It will be decentralized and finall… https://t.co/iMmLZufuYO",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/iMmLZufuYO",
+            "expanded_url": "https://twitter.com/i/web/status/1467551146831388672",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": 1465835083542061000,
+      "in_reply_to_status_id_str": "1465835083542061059",
+      "in_reply_to_user_id": 344331268,
+      "in_reply_to_user_id_str": "344331268",
+      "in_reply_to_screen_name": "FoldableHuman",
+      "user": {
+        "id": 344331268,
+        "id_str": "344331268",
+        "name": "Dan Olson",
+        "screen_name": "FoldableHuman",
+        "location": "Calgary, Canada",
+        "description": "Biological random video essay production algorithm. Invented talking to your pets in a funny voice.\nhttps://t.co/VeiDKcXOb9",
+        "url": "https://t.co/GwTyKVPtw6",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/GwTyKVPtw6",
+                "expanded_url": "https://www.youtube.com/foldingideas",
+                "display_url": "youtube.com/foldingideas",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/VeiDKcXOb9",
+                "expanded_url": "http://patreon.com/foldablehuman",
+                "display_url": "patreon.com/foldablehuman",
+                "indices": [
+                  100,
+                  123
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 115957,
+        "friends_count": 324,
+        "listed_count": 454,
+        "created_at": "Thu Jul 28 22:14:12 +0000 2011",
+        "favourites_count": 2385,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 76622,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1149858558856564738/21KJxfem_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1149858558856564738/21KJxfem_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/344331268/1562982622",
+        "profile_link_color": "F800FF",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 176,
+      "favorite_count": 1155,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 96,
+    "favorite_count": 478,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Dec 05 07:37:11 +0000 2021",
+    "id": 1467397626777776000,
+    "id_str": "1467397626777776131",
+    "text": "@theaceofthespad @devongovett Not convinced supporting Internet Explorer 7 was simple",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "theaceofthespad",
+          "name": "theaceofthespad",
+          "id": 16629759,
+          "id_str": "16629759",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "screen_name": "devongovett",
+          "name": "Devon Govett",
+          "id": 15687937,
+          "id_str": "15687937",
+          "indices": [
+            17,
+            29
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": 1467332467505995800,
+    "in_reply_to_status_id_str": "1467332467505995785",
+    "in_reply_to_user_id": 16629759,
+    "in_reply_to_user_id_str": "16629759",
+    "in_reply_to_screen_name": "theaceofthespad",
+    "user": {
+      "id": 15390783,
+      "id_str": "15390783",
+      "name": "Jake Archibald",
+      "screen_name": "jaffathecake",
+      "location": "Haywards Heath",
+      "description": "Developer advocate working on Chrome. Once swam to the end of an infinity pool. No thought goes unpublished. 'IMO' implicit. He/him.",
+      "url": "https://t.co/k4A49YbaRT",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/k4A49YbaRT",
+              "expanded_url": "http://www.jakearchibald.com",
+              "display_url": "jakearchibald.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 87748,
+      "friends_count": 2093,
+      "listed_count": 2359,
+      "created_at": "Fri Jul 11 12:42:42 +0000 2008",
+      "favourites_count": 70446,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 74795,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1695239906/me_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1695239906/me_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15390783/1543570262",
+      "profile_link_color": "FA743E",
+      "profile_sidebar_border_color": "9EAFCC",
+      "profile_sidebar_fill_color": "D4D7DD",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 30,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Dec 05 03:00:32 +0000 2021",
+    "id": 1467328005735587800,
+    "id_str": "1467328005735587842",
+    "text": "The start of startup cities. From the two-party system to the n-city system. https://t.co/mesXp807Wo",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/mesXp807Wo",
+          "expanded_url": "https://twitter.com/FrancisSuarez/status/1467178693525221377",
+          "display_url": "twitter.com/FrancisSuarez/…",
+          "indices": [
+            77,
+            100
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2178012643,
+      "id_str": "2178012643",
+      "name": "Balaji Srinivasan",
+      "screen_name": "balajis",
+      "location": "The Internet",
+      "description": "Immutable money, infinite frontier, eternal life. #Bitcoin",
+      "url": "https://t.co/ZcfxuQNXt2",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ZcfxuQNXt2",
+              "expanded_url": "https://balajis.com",
+              "display_url": "balajis.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 587512,
+      "friends_count": 3963,
+      "listed_count": 12078,
+      "created_at": "Wed Nov 06 12:51:04 +0000 2013",
+      "favourites_count": 128508,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 22580,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1406974882919813128/LOUb2m4R_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1406974882919813128/LOUb2m4R_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2178012643/1628539024",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1467178693525221400,
+    "quoted_status_id_str": "1467178693525221377",
+    "quoted_status": {
+      "created_at": "Sat Dec 04 17:07:14 +0000 2021",
+      "id": 1467178693525221400,
+      "id_str": "1467178693525221377",
+      "text": "How can I help? 😂🚀 https://t.co/v8NHSwJtNO",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/v8NHSwJtNO",
+            "expanded_url": "https://twitter.com/zebulgar/status/1467167136909037573",
+            "display_url": "twitter.com/zebulgar/statu…",
+            "indices": [
+              19,
+              42
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 617602505,
+        "id_str": "617602505",
+        "name": "Mayor Francis Suarez",
+        "screen_name": "FrancisSuarez",
+        "location": "Miami, FL",
+        "description": "Proud to serve as @MiamiMayor & President of @usmayors. Committed to elevating the quality of life of all our residents. Blessed to raise my family in the MIA!",
+        "url": "https://t.co/8M31h3hozF",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/8M31h3hozF",
+                "expanded_url": "http://howcanihelpmia.com",
+                "display_url": "howcanihelpmia.com",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 131368,
+        "friends_count": 4997,
+        "listed_count": 894,
+        "created_at": "Mon Jun 25 00:19:02 +0000 2012",
+        "favourites_count": 26218,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 15939,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1453460750660423688/gdKV8orF_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1453460750660423688/gdKV8orF_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/617602505/1510756123",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": true,
+      "quoted_status_id": 1467167136909037600,
+      "quoted_status_id_str": "1467167136909037573",
+      "retweet_count": 303,
+      "favorite_count": 4627,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 57,
+    "favorite_count": 601,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

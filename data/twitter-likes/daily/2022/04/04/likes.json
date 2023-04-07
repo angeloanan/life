@@ -1,0 +1,101 @@
+[
+  {
+    "created_at": "Mon Apr 04 21:42:01 +0000 2022",
+    "id": 1511096779315593200,
+    "id_str": "1511096779315593219",
+    "text": "@hausman_k @GoogleAI Staggeringly unfunny",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "hausman_k",
+          "name": "Karol Hausman 💙💛",
+          "id": 1249492212,
+          "id_str": "1249492212",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "screen_name": "GoogleAI",
+          "name": "Google AI",
+          "id": 33838201,
+          "id_str": "33838201",
+          "indices": [
+            11,
+            20
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1511047974574469000,
+    "in_reply_to_status_id_str": "1511047974574469123",
+    "in_reply_to_user_id": 1249492212,
+    "in_reply_to_user_id_str": "1249492212",
+    "in_reply_to_screen_name": "hausman_k",
+    "user": {
+      "id": 44196397,
+      "id_str": "44196397",
+      "name": "Elon Musk",
+      "screen_name": "elonmusk",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 93625369,
+      "friends_count": 112,
+      "listed_count": 95526,
+      "created_at": "Tue Jun 02 20:12:29 +0000 2009",
+      "favourites_count": 13248,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 17841,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1521957986335297536/itVSA7l0_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1521957986335297536/itVSA7l0_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1576183471",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 198,
+    "favorite_count": 5178,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

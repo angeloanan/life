@@ -1,0 +1,81 @@
+{
+  "2022-03-20": {},
+  "2022-03-21": {
+    "Software Development": 10492,
+    "Communication & Scheduling": 7779,
+    "Other Work": 7056,
+    "Design & Composition": 3062,
+    "Business": 3059,
+    "Uncategorized": 1603,
+    "Reference & Learning": 955,
+    "News & Opinion": 499,
+    "Utilities": 478,
+    "Social Networking": 316,
+    "Entertainment": 165
+  },
+  "2022-03-22": {
+    "Software Development": 17649,
+    "Other Work": 4446,
+    "Business": 3950,
+    "Communication & Scheduling": 2513,
+    "Uncategorized": 1835,
+    "Reference & Learning": 1773,
+    "Design & Composition": 643,
+    "Shopping": 440,
+    "News & Opinion": 356,
+    "Utilities": 287,
+    "Social Networking": 8
+  },
+  "2022-03-23": {
+    "Software Development": 12819,
+    "Communication & Scheduling": 7061,
+    "Other Work": 5744,
+    "Uncategorized": 3284,
+    "Business": 3237,
+    "Reference & Learning": 1074,
+    "Design & Composition": 785,
+    "Utilities": 466,
+    "Social Networking": 314,
+    "News & Opinion": 290,
+    "Shopping": 165,
+    "Entertainment": 114
+  },
+  "2022-03-24": {
+    "Software Development": 26878,
+    "Design & Composition": 2997,
+    "Communication & Scheduling": 2951,
+    "Other Work": 2232,
+    "Business": 1454,
+    "Uncategorized": 770,
+    "Reference & Learning": 380,
+    "Utilities": 207,
+    "Entertainment": 121,
+    "News & Opinion": 68,
+    "Social Networking": 11
+  },
+  "2022-03-25": {
+    "Software Development": 20939,
+    "Business": 3128,
+    "Communication & Scheduling": 1955,
+    "Other Work": 1472,
+    "Uncategorized": 842,
+    "Social Networking": 707,
+    "Reference & Learning": 705,
+    "Utilities": 540,
+    "Design & Composition": 365,
+    "News & Opinion": 58
+  },
+  "2022-03-26": {
+    "Software Development": 5126,
+    "Design & Composition": 2590,
+    "Communication & Scheduling": 2385,
+    "Business": 2312,
+    "Uncategorized": 1012,
+    "Utilities": 206,
+    "News & Opinion": 192,
+    "Reference & Learning": 170,
+    "Other Work": 131,
+    "Social Networking": 31,
+    "Shopping": 15
+  }
+}

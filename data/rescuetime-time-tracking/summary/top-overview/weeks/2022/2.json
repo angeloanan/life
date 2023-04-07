@@ -1,0 +1,91 @@
+{
+  "2022-01-2": {
+    "Software Development": 2137,
+    "Communication & Scheduling": 268,
+    "Reference & Learning": 101,
+    "Social Networking": 84,
+    "Entertainment": 55,
+    "News & Opinion": 46,
+    "Utilities": 41,
+    "Uncategorized": 37,
+    "Shopping": 9,
+    "Business": 8,
+    "Design & Composition": 1
+  },
+  "2022-01-3": {
+    "Communication & Scheduling": 12589,
+    "Software Development": 4611,
+    "Uncategorized": 3146,
+    "Utilities": 2154,
+    "Reference & Learning": 1604,
+    "Design & Composition": 1289,
+    "Business": 1050,
+    "Social Networking": 870,
+    "Entertainment": 377,
+    "News & Opinion": 359,
+    "Shopping": 303
+  },
+  "2022-01-4": {
+    "Communication & Scheduling": 8216,
+    "Software Development": 7939,
+    "Design & Composition": 2783,
+    "Reference & Learning": 1798,
+    "Uncategorized": 1092,
+    "Business": 869,
+    "News & Opinion": 817,
+    "Utilities": 288,
+    "Entertainment": 284,
+    "Shopping": 268,
+    "Social Networking": 4
+  },
+  "2022-01-5": {
+    "Communication & Scheduling": 8065,
+    "Software Development": 821,
+    "Entertainment": 650,
+    "Uncategorized": 315,
+    "Reference & Learning": 286,
+    "Design & Composition": 205,
+    "Shopping": 122,
+    "Utilities": 114,
+    "News & Opinion": 87,
+    "Business": 1
+  },
+  "2022-01-6": {
+    "Communication & Scheduling": 14338,
+    "Utilities": 6728,
+    "Uncategorized": 4079,
+    "Software Development": 3285,
+    "Business": 3023,
+    "Reference & Learning": 1870,
+    "Social Networking": 653,
+    "Design & Composition": 600,
+    "Entertainment": 220,
+    "News & Opinion": 207
+  },
+  "2022-01-7": {
+    "Communication & Scheduling": 9235,
+    "Uncategorized": 2972,
+    "Software Development": 2470,
+    "Business": 1214,
+    "Reference & Learning": 926,
+    "Shopping": 705,
+    "Design & Composition": 664,
+    "News & Opinion": 519,
+    "Utilities": 475,
+    "Social Networking": 402,
+    "Entertainment": 15
+  },
+  "2022-01-8": {
+    "Software Development": 8393,
+    "Communication & Scheduling": 6586,
+    "Uncategorized": 625,
+    "Design & Composition": 498,
+    "Reference & Learning": 498,
+    "Entertainment": 468,
+    "Utilities": 289,
+    "Business": 157,
+    "Social Networking": 128,
+    "News & Opinion": 110,
+    "Shopping": 6
+  }
+}

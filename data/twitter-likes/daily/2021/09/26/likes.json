@@ -1,0 +1,299 @@
+[
+  {
+    "created_at": "Sun Sep 26 18:34:30 +0000 2021",
+    "id": 1442195892493111300,
+    "id_str": "1442195892493111296",
+    "text": "If this is how they handle a smaller notch imagine how big the icons would be for a hole punch…😂 https://t.co/8BQJKvvLao",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1442195884125528000,
+          "id_str": "1442195884125528066",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/FAO1g_nVIAIuO7C.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FAO1g_nVIAIuO7C.jpg",
+          "url": "https://t.co/8BQJKvvLao",
+          "display_url": "pic.twitter.com/8BQJKvvLao",
+          "expanded_url": "https://twitter.com/TailosiveTech/status/1442195892493111296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1442195884125528000,
+          "id_str": "1442195884125528066",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/FAO1g_nVIAIuO7C.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FAO1g_nVIAIuO7C.jpg",
+          "url": "https://t.co/8BQJKvvLao",
+          "display_url": "pic.twitter.com/8BQJKvvLao",
+          "expanded_url": "https://twitter.com/TailosiveTech/status/1442195892493111296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            }
+          }
+        },
+        {
+          "id": 1442195884121358300,
+          "id_str": "1442195884121358339",
+          "indices": [
+            97,
+            120
+          ],
+          "media_url": "http://pbs.twimg.com/media/FAO1g_mVgAMTo4G.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FAO1g_mVgAMTo4G.jpg",
+          "url": "https://t.co/8BQJKvvLao",
+          "display_url": "pic.twitter.com/8BQJKvvLao",
+          "expanded_url": "https://twitter.com/TailosiveTech/status/1442195892493111296/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1280,
+              "h": 720,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2881142534,
+      "id_str": "2881142534",
+      "name": "Tailosive Tech",
+      "screen_name": "TailosiveTech",
+      "location": "United States",
+      "description": "I make opinionated videos about Tech (mostly Apple)",
+      "url": "https://t.co/mRtm2KBV0w",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/mRtm2KBV0w",
+              "expanded_url": "http://youtube.com/TailosiveTech",
+              "display_url": "youtube.com/TailosiveTech",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 36553,
+      "friends_count": 24,
+      "listed_count": 282,
+      "created_at": "Tue Oct 28 19:12:08 +0000 2014",
+      "favourites_count": 2138,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 12661,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1345004537929560068/ILRUpXWn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1345004537929560068/ILRUpXWn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2881142534/1609439500",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 94,
+    "favorite_count": 1925,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 26 17:54:36 +0000 2021",
+    "id": 1442185854424785000,
+    "id_str": "1442185854424784901",
+    "text": "My friend told me he was “playing a game of whack-a-mole” and I said “it’s pronounced ‘guacamole’” and now he won’t talk to me",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 69426451,
+      "id_str": "69426451",
+      "name": "Casey Newton",
+      "screen_name": "CaseyNewton",
+      "location": "San Francisco",
+      "description": "I write @platformer, a publication about big tech and democracy. | 1/8th of #Sidechannel | casey@platformer.news | instagram: @crumbler",
+      "url": "https://t.co/9lsZgIjBbh",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/9lsZgIjBbh",
+              "expanded_url": "https://www.platformer.news/",
+              "display_url": "platformer.news",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 142410,
+      "friends_count": 897,
+      "listed_count": 3643,
+      "created_at": "Thu Aug 27 22:37:09 +0000 2009",
+      "favourites_count": 221865,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 12129,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/69426451/1601674745",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 139,
+    "favorite_count": 1925,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

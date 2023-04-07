@@ -1,0 +1,79 @@
+{
+  "2022-06-5": {
+    "score": 66,
+    "score_activity_balance": 75,
+    "score_hrv_balance": 58,
+    "score_previous_day": 86,
+    "score_previous_night": 50,
+    "score_recovery_index": 44,
+    "score_resting_hr": 46,
+    "score_sleep_balance": 91,
+    "score_temperature": 98
+  },
+  "2022-06-6": {
+    "score": 65,
+    "score_activity_balance": 79,
+    "score_hrv_balance": 57,
+    "score_previous_day": 91,
+    "score_previous_night": 53,
+    "score_recovery_index": 58,
+    "score_resting_hr": 38,
+    "score_sleep_balance": 80,
+    "score_temperature": 83
+  },
+  "2022-06-7": {
+    "score": 51,
+    "score_activity_balance": 80,
+    "score_hrv_balance": 47,
+    "score_previous_day": 84,
+    "score_previous_night": 40,
+    "score_recovery_index": 1,
+    "score_resting_hr": 30,
+    "score_sleep_balance": 69,
+    "score_temperature": 100
+  },
+  "2022-06-8": {
+    "score": 60,
+    "score_activity_balance": 84,
+    "score_hrv_balance": 41,
+    "score_previous_day": 97,
+    "score_previous_night": 75,
+    "score_recovery_index": 64,
+    "score_resting_hr": 3,
+    "score_sleep_balance": 69,
+    "score_temperature": 96
+  },
+  "2022-06-9": {
+    "score": 53,
+    "score_activity_balance": 80,
+    "score_hrv_balance": 25,
+    "score_previous_day": 84,
+    "score_previous_night": 60,
+    "score_recovery_index": 74,
+    "score_resting_hr": 1,
+    "score_sleep_balance": 65,
+    "score_temperature": 95
+  },
+  "2022-06-10": {
+    "score": 51,
+    "score_activity_balance": 79,
+    "score_hrv_balance": 10,
+    "score_previous_day": 88,
+    "score_previous_night": 58,
+    "score_recovery_index": 79,
+    "score_resting_hr": 1,
+    "score_sleep_balance": 64,
+    "score_temperature": 83
+  },
+  "2022-06-11": {
+    "score": 53,
+    "score_activity_balance": 70,
+    "score_hrv_balance": 5,
+    "score_previous_day": 80,
+    "score_previous_night": 73,
+    "score_recovery_index": 55,
+    "score_resting_hr": 25,
+    "score_sleep_balance": 70,
+    "score_temperature": 86
+  }
+}

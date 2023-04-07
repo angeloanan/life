@@ -1,0 +1,216 @@
+[
+  {
+    "created_at": "Sat Mar 04 22:28:58 +0000 2023",
+    "id": 1632146140442288000,
+    "id_str": "1632146140442288128",
+    "text": "Making a Mess in Paris @yungblud https://t.co/fQ5ZZJ5FOR",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "yungblud",
+          "name": "YUNGBLUD",
+          "id": 1693633363,
+          "id_str": "1693633363",
+          "indices": [
+            23,
+            32
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1632146135312679000,
+          "id_str": "1632146135312678912",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/FqaMQzjWwAAdxeJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FqaMQzjWwAAdxeJ.jpg",
+          "url": "https://t.co/fQ5ZZJ5FOR",
+          "display_url": "pic.twitter.com/fQ5ZZJ5FOR",
+          "expanded_url": "https://twitter.com/AvrilLavigne/status/1632146140442288128/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1365,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1632146135312679000,
+          "id_str": "1632146135312678912",
+          "indices": [
+            33,
+            56
+          ],
+          "media_url": "http://pbs.twimg.com/media/FqaMQzjWwAAdxeJ.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FqaMQzjWwAAdxeJ.jpg",
+          "url": "https://t.co/fQ5ZZJ5FOR",
+          "display_url": "pic.twitter.com/fQ5ZZJ5FOR",
+          "expanded_url": "https://twitter.com/AvrilLavigne/status/1632146140442288128/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 800,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1365,
+              "h": 2048,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 73992972,
+      "id_str": "73992972",
+      "name": "Avril Lavigne",
+      "screen_name": "AvrilLavigne",
+      "location": "",
+      "description": "Love Sux Europe Tour this April 12 to May 10 🧡🖤",
+      "url": "https://t.co/TMXV3GzaOU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/TMXV3GzaOU",
+              "expanded_url": "https://linktr.ee/avril.lavigne",
+              "display_url": "linktr.ee/avril.lavigne",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 20458134,
+      "friends_count": 151,
+      "listed_count": 40478,
+      "created_at": "Sun Sep 13 22:43:00 +0000 2009",
+      "favourites_count": 946,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 4649,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "100C0B",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme10/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1628125179326128128/Skv5jQ01_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1628125179326128128/Skv5jQ01_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/73992972/1669392039",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "1A1A17",
+      "profile_text_color": "ABABAB",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "09f6a7707f18e0b1",
+      "url": "https://api.twitter.com/1.1/geo/id/09f6a7707f18e0b1.json",
+      "place_type": "city",
+      "name": "Paris",
+      "full_name": "Paris, France",
+      "country_code": "FR",
+      "country": "France",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              2.2241006,
+              48.8155214
+            ],
+            [
+              2.4699053,
+              48.8155214
+            ],
+            [
+              2.4699053,
+              48.9021461
+            ],
+            [
+              2.2241006,
+              48.9021461
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1040,
+    "favorite_count": 10467,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

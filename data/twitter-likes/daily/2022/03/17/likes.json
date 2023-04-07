@@ -1,0 +1,643 @@
+[
+  {
+    "created_at": "Thu Mar 17 23:14:39 +0000 2022",
+    "id": 1504597109642723300,
+    "id_str": "1504597109642723340",
+    "text": "Please help. \n\nI've been taking everyone's great startup advice to \"hire slow, fire fast\" and now I have negative 7… https://t.co/qm1g3iyku3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/qm1g3iyku3",
+          "expanded_url": "https://twitter.com/i/web/status/1504597109642723340",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1361124510,
+      "id_str": "1361124510",
+      "name": "Chris Bakke",
+      "screen_name": "ChrisJBakke",
+      "location": "Danville, CA",
+      "description": "Founder: https://t.co/xt1Nz7k2Jo - the best way to find + hire amazing people \n\nPrevious: exits to @Indeed @Zillow \n\nI invest in amazing founders and mediocre real estate",
+      "url": "https://t.co/Gt3UFaYOPE",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/Gt3UFaYOPE",
+              "expanded_url": "https://www.linkedin.com/in/bakk3/",
+              "display_url": "linkedin.com/in/bakk3/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/xt1Nz7k2Jo",
+              "expanded_url": "http://Laskie.com",
+              "display_url": "Laskie.com",
+              "indices": [
+                9,
+                32
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 72343,
+      "friends_count": 190,
+      "listed_count": 790,
+      "created_at": "Thu Apr 18 05:57:04 +0000 2013",
+      "favourites_count": 29162,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 2591,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1491961095136763905/Sd8XRL5__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1491961095136763905/Sd8XRL5__normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 44,
+    "favorite_count": 1237,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 21:03:07 +0000 2022",
+    "id": 1504564009378398200,
+    "id_str": "1504564009378398208",
+    "text": "My favorite thing about Single Sign On is that I get to sign on 20 times per day.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for iΟS</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 25858695,
+      "id_str": "25858695",
+      "name": "Armon Dadgar",
+      "screen_name": "armon",
+      "location": "Seattle, WA",
+      "description": "Co-founder of @hashicorp. Passionate about technology and startups. I love to build things. Married to @j_kalla",
+      "url": "https://t.co/oP0ktvP8ul",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/oP0ktvP8ul",
+              "expanded_url": "http://armondadgar.com",
+              "display_url": "armondadgar.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 26410,
+      "friends_count": 207,
+      "listed_count": 430,
+      "created_at": "Sun Mar 22 18:50:31 +0000 2009",
+      "favourites_count": 2456,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 2850,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1519825339215581184/-r5rZNeu_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1519825339215581184/-r5rZNeu_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/25858695/1651189966",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 549,
+    "favorite_count": 6441,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 16:11:22 +0000 2022",
+    "id": 1504490587633815600,
+    "id_str": "1504490587633815552",
+    "text": "🚨UPDATE🚨\n\nSince our Summer 21 launch, we’ve\n\nFunded 9️⃣ VC firms with $2️⃣6️⃣ million \n\nIncreased our own fund size… https://t.co/n2jfRu9Ob9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/n2jfRu9Ob9",
+          "expanded_url": "https://twitter.com/i/web/status/1504490587633815552",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://twitterrific.com/mac\" rel=\"nofollow\">Twitterrific for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1357539156189061000,
+      "id_str": "1357539156189061120",
+      "name": "Screendoor",
+      "screen_name": "screendoorvc",
+      "location": "",
+      "description": "Screendoor is changing the face(s) of venture capital by providing capital and advise to underrepresented, first time VC fund managers.",
+      "url": "https://t.co/FvPWxTRh1B",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/FvPWxTRh1B",
+              "expanded_url": "https://www.screendoorpartners.com",
+              "display_url": "screendoorpartners.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1053,
+      "friends_count": 0,
+      "listed_count": 24,
+      "created_at": "Fri Feb 05 03:59:15 +0000 2021",
+      "favourites_count": 89,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 86,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1402057512975699968/cb6ik0hK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1402057512975699968/cb6ik0hK_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "favorite_count": 100,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 15:27:55 +0000 2022",
+    "id": 1504479650612871200,
+    "id_str": "1504479650612871170",
+    "text": "Suuuper happy to finally share what we've been working on for the last year! We're introducing a new version of Cod… https://t.co/lm9KPhnIZE",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/lm9KPhnIZE",
+          "expanded_url": "https://twitter.com/i/web/status/1504479650612871170",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 153524496,
+      "id_str": "153524496",
+      "name": "Ives van Hoorne",
+      "screen_name": "CompuIves",
+      "location": "Amsterdam, The Netherlands",
+      "description": "Creator of @codesandbox and now working full-time on it! I like cookies 🍪🏳️‍🌈",
+      "url": "https://t.co/0jqdclPDaM",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0jqdclPDaM",
+              "expanded_url": "https://codesandbox.io",
+              "display_url": "codesandbox.io",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 25543,
+      "friends_count": 1500,
+      "listed_count": 448,
+      "created_at": "Tue Jun 08 19:52:16 +0000 2010",
+      "favourites_count": 18357,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 8098,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/911719483273867265/ceD742T-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/911719483273867265/ceD742T-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/153524496/1554973050",
+      "profile_link_color": "6CAEDD",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1504478335627268000,
+    "quoted_status_id_str": "1504478335627268105",
+    "quoted_status": {
+      "created_at": "Thu Mar 17 15:22:41 +0000 2022",
+      "id": 1504478335627268000,
+      "id_str": "1504478335627268105",
+      "text": "We're thrilled to announce CodeSandbox Projects, a complete rewrite of CodeSandbox.\n\n🏃‍♂️ Run any project of any si… https://t.co/uHLi54StQH",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uHLi54StQH",
+            "expanded_url": "https://twitter.com/i/web/status/1504478335627268105",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 878680180050579500,
+        "id_str": "878680180050579457",
+        "name": "CodeSandbox",
+        "screen_name": "codesandbox",
+        "location": "",
+        "description": "Free, instant, collaborative sandboxes for rapid web development.\n\nApply for the beta: https://t.co/Iu3KSmXBUB.",
+        "url": "https://t.co/zupPncTJGH",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/zupPncTJGH",
+                "expanded_url": "https://codesandbox.io",
+                "display_url": "codesandbox.io",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/Iu3KSmXBUB",
+                "expanded_url": "http://projects.codesandbox.io",
+                "display_url": "projects.codesandbox.io",
+                "indices": [
+                  87,
+                  110
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 19867,
+        "friends_count": 39,
+        "listed_count": 284,
+        "created_at": "Sat Jun 24 18:24:14 +0000 2017",
+        "favourites_count": 2788,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": false,
+        "statuses_count": 1775,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1494320894939860994/2iqi6zZY_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1494320894939860994/2iqi6zZY_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878680180050579457/1645108840",
+        "profile_link_color": "6CAEDD",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 217,
+      "favorite_count": 1073,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 21,
+    "favorite_count": 290,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu Mar 17 03:51:43 +0000 2022",
+    "id": 1504304446796595200,
+    "id_str": "1504304446796595204",
+    "text": "Nice one by @AnandChowdhary over at @css!\n \nhttps://t.co/YYKUHspwdf",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "AnandChowdhary",
+          "name": "Anand Chowdhary",
+          "id": 39725981,
+          "id_str": "39725981",
+          "indices": [
+            12,
+            27
+          ]
+        },
+        {
+          "screen_name": "css",
+          "name": "CSS-Tricks",
+          "id": 285019665,
+          "id_str": "285019665",
+          "indices": [
+            36,
+            40
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/YYKUHspwdf",
+          "expanded_url": "https://css-tricks.com/explain-the-first-10-lines-of-twitter-source-code/",
+          "display_url": "css-tricks.com/explain-the-fi…",
+          "indices": [
+            44,
+            67
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 36378967,
+      "id_str": "36378967",
+      "name": "🛠 Shreshth Mohan",
+      "screen_name": "shreshthmohan",
+      "location": "Bangalore",
+      "description": "Freelancing as a web developer. d3.js, JavaScript (and frameworks), SVG, Tailwind CSS are my preferred technologies.",
+      "url": "https://t.co/C7i9YS6skS",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/C7i9YS6skS",
+              "expanded_url": "https://shreshth.dev/",
+              "display_url": "shreshth.dev",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 322,
+      "friends_count": 461,
+      "listed_count": 12,
+      "created_at": "Wed Apr 29 15:06:23 +0000 2009",
+      "favourites_count": 3487,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3681,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1504551488429125632/BZqJtKhM_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1504551488429125632/BZqJtKhM_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/36378967/1433168912",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

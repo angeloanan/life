@@ -1,0 +1,230 @@
+[
+  {
+    "created_at": "Sat Jun 12 15:44:20 +0000 2021",
+    "id": 1403739957299011600,
+    "id_str": "1403739957299011591",
+    "text": "This is a bad take. \n\nTaking your foot off the gas can slow things down so decisions can be better made. \n\nNo race… https://t.co/fAfZxHMVPu",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/fAfZxHMVPu",
+          "expanded_url": "https://twitter.com/i/web/status/1403739957299011591",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 5469512,
+      "id_str": "5469512",
+      "name": "Micah Baldwin",
+      "screen_name": "micah",
+      "location": "Seattle, WA",
+      "description": "Executive Coach @HighOutput_. Repeat Founder. Angel Investor. Crypto  @crisisdao Focus: mental health, kindness, and creativity. ex-@madronaventures @amazon",
+      "url": "https://t.co/p2S52zDpjU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/p2S52zDpjU",
+              "expanded_url": "http://www.micahbaldwin.com",
+              "display_url": "micahbaldwin.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 23475,
+      "friends_count": 2044,
+      "listed_count": 1355,
+      "created_at": "Tue Apr 24 16:18:35 +0000 2007",
+      "favourites_count": 58078,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 17982,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1471B8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1311712680785244165/JTK-1ocl_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1311712680785244165/JTK-1ocl_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/5469512/1561311870",
+      "profile_link_color": "1741E8",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "A4D6C6",
+      "profile_text_color": "7D8A3A",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": {
+      "id": "300bcc6e23a88361",
+      "url": "https://api.twitter.com/1.1/geo/id/300bcc6e23a88361.json",
+      "place_type": "city",
+      "name": "Seattle",
+      "full_name": "Seattle, WA",
+      "country_code": "US",
+      "country": "United States",
+      "contained_within": [],
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.436232,
+              47.4953154
+            ],
+            [
+              -122.2249728,
+              47.4953154
+            ],
+            [
+              -122.2249728,
+              47.734319
+            ],
+            [
+              -122.436232,
+              47.734319
+            ]
+          ]
+        ]
+      },
+      "attributes": {}
+    },
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1274711734826217500,
+    "quoted_status_id_str": "1274711734826217473",
+    "quoted_status": {
+      "created_at": "Sun Jun 21 14:32:15 +0000 2020",
+      "id": 1274711734826217500,
+      "id_str": "1274711734826217473",
+      "text": "In startups, if you take your foot off the pedal, the default mode is reverse, not neutral.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://buffer.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 219821581,
+        "id_str": "219821581",
+        "name": "domm",
+        "screen_name": "domm",
+        "location": "🇦🇺 in 🇺🇸",
+        "description": "worlds @fast-est ceo",
+        "url": "https://t.co/NQQOb9c272",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/NQQOb9c272",
+                "expanded_url": "http://fast.co/domm",
+                "display_url": "fast.co/domm",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 36424,
+        "friends_count": 338,
+        "listed_count": 519,
+        "created_at": "Thu Nov 25 23:59:46 +0000 2010",
+        "favourites_count": 52017,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 12468,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1289349460896542720/GOI0uwwK_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1289349460896542720/GOI0uwwK_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/219821581/1611006176",
+        "profile_link_color": "75C3A9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 706,
+      "favorite_count": 3384,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 41,
+    "favorite_count": 370,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

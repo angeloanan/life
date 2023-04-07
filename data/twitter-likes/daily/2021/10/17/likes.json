@@ -1,0 +1,817 @@
+[
+  {
+    "created_at": "Sun Oct 17 19:35:25 +0000 2021",
+    "id": 1449821367734444000,
+    "id_str": "1449821367734444033",
+    "text": "✨ Nomad List sign ups are up by +26% since adding @Stripe Checkout\n\n🧪 I am not going to say this is scientifically… https://t.co/Kg9vcG1wYp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "stripe",
+          "name": "Stripe",
+          "id": 102812444,
+          "id_str": "102812444",
+          "indices": [
+            50,
+            57
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Kg9vcG1wYp",
+          "expanded_url": "https://twitter.com/i/web/status/1449821367734444033",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1577241403,
+      "id_str": "1577241403",
+      "name": "@levelsio",
+      "screen_name": "levelsio",
+      "location": "🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜️ 4M ARR",
+      "description": "🌍https://t.co/BjTozWjm86\n🛰https://t.co/t5KKicknWc\n👩‍💻https://t.co/2LTtgBn7hV\n🧔https://t.co/0lBrLiepEW\n📕https://t.co/67GOdk3EKA\n✈️https://t.co/igWjAuui5n\n💡https://t.co/5iD7kQtpkz\n🤳https://t.co/C6agjl1GL3\n📈https://t.co/8X1ZnmDIYE\n🛬https://t.co/m2hSA1o8SL\n\n#Bitcoin",
+      "url": "https://t.co/COas82Ohvh",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/COas82Ohvh",
+              "expanded_url": "http://levels.io/blog",
+              "display_url": "levels.io/blog",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/BjTozWjm86",
+              "expanded_url": "http://NomadList.com",
+              "display_url": "NomadList.com",
+              "indices": [
+                1,
+                24
+              ]
+            },
+            {
+              "url": "https://t.co/t5KKicknWc",
+              "expanded_url": "http://remoteOK.com",
+              "display_url": "remoteOK.com",
+              "indices": [
+                26,
+                49
+              ]
+            },
+            {
+              "url": "https://t.co/2LTtgBn7hV",
+              "expanded_url": "http://workers.co",
+              "display_url": "workers.co",
+              "indices": [
+                53,
+                76
+              ]
+            },
+            {
+              "url": "https://t.co/0lBrLiepEW",
+              "expanded_url": "http://hoodmaps.com",
+              "display_url": "hoodmaps.com",
+              "indices": [
+                78,
+                101
+              ]
+            },
+            {
+              "url": "https://t.co/67GOdk3EKA",
+              "expanded_url": "http://MAKEbook.io",
+              "display_url": "MAKEbook.io",
+              "indices": [
+                103,
+                126
+              ]
+            },
+            {
+              "url": "https://t.co/igWjAuui5n",
+              "expanded_url": "http://AirlineList.com",
+              "display_url": "AirlineList.com",
+              "indices": [
+                129,
+                152
+              ]
+            },
+            {
+              "url": "https://t.co/5iD7kQtpkz",
+              "expanded_url": "http://ideasAI.net",
+              "display_url": "ideasAI.net",
+              "indices": [
+                154,
+                177
+              ]
+            },
+            {
+              "url": "https://t.co/C6agjl1GL3",
+              "expanded_url": "http://QRmn.co",
+              "display_url": "QRmn.co",
+              "indices": [
+                179,
+                202
+              ]
+            },
+            {
+              "url": "https://t.co/8X1ZnmDIYE",
+              "expanded_url": "http://InflationChart.com",
+              "display_url": "InflationChart.com",
+              "indices": [
+                204,
+                227
+              ]
+            },
+            {
+              "url": "https://t.co/m2hSA1o8SL",
+              "expanded_url": "http://rebase.co",
+              "display_url": "rebase.co",
+              "indices": [
+                229,
+                252
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 110698,
+      "friends_count": 180,
+      "listed_count": 2300,
+      "created_at": "Mon Jul 08 09:31:59 +0000 2013",
+      "favourites_count": 70084,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 90251,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1441044961957343232/Sl1U4tSw_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1441044961957343232/Sl1U4tSw_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577241403/1634371258",
+      "profile_link_color": "FF473F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1447577868054061000,
+    "quoted_status_id_str": "1447577868054061057",
+    "quoted_status": {
+      "created_at": "Mon Oct 11 15:00:33 +0000 2021",
+      "id": 1447577868054061000,
+      "id_str": "1447577868054061057",
+      "text": "✨ Finally migrated https://t.co/VbTTH3ltoQ from Stripe Elements (in-page payments) to @Stripe Checkout (Stripe-host… https://t.co/8kvplXCM8t",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "stripe",
+            "name": "Stripe",
+            "id": 102812444,
+            "id_str": "102812444",
+            "indices": [
+              86,
+              93
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/VbTTH3ltoQ",
+            "expanded_url": "http://nomadlist.com",
+            "display_url": "nomadlist.com",
+            "indices": [
+              19,
+              42
+            ]
+          },
+          {
+            "url": "https://t.co/8kvplXCM8t",
+            "expanded_url": "https://twitter.com/i/web/status/1447577868054061057",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 1577241403,
+        "id_str": "1577241403",
+        "name": "@levelsio",
+        "screen_name": "levelsio",
+        "location": "🟩🟩🟩🟩🟩🟩🟩🟩🟨⬜️ 4M ARR",
+        "description": "🌍https://t.co/BjTozWjm86\n🛰https://t.co/t5KKicknWc\n👩‍💻https://t.co/2LTtgBn7hV\n🧔https://t.co/0lBrLiepEW\n📕https://t.co/67GOdk3EKA\n✈️https://t.co/igWjAuui5n\n💡https://t.co/5iD7kQtpkz\n🤳https://t.co/C6agjl1GL3\n📈https://t.co/8X1ZnmDIYE\n🛬https://t.co/m2hSA1o8SL\n\n#Bitcoin",
+        "url": "https://t.co/COas82Ohvh",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/COas82Ohvh",
+                "expanded_url": "http://levels.io/blog",
+                "display_url": "levels.io/blog",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/BjTozWjm86",
+                "expanded_url": "http://NomadList.com",
+                "display_url": "NomadList.com",
+                "indices": [
+                  1,
+                  24
+                ]
+              },
+              {
+                "url": "https://t.co/t5KKicknWc",
+                "expanded_url": "http://remoteOK.com",
+                "display_url": "remoteOK.com",
+                "indices": [
+                  26,
+                  49
+                ]
+              },
+              {
+                "url": "https://t.co/2LTtgBn7hV",
+                "expanded_url": "http://workers.co",
+                "display_url": "workers.co",
+                "indices": [
+                  53,
+                  76
+                ]
+              },
+              {
+                "url": "https://t.co/0lBrLiepEW",
+                "expanded_url": "http://hoodmaps.com",
+                "display_url": "hoodmaps.com",
+                "indices": [
+                  78,
+                  101
+                ]
+              },
+              {
+                "url": "https://t.co/67GOdk3EKA",
+                "expanded_url": "http://MAKEbook.io",
+                "display_url": "MAKEbook.io",
+                "indices": [
+                  103,
+                  126
+                ]
+              },
+              {
+                "url": "https://t.co/igWjAuui5n",
+                "expanded_url": "http://AirlineList.com",
+                "display_url": "AirlineList.com",
+                "indices": [
+                  129,
+                  152
+                ]
+              },
+              {
+                "url": "https://t.co/5iD7kQtpkz",
+                "expanded_url": "http://ideasAI.net",
+                "display_url": "ideasAI.net",
+                "indices": [
+                  154,
+                  177
+                ]
+              },
+              {
+                "url": "https://t.co/C6agjl1GL3",
+                "expanded_url": "http://QRmn.co",
+                "display_url": "QRmn.co",
+                "indices": [
+                  179,
+                  202
+                ]
+              },
+              {
+                "url": "https://t.co/8X1ZnmDIYE",
+                "expanded_url": "http://InflationChart.com",
+                "display_url": "InflationChart.com",
+                "indices": [
+                  204,
+                  227
+                ]
+              },
+              {
+                "url": "https://t.co/m2hSA1o8SL",
+                "expanded_url": "http://rebase.co",
+                "display_url": "rebase.co",
+                "indices": [
+                  229,
+                  252
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 110698,
+        "friends_count": 180,
+        "listed_count": 2300,
+        "created_at": "Mon Jul 08 09:31:59 +0000 2013",
+        "favourites_count": 70084,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 90251,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FFFFFF",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1441044961957343232/Sl1U4tSw_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1441044961957343232/Sl1U4tSw_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577241403/1634371258",
+        "profile_link_color": "FF473F",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 17,
+      "favorite_count": 393,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 15,
+    "favorite_count": 302,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 17 18:02:45 +0000 2021",
+    "id": 1449798047790207000,
+    "id_str": "1449798047790206982",
+    "text": "We are happy to announce our very first hybrid meeting! \nNovember 9th, the Dutch #DevOps &amp; #GitHub community is hap… https://t.co/M4fV9X9g5V",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "DevOps",
+          "indices": [
+            81,
+            88
+          ]
+        },
+        {
+          "text": "GitHub",
+          "indices": [
+            95,
+            102
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/M4fV9X9g5V",
+          "expanded_url": "https://twitter.com/i/web/status/1449798047790206982",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            121,
+            144
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1272806875168477200,
+      "id_str": "1272806875168477186",
+      "name": "ddog_nl",
+      "screen_name": "ddog_nl",
+      "location": "",
+      "description": "Dutch DevOps & GitHub Community",
+      "url": "https://t.co/uocPkwxYRp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/uocPkwxYRp",
+              "expanded_url": "https://ddog.nl/",
+              "display_url": "ddog.nl",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 205,
+      "friends_count": 21,
+      "listed_count": 3,
+      "created_at": "Tue Jun 16 08:23:05 +0000 2020",
+      "favourites_count": 110,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 106,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1396083644272422913/6XNZr6fk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1396083644272422913/6XNZr6fk_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 20,
+    "favorited": true,
+    "retweeted": true,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 17 14:18:18 +0000 2021",
+    "id": 1449741566193528800,
+    "id_str": "1449741566193528832",
+    "text": "Only in India: Companies offering crypto (unregulated assets / trading commodities in India) are advertising on mai… https://t.co/1OZ5CVS05r",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/1OZ5CVS05r",
+          "expanded_url": "https://twitter.com/i/web/status/1449741566193528832",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3115134108,
+      "id_str": "3115134108",
+      "name": "Rahul Mathur",
+      "screen_name": "Rahul_J_Mathur",
+      "location": "Nariman Point, Mumbai",
+      "description": "Founder & CEO - @VerakInsurance 🇮🇳\n\nViews are my own; hiring ReactJS devs (DMs open)",
+      "url": "https://t.co/rcJEB6HRmJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rcJEB6HRmJ",
+              "expanded_url": "https://www.verak.in/",
+              "display_url": "verak.in",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 44091,
+      "friends_count": 2054,
+      "listed_count": 291,
+      "created_at": "Sun Mar 29 11:18:34 +0000 2015",
+      "favourites_count": 44199,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 14930,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1313228345325359106/D42GmgWT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1313228345325359106/D42GmgWT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3115134108/1631684571",
+      "profile_link_color": "981CEB",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "favorite_count": 347,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 17 12:52:50 +0000 2021",
+    "id": 1449720056942710800,
+    "id_str": "1449720056942710784",
+    "text": "Can we all agree that:\n\n“This organization consists of 20,000 people.\n\nWe found the most frustrated fifteen people… https://t.co/V0LcEkYCx4",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/V0LcEkYCx4",
+          "expanded_url": "https://twitter.com/i/web/status/1449720056942710784",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 221838349,
+      "id_str": "221838349",
+      "name": "Austen Allred",
+      "screen_name": "Austen",
+      "location": "The Metaverse",
+      "description": "CEO @BloomTech: The American Dream as a Service",
+      "url": "https://t.co/YLNpAtVBHX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/YLNpAtVBHX",
+              "expanded_url": "https://austenallred.com",
+              "display_url": "austenallred.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 185245,
+      "friends_count": 656,
+      "listed_count": 3345,
+      "created_at": "Wed Dec 01 19:13:23 +0000 2010",
+      "favourites_count": 66440,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 25174,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1430366450053652480/uRMrWCcc_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1430366450053652480/uRMrWCcc_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/221838349/1622098809",
+      "profile_link_color": "2FC2EF",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "252429",
+      "profile_text_color": "666666",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 68,
+    "favorite_count": 1133,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Oct 17 12:24:08 +0000 2021",
+    "id": 1449712833348972500,
+    "id_str": "1449712833348972552",
+    "text": "*MacBook Pro gets notch*\n\nFORBES: Apple Reveals New MacBook Pro With Nasty Surprise",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14987180,
+      "id_str": "14987180",
+      "name": "Joe Rossignol",
+      "screen_name": "rsgnl",
+      "location": "Toronto, Canada area",
+      "description": "Senior News Reporter at @MacRumors. Apple reporter since 2008. Passionate about breaking news. Previously: @9to5Mac",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14322,
+      "friends_count": 1332,
+      "listed_count": 349,
+      "created_at": "Tue Jun 03 00:33:26 +0000 2008",
+      "favourites_count": 6361,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 15593,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1317306091097739264/ZiKut8P7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1317306091097739264/ZiKut8P7_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14987180/1605011366",
+      "profile_link_color": "50AEF2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "292929",
+      "profile_text_color": "B3B3B3",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 64,
+    "favorite_count": 1525,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

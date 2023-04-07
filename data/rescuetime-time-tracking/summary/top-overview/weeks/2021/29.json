@@ -1,0 +1,91 @@
+{
+  "2021-07-11": {
+    "Software Development": 4301,
+    "Communication & Scheduling": 1816,
+    "Business": 1661,
+    "Utilities": 1520,
+    "News & Opinion": 1102,
+    "Reference & Learning": 852,
+    "Uncategorized": 848,
+    "Shopping": 118,
+    "Entertainment": 92,
+    "Design & Composition": 39,
+    "Social Networking": 22
+  },
+  "2021-07-12": {
+    "Software Development": 12372,
+    "Communication & Scheduling": 8184,
+    "Design & Composition": 5645,
+    "Business": 3011,
+    "Uncategorized": 1991,
+    "Reference & Learning": 1553,
+    "Utilities": 951,
+    "News & Opinion": 480,
+    "Shopping": 299,
+    "Social Networking": 178,
+    "Entertainment": 50
+  },
+  "2021-07-13": {
+    "Software Development": 16710,
+    "Communication & Scheduling": 13176,
+    "Business": 6324,
+    "Reference & Learning": 1396,
+    "Design & Composition": 1385,
+    "Utilities": 766,
+    "Shopping": 674,
+    "Uncategorized": 520,
+    "News & Opinion": 218,
+    "Social Networking": 144
+  },
+  "2021-07-14": {
+    "Software Development": 16292,
+    "Communication & Scheduling": 13903,
+    "Business": 3006,
+    "Reference & Learning": 1530,
+    "Design & Composition": 1290,
+    "Uncategorized": 840,
+    "Utilities": 649,
+    "News & Opinion": 408,
+    "Entertainment": 258,
+    "Shopping": 217,
+    "Social Networking": 121
+  },
+  "2021-07-15": {
+    "Communication & Scheduling": 17747,
+    "Software Development": 13066,
+    "Business": 2735,
+    "Uncategorized": 997,
+    "Design & Composition": 695,
+    "Reference & Learning": 559,
+    "Utilities": 509,
+    "Shopping": 400,
+    "Social Networking": 209,
+    "News & Opinion": 76
+  },
+  "2021-07-16": {
+    "Communication & Scheduling": 13295,
+    "Design & Composition": 8985,
+    "Software Development": 6920,
+    "Business": 3248,
+    "Reference & Learning": 2213,
+    "Uncategorized": 1184,
+    "Social Networking": 614,
+    "Utilities": 522,
+    "News & Opinion": 137,
+    "Entertainment": 38,
+    "Shopping": 28
+  },
+  "2021-07-17": {
+    "Communication & Scheduling": 9196,
+    "Reference & Learning": 6155,
+    "Design & Composition": 5834,
+    "Software Development": 4375,
+    "Uncategorized": 2966,
+    "Utilities": 963,
+    "Business": 740,
+    "News & Opinion": 286,
+    "Social Networking": 253,
+    "Shopping": 210,
+    "Entertainment": 143
+  }
+}

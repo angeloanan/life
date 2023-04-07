@@ -1,0 +1,92 @@
+{
+  "2022-07-17": {
+    "Utilities": 2738,
+    "Reference & Learning": 2580,
+    "Software Development": 2343,
+    "Communication & Scheduling": 1374,
+    "Design & Composition": 586,
+    "Entertainment": 573,
+    "Other Work": 401,
+    "Business": 256,
+    "Uncategorized": 213,
+    "News & Opinion": 96
+  },
+  "2022-07-18": {
+    "Communication & Scheduling": 11071,
+    "Software Development": 9880,
+    "Reference & Learning": 3072,
+    "Other Work": 2317,
+    "Uncategorized": 1744,
+    "Business": 1594,
+    "Design & Composition": 900,
+    "News & Opinion": 479,
+    "Utilities": 474,
+    "Shopping": 372,
+    "Social Networking": 178,
+    "Entertainment": 5
+  },
+  "2022-07-19": {
+    "Communication & Scheduling": 7246,
+    "Software Development": 2742,
+    "Other Work": 1914,
+    "Design & Composition": 675,
+    "Utilities": 568,
+    "Reference & Learning": 254,
+    "Uncategorized": 51,
+    "Business": 38
+  },
+  "2022-07-20": {
+    "Utilities": 5480,
+    "Communication & Scheduling": 5363,
+    "Business": 4694,
+    "Software Development": 3065,
+    "Other Work": 828,
+    "Design & Composition": 432,
+    "Reference & Learning": 289,
+    "Social Networking": 154,
+    "Uncategorized": 136,
+    "News & Opinion": 83,
+    "Shopping": 4
+  },
+  "2022-07-21": {
+    "Business": 9396,
+    "Communication & Scheduling": 5454,
+    "Software Development": 3043,
+    "Other Work": 2454,
+    "Design & Composition": 2176,
+    "Uncategorized": 2013,
+    "Utilities": 1981,
+    "Reference & Learning": 1570,
+    "Entertainment": 696,
+    "News & Opinion": 543,
+    "Shopping": 229,
+    "Social Networking": 87
+  },
+  "2022-07-22": {
+    "Utilities": 8535,
+    "Business": 4960,
+    "Communication & Scheduling": 4688,
+    "Software Development": 2883,
+    "Uncategorized": 2670,
+    "Other Work": 1827,
+    "Social Networking": 1151,
+    "Design & Composition": 1006,
+    "Reference & Learning": 856,
+    "Shopping": 227,
+    "News & Opinion": 77,
+    "Entertainment": 65
+  },
+  "2022-07-23": {
+    "Communication & Scheduling": 4809,
+    "Business": 2336,
+    "Other Work": 1653,
+    "Software Development": 1554,
+    "Reference & Learning": 841,
+    "Utilities": 429,
+    "Uncategorized": 353,
+    "News & Opinion": 149,
+    "Shopping": 95,
+    "Design & Composition": 53,
+    "Entertainment": 33
+  }
+}

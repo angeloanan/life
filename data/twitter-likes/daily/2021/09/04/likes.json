@@ -1,0 +1,571 @@
+[
+  {
+    "created_at": "Sat Sep 04 18:58:24 +0000 2021",
+    "id": 1434229375860240400,
+    "id_str": "1434229375860240385",
+    "text": "VSCode now has bracket pair colorization natively baked in! Aims to be faster than the popular Bracket Pair Coloriz… https://t.co/uyETKZo8JL",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/uyETKZo8JL",
+          "expanded_url": "https://twitter.com/i/web/status/1434229375860240385",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 35432643,
+      "id_str": "35432643",
+      "name": "Addy Osmani",
+      "screen_name": "addyosmani",
+      "location": "Mountain View, CA",
+      "description": "Engineering Manager working on @GoogleChrome • Husband & Dad • Make the web fast ⚡• Lighthouse, PageSpeed Insights, CrUX, DevTools, Frameworks, Core Web Vitals",
+      "url": "https://t.co/BChNfDuYCy",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/BChNfDuYCy",
+              "expanded_url": "https://www.teejungle.net",
+              "display_url": "teejungle.net",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 269432,
+      "friends_count": 1853,
+      "listed_count": 7496,
+      "created_at": "Sun Apr 26 08:40:11 +0000 2009",
+      "favourites_count": 25683,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 24328,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1440848816228352002/9MNH0up6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1440848816228352002/9MNH0up6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/35432643/1539971599",
+      "profile_link_color": "3C9596",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "56E372",
+      "profile_text_color": "0A0A0A",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1183,
+    "favorite_count": 8295,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 04 18:45:48 +0000 2021",
+    "id": 1434226205327245300,
+    "id_str": "1434226205327245314",
+    "text": "Our app literally lets you invest in startups with Apple pay https://t.co/T1dJ1Kxecv",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/T1dJ1Kxecv",
+          "expanded_url": "https://twitter.com/andrew__rea/status/1434211272283807753",
+          "display_url": "twitter.com/andrew__rea/st…",
+          "indices": [
+            61,
+            84
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 728347697246142500,
+      "id_str": "728347697246142464",
+      "name": "Republic 🌎",
+      "screen_name": "joinrepublic",
+      "location": "New York, NY",
+      "description": "Invest in the future you believe in. Access startups, real estate, crypto & video games. Sign up to start investing👇🏼 For support: investors@republic.co",
+      "url": "https://t.co/iVbmlayqFJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/iVbmlayqFJ",
+              "expanded_url": "http://republic.co",
+              "display_url": "republic.co",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 39221,
+      "friends_count": 966,
+      "listed_count": 518,
+      "created_at": "Thu May 05 22:16:37 +0000 2016",
+      "favourites_count": 12776,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7302,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1422849410757767168/WWyT2tm6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1422849410757767168/WWyT2tm6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/728347697246142464/1614948825",
+      "profile_link_color": "1C4082",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1434211272283807700,
+    "quoted_status_id_str": "1434211272283807753",
+    "quoted_status": {
+      "created_at": "Sat Sep 04 17:46:28 +0000 2021",
+      "id": 1434211272283807700,
+      "id_str": "1434211272283807753",
+      "text": "Request for startups\n\nApple Pay but it lets me invest in startups.\n\nLike I want to just look at my phone &amp; wire money",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 898990607707852800,
+        "id_str": "898990607707852800",
+        "name": "Andrew Rea",
+        "screen_name": "andrew__rea",
+        "location": "NYC🗽 but mostly the internet",
+        "description": "Operator & Angel Investor | Working on & thinking about startups, investing, crypto, & education. Newsletter 👇",
+        "url": "https://t.co/mluqgfYbre",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/mluqgfYbre",
+                "expanded_url": "https://andrewrea.tech/newsletter",
+                "display_url": "andrewrea.tech/newsletter",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 1717,
+        "friends_count": 827,
+        "listed_count": 31,
+        "created_at": "Sat Aug 19 19:30:38 +0000 2017",
+        "favourites_count": 11930,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 4994,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "F5F8FA",
+        "profile_background_image_url": null,
+        "profile_background_image_url_https": null,
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1299777387090055168/EDcsoqRe_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1299777387090055168/EDcsoqRe_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/898990607707852800/1598401256",
+        "profile_link_color": "1DA1F2",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": true,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 28,
+      "favorite_count": 471,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 20,
+    "favorite_count": 358,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 04 16:41:25 +0000 2021",
+    "id": 1434194903307858000,
+    "id_str": "1434194903307857924",
+    "text": "What a chart, @ycombinator batch size over time! https://t.co/bE8EgGydNO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "ycombinator",
+          "name": "Y Combinator",
+          "id": 113130846,
+          "id_str": "113130846",
+          "indices": [
+            14,
+            26
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1434194900971556900,
+          "id_str": "1434194900971556867",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-dIqesWEAMDDIh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-dIqesWEAMDDIh.jpg",
+          "url": "https://t.co/bE8EgGydNO",
+          "display_url": "pic.twitter.com/bE8EgGydNO",
+          "expanded_url": "https://twitter.com/Bfaviero/status/1434194903307857924/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1174,
+              "h": 893,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1174,
+              "h": 893,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 517,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1434194900971556900,
+          "id_str": "1434194900971556867",
+          "indices": [
+            49,
+            72
+          ],
+          "media_url": "http://pbs.twimg.com/media/E-dIqesWEAMDDIh.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E-dIqesWEAMDDIh.jpg",
+          "url": "https://t.co/bE8EgGydNO",
+          "display_url": "pic.twitter.com/bE8EgGydNO",
+          "expanded_url": "https://twitter.com/Bfaviero/status/1434194903307857924/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1174,
+              "h": 893,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1174,
+              "h": 893,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 517,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 27169884,
+      "id_str": "27169884",
+      "name": "Bruno Faviero",
+      "screen_name": "Bfaviero",
+      "location": "San Francisco",
+      "description": "🇧🇷🇺🇸🏳️‍🌈 1st gen founder (x3), Investor (x60). Currently: Founder @MapleDiscounts, invest at Alloy Fund. Prev sold @SyntechCorp to @PalantirTech. @MIT.",
+      "url": "https://t.co/xsA1kAbmYt",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/xsA1kAbmYt",
+              "expanded_url": "https://maple.so/preview",
+              "display_url": "maple.so/preview",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4490,
+      "friends_count": 1630,
+      "listed_count": 61,
+      "created_at": "Sat Mar 28 03:30:02 +0000 2009",
+      "favourites_count": 16169,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 5281,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1426235016594419717/zj_9r3_9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1426235016594419717/zj_9r3_9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/27169884/1625713116",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "favorite_count": 211,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Sep 04 16:06:18 +0000 2021",
+    "id": 1434186066861379600,
+    "id_str": "1434186066861379593",
+    "text": "\"Do I criticize your clothes? I made peace with your clothes years ago.\"\n\n— Jessica",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 183749519,
+      "id_str": "183749519",
+      "name": "Paul Graham",
+      "screen_name": "paulg",
+      "location": "",
+      "description": "",
+      "url": "http://t.co/fDpOM1QB6e",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "http://t.co/fDpOM1QB6e",
+              "expanded_url": "http://paulgraham.com",
+              "display_url": "paulgraham.com",
+              "indices": [
+                0,
+                22
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1384271,
+      "friends_count": 645,
+      "listed_count": 13964,
+      "created_at": "Fri Aug 27 20:13:59 +0000 2010",
+      "favourites_count": 46941,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 26173,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "ECD078",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/183749519/1401332683",
+      "profile_link_color": "BA0013",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "542437",
+      "profile_text_color": "DD5036",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "favorite_count": 1158,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

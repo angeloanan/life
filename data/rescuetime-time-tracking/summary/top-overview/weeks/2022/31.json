@@ -1,0 +1,86 @@
+{
+  "2022-07-24": {
+    "Uncategorized": 1371,
+    "Software Development": 1009,
+    "Reference & Learning": 877,
+    "Communication & Scheduling": 555,
+    "Entertainment": 541,
+    "Social Networking": 390,
+    "Design & Composition": 284,
+    "Utilities": 169
+  },
+  "2022-07-25": {
+    "Software Development": 3977,
+    "Other Work": 2529,
+    "Utilities": 1123,
+    "Communication & Scheduling": 968,
+    "Business": 108,
+    "Uncategorized": 14,
+    "Design & Composition": 4,
+    "Social Networking": 1
+  },
+  "2022-07-26": {
+    "Software Development": 10225,
+    "Communication & Scheduling": 4969,
+    "Reference & Learning": 4799,
+    "Uncategorized": 2558,
+    "Other Work": 2225,
+    "Business": 1613,
+    "Design & Composition": 883,
+    "Social Networking": 330,
+    "News & Opinion": 324,
+    "Utilities": 296,
+    "Shopping": 205,
+    "Entertainment": 6
+  },
+  "2022-07-27": {
+    "Utilities": 6683,
+    "Communication & Scheduling": 4154,
+    "Business": 1694,
+    "Other Work": 732,
+    "Design & Composition": 252,
+    "Software Development": 233,
+    "Uncategorized": 59,
+    "Reference & Learning": 25
+  },
+  "2022-07-28": {
+    "Software Development": 9105,
+    "Communication & Scheduling": 3426,
+    "Reference & Learning": 1242,
+    "Uncategorized": 1192,
+    "Other Work": 1173,
+    "Business": 1068,
+    "Utilities": 959,
+    "Shopping": 410,
+    "News & Opinion": 238,
+    "Social Networking": 113,
+    "Design & Composition": 18
+  },
+  "2022-07-29": {
+    "Software Development": 11532,
+    "Communication & Scheduling": 3774,
+    "Design & Composition": 2824,
+    "Reference & Learning": 1623,
+    "Uncategorized": 1312,
+    "Business": 1253,
+    "Other Work": 1158,
+    "Utilities": 368,
+    "Shopping": 122,
+    "Entertainment": 117,
+    "News & Opinion": 56
+  },
+  "2022-07-30": {
+    "Software Development": 3443,
+    "Utilities": 2224,
+    "Design & Composition": 1938,
+    "Reference & Learning": 1521,
+    "Entertainment": 1082,
+    "Other Work": 754,
+    "Communication & Scheduling": 691,
+    "Uncategorized": 424,
+    "Shopping": 253,
+    "News & Opinion": 60,
+    "Business": 39,
+    "Social Networking": 27
+  }
+}

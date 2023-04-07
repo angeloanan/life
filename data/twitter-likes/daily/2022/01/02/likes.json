@@ -1,0 +1,114 @@
+[
+  {
+    "created_at": "Sun Jan 02 12:35:22 +0000 2022",
+    "id": 1477619524098834400,
+    "id_str": "1477619524098834442",
+    "text": "In Lisbon I went out for a meal. I had to have proof of a Covid test *that day*, but didn’t. So the restaurant sold… https://t.co/ZJ5qI5vW0m",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZJ5qI5vW0m",
+          "expanded_url": "https://twitter.com/i/web/status/1477619524098834442",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 13666,
+      "id_str": "13666",
+      "name": "Mike Butcher",
+      "screen_name": "mikebutcher",
+      "location": "London",
+      "description": "(MBE, FRSA) Editor-at-large + ClimateTech @TechCrunch mike@techcrunch.com Insta: mikebutcher LinkedIn: mikebutcher https://t.co/MT2suYbZfT",
+      "url": "https://t.co/fhdpgE8dVW",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/fhdpgE8dVW",
+              "expanded_url": "https://mikebutcher.me/2021/09/28/why-ill-be-covering-more-climate-and-social-impact-tech-in-the-fut",
+              "display_url": "mikebutcher.me/2021/09/28/why…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/MT2suYbZfT",
+              "expanded_url": "https://mikebutcher.me/newsletter",
+              "display_url": "mikebutcher.me/newsletter",
+              "indices": [
+                115,
+                138
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 148760,
+      "friends_count": 15334,
+      "listed_count": 5093,
+      "created_at": "Tue Nov 21 21:59:13 +0000 2006",
+      "favourites_count": 45324,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 92699,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/668390067094888448/w18aCM4M_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/668390067094888448/w18aCM4M_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/13666/1577445922",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2768,
+    "favorite_count": 22821,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

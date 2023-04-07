@@ -1,0 +1,577 @@
+[
+  {
+    "created_at": "Sat Oct 02 19:51:24 +0000 2021",
+    "id": 1444389575212814300,
+    "id_str": "1444389575212814339",
+    "text": "Design and implement your systems like you'll have to explain yourself to your daughter 20 years later\nhttps://t.co/DqipeMlFVa",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/DqipeMlFVa",
+          "expanded_url": "https://twitter.com/AlecMuffett/status/1444364285145239560",
+          "display_url": "twitter.com/AlecMuffett/st…",
+          "indices": [
+            103,
+            126
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 105233803,
+      "id_str": "105233803",
+      "name": "Esteban K�ber – 🦀⚙️",
+      "screen_name": "ekuber",
+      "location": "San Francisco, CA",
+      "description": "We spent decades trying to invent a sufficiently smart compiler when we should have been inventing a sufficiently empathetic one.\n💼 @awscloud, opinions my own",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 5632,
+      "friends_count": 4806,
+      "listed_count": 153,
+      "created_at": "Fri Jan 15 19:32:23 +0000 2010",
+      "favourites_count": 347882,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 34662,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "A1A8AB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1438568079156563969/MpuTzdpt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1438568079156563969/MpuTzdpt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/105233803/1604367090",
+      "profile_link_color": "00384D",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1444364285145239600,
+    "quoted_status_id_str": "1444364285145239560",
+    "quoted_status": {
+      "created_at": "Sat Oct 02 18:10:55 +0000 2021",
+      "id": 1444364285145239600,
+      "id_str": "1444364285145239560",
+      "text": "\"I regret ever Open Sourcing Java, for so many reasons.... mostly since my daughter is now coding.\"… https://t.co/FuecNg4xkx",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/FuecNg4xkx",
+            "expanded_url": "https://twitter.com/i/web/status/1444364285145239560",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              101,
+              124
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 4034271,
+        "id_str": "4034271",
+        "name": "Alec Muffett",
+        "screen_name": "AlecMuffett",
+        "location": "UK",
+        "description": "Cryptography, Systems & Network Security Engineering since ~1988; Full-time Dad. See link for biog & press resources. 'Everybody Deserves Good Security'.",
+        "url": "https://t.co/e9aqPBdtgE",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/e9aqPBdtgE",
+                "expanded_url": "https://alecmuffett.com/about",
+                "display_url": "alecmuffett.com/about",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 13176,
+        "friends_count": 3550,
+        "listed_count": 616,
+        "created_at": "Tue Apr 10 14:07:17 +0000 2007",
+        "favourites_count": 14102,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 72363,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/968073512731717632/HWo_YLQs_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/968073512731717632/HWo_YLQs_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4034271/1351877757",
+        "profile_link_color": "006400",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "regular",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 754,
+      "favorite_count": 2918,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 75,
+    "favorite_count": 393,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 02 18:20:44 +0000 2021",
+    "id": 1444366754650656800,
+    "id_str": "1444366754650656770",
+    "text": "Open source means each problem only has to be solved once.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 745273,
+      "id_str": "745273",
+      "name": "Naval",
+      "screen_name": "naval",
+      "location": "",
+      "description": "",
+      "url": "https://t.co/KXrMLevkZl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/KXrMLevkZl",
+              "expanded_url": "https://nav.al/",
+              "display_url": "nav.al",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1476297,
+      "friends_count": 0,
+      "listed_count": 19308,
+      "created_at": "Thu Feb 01 23:05:04 +0000 2007",
+      "favourites_count": 165561,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 24150,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1256841238298292232/ycqwaMI2_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/745273/1588490328",
+      "profile_link_color": "D02B55",
+      "profile_sidebar_border_color": "829D5E",
+      "profile_sidebar_fill_color": "99CC33",
+      "profile_text_color": "3E4415",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2100,
+    "favorite_count": 17991,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 02 12:41:59 +0000 2021",
+    "id": 1444281505430265900,
+    "id_str": "1444281505430265857",
+    "text": "I was looking at this and remembering how much fun everyone made of https://t.co/j55ome8AEI. It really sucks to be… https://t.co/m5xyPQxEId",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/j55ome8AEI",
+          "expanded_url": "http://pets.com",
+          "display_url": "pets.com",
+          "indices": [
+            68,
+            91
+          ]
+        },
+        {
+          "url": "https://t.co/m5xyPQxEId",
+          "expanded_url": "https://twitter.com/i/web/status/1444281505430265857",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 676573,
+      "id_str": "676573",
+      "name": "Tobi Lütke",
+      "screen_name": "tobi",
+      "location": "Canada",
+      "description": "@Shopify CEO by day, Dad in the evening, hacker at night. - Rails alumni; Comprehensivist. I like video games. (All tweets auto delete after 1y)",
+      "url": "https://t.co/12ydYvvvHl",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/12ydYvvvHl",
+              "expanded_url": "http://tobi.lutke.com",
+              "display_url": "tobi.lutke.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 216709,
+      "friends_count": 1793,
+      "listed_count": 2922,
+      "created_at": "Sun Jan 21 20:23:15 +0000 2007",
+      "favourites_count": 4231,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 5192,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1334615192051789828/kLUeSvAn_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334615192051789828/kLUeSvAn_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/676573/1610140013",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 645,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Oct 02 00:25:04 +0000 2021",
+    "id": 1444096057491685400,
+    "id_str": "1444096057491685383",
+    "text": "Too candid? https://t.co/VIeAGtvdLu",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1444096053918138400,
+          "id_str": "1444096053918138371",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/FAp1tbtVgAMtAp8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FAp1tbtVgAMtAp8.jpg",
+          "url": "https://t.co/VIeAGtvdLu",
+          "display_url": "pic.twitter.com/VIeAGtvdLu",
+          "expanded_url": "https://twitter.com/Jason/status/1444096057491685383/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1444096053918138400,
+          "id_str": "1444096053918138371",
+          "indices": [
+            12,
+            35
+          ],
+          "media_url": "http://pbs.twimg.com/media/FAp1tbtVgAMtAp8.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FAp1tbtVgAMtAp8.jpg",
+          "url": "https://t.co/VIeAGtvdLu",
+          "display_url": "pic.twitter.com/VIeAGtvdLu",
+          "expanded_url": "https://twitter.com/Jason/status/1444096057491685383/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 314,
+              "h": 680,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 554,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 946,
+              "h": 2048,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3840,
+      "id_str": "3840",
+      "name": "jason@calacanis.com",
+      "screen_name": "Jason",
+      "location": "California, USA",
+      "description": "meme dealer; investing in startups like @uber @thumbtack @robinhoodapp @desktopmetal @calm @densityio; dealflow https://t.co/6leeScky9Y pod   @twistartups @theallinpod",
+      "url": "https://t.co/bGm4KYIWyS",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/bGm4KYIWyS",
+              "expanded_url": "https://linktr.ee/calacanis",
+              "display_url": "linktr.ee/calacanis",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/6leeScky9Y",
+              "expanded_url": "http://thesyndicate.com",
+              "display_url": "thesyndicate.com",
+              "indices": [
+                112,
+                135
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 455145,
+      "friends_count": 9402,
+      "listed_count": 14049,
+      "created_at": "Sat Aug 05 23:31:27 +0000 2006",
+      "favourites_count": 96532,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 33187,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1296864605269000192/tRBPfyJN_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1296864605269000192/tRBPfyJN_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3840/1597977843",
+      "profile_link_color": "FF9900",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 175,
+    "favorite_count": 5360,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

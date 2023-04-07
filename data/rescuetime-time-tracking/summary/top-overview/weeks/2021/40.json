@@ -1,0 +1,81 @@
+{
+  "2021-09-26": {
+    "Software Development": 10670,
+    "Utilities": 3944,
+    "Communication & Scheduling": 1775,
+    "Design & Composition": 487,
+    "Uncategorized": 454,
+    "Reference & Learning": 346,
+    "Business": 296,
+    "News & Opinion": 122
+  },
+  "2021-09-27": {
+    "Software Development": 28153,
+    "Communication & Scheduling": 4098,
+    "Reference & Learning": 1654,
+    "Uncategorized": 1113,
+    "Design & Composition": 610,
+    "Business": 581,
+    "News & Opinion": 396,
+    "Utilities": 357,
+    "Shopping": 18,
+    "Social Networking": 10,
+    "Entertainment": 7
+  },
+  "2021-09-28": {
+    "Communication & Scheduling": 11332,
+    "Software Development": 5757,
+    "Reference & Learning": 2663,
+    "Uncategorized": 2189,
+    "Business": 1589,
+    "Utilities": 912,
+    "Social Networking": 276,
+    "Design & Composition": 235,
+    "Entertainment": 163,
+    "Shopping": 107,
+    "News & Opinion": 49
+  },
+  "2021-09-29": {
+    "Utilities": 6234,
+    "Entertainment": 4608,
+    "Communication & Scheduling": 4243,
+    "Design & Composition": 2810,
+    "Uncategorized": 2284,
+    "Reference & Learning": 1550,
+    "Software Development": 1444,
+    "News & Opinion": 408,
+    "Business": 229,
+    "Shopping": 56,
+    "Social Networking": 15
+  },
+  "2021-09-30": {
+    "Software Development": 3867,
+    "Communication & Scheduling": 3298,
+    "Business": 3020,
+    "Design & Composition": 2467,
+    "Reference & Learning": 1135,
+    "Shopping": 419,
+    "Entertainment": 347,
+    "Utilities": 237,
+    "Uncategorized": 135,
+    "Social Networking": 50,
+    "News & Opinion": 15
+  },
+  "2021-10-1": {
+    "Utilities": 8529,
+    "Software Development": 1987,
+    "Communication & Scheduling": 991,
+    "Uncategorized": 8
+  },
+  "2021-10-2": {
+    "Communication & Scheduling": 2656,
+    "Utilities": 1153,
+    "News & Opinion": 621,
+    "Software Development": 145,
+    "Uncategorized": 106,
+    "Business": 49,
+    "Design & Composition": 33,
+    "Reference & Learning": 24,
+    "Social Networking": 15
+  }
+}

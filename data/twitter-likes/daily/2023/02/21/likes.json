@@ -1,0 +1,216 @@
+[
+  {
+    "created_at": "Tue Feb 21 19:08:37 +0000 2023",
+    "id": 1628109453873512400,
+    "id_str": "1628109453873512449",
+    "text": "@heyecs @AnandChowdhary too close to home.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "heyecs",
+          "name": "Evan Stewart",
+          "id": 1434190956216074200,
+          "id_str": "1434190956216074242",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "screen_name": "AnandChowdhary",
+          "name": "Anand Chowdhary",
+          "id": 39725981,
+          "id_str": "39725981",
+          "indices": [
+            8,
+            23
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1628035329536974800,
+    "in_reply_to_status_id_str": "1628035329536974848",
+    "in_reply_to_user_id": 1434190956216074200,
+    "in_reply_to_user_id_str": "1434190956216074242",
+    "in_reply_to_screen_name": "heyecs",
+    "user": {
+      "id": 385904343,
+      "id_str": "385904343",
+      "name": "Carlo Badini",
+      "screen_name": "carlobadini",
+      "location": "",
+      "description": "Founder @PabioHQ (YC S21). Somewhat successful entrepreneur according to @forbes. Doesn't know nothing about anything.",
+      "url": "https://t.co/WdXzi0eJ0D",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/WdXzi0eJ0D",
+              "expanded_url": "http://carlobadini.com",
+              "display_url": "carlobadini.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1667,
+      "friends_count": 392,
+      "listed_count": 25,
+      "created_at": "Thu Oct 06 10:24:28 +0000 2011",
+      "favourites_count": 751,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 171,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1587558387641978880/bfJ2pmTQ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1587558387641978880/bfJ2pmTQ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/385904343/1668883290",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Feb 21 18:56:06 +0000 2023",
+    "id": 1628106304022794200,
+    "id_str": "1628106304022794240",
+    "text": "Here it is. The YC W23 Gen AI Landscape 💥\n\nWhy no one had done this yet is beyond me. 36 Gen AI startups in the YC… https://t.co/ZRx49y82KO",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZRx49y82KO",
+          "expanded_url": "https://twitter.com/i/web/status/1628106304022794240",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 922520609661378600,
+      "id_str": "922520609661378564",
+      "name": "Alex Lee ⛷",
+      "screen_name": "AlexLee611",
+      "location": "San Francisco, CA",
+      "description": "ceo/cofounder @truewindai | yc w23 (and w21) | ex-vc ex-engineer | twts on finance & tech",
+      "url": "https://t.co/fdDXYPrkMq",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/fdDXYPrkMq",
+              "expanded_url": "https://medium.com/@alexlee611",
+              "display_url": "medium.com/@alexlee611",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3791,
+      "friends_count": 897,
+      "listed_count": 21,
+      "created_at": "Mon Oct 23 17:50:27 +0000 2017",
+      "favourites_count": 1774,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1303,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1334675727791259648/JVyFduJP_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1334675727791259648/JVyFduJP_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/922520609661378564/1627419650",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 147,
+    "favorite_count": 788,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

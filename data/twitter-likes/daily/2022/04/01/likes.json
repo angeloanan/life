@@ -1,0 +1,358 @@
+[
+  {
+    "created_at": "Fri Apr 01 18:27:35 +0000 2022",
+    "id": 1509960686121603000,
+    "id_str": "1509960686121603075",
+    "text": "do you ever get the feeling we were never meant to study math https://t.co/H5VF33hQKM",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1509960681386233900,
+          "id_str": "1509960681386233858",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/FPR1PVbVUAI7NVC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FPR1PVbVUAI7NVC.jpg",
+          "url": "https://t.co/H5VF33hQKM",
+          "display_url": "pic.twitter.com/H5VF33hQKM",
+          "expanded_url": "https://twitter.com/lessgradedalg/status/1509960686121603075/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 750,
+              "h": 757,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 757,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 674,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1509960681386233900,
+          "id_str": "1509960681386233858",
+          "indices": [
+            62,
+            85
+          ],
+          "media_url": "http://pbs.twimg.com/media/FPR1PVbVUAI7NVC.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FPR1PVbVUAI7NVC.jpg",
+          "url": "https://t.co/H5VF33hQKM",
+          "display_url": "pic.twitter.com/H5VF33hQKM",
+          "expanded_url": "https://twitter.com/lessgradedalg/status/1509960686121603075/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 750,
+              "h": 757,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 750,
+              "h": 757,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 674,
+              "h": 680,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1432734730978349000,
+      "id_str": "1432734730978349057",
+      "name": "étale kubiemology 🦋 (kubie)",
+      "screen_name": "lessgradedalg",
+      "location": "Los Angeles, CA",
+      "description": "katie, 23 🦊 she/they 🌸 bisexual disaster ✨ PQC, FPGAs, and alg geometry 💾 friendly satanist 🌈 will snuggle for hugs 🫂 ctf: @IrNoobs, xtal 💻",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1250,
+      "friends_count": 555,
+      "listed_count": 7,
+      "created_at": "Tue Aug 31 15:59:29 +0000 2021",
+      "favourites_count": 22672,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5331,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1523334082830028801/3l8k1nA1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1523334082830028801/3l8k1nA1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1432734730978349057/1647990056",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1053,
+    "favorite_count": 13479,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Apr 01 15:07:59 +0000 2022",
+    "id": 1509910453723754500,
+    "id_str": "1509910453723754500",
+    "text": "@aishwaryaBRao it's just an arrow pointing to the red light to let you know that the light is red\n\nthe other arrow… https://t.co/lodJUaMVUH",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "aishwaryaBRao",
+          "name": "Aishwarya Rao",
+          "id": 1194647506665246700,
+          "id_str": "1194647506665246720",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lodJUaMVUH",
+          "expanded_url": "https://twitter.com/i/web/status/1509910453723754500",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1509797602295836700,
+    "in_reply_to_status_id_str": "1509797602295836674",
+    "in_reply_to_user_id": 1194647506665246700,
+    "in_reply_to_user_id_str": "1194647506665246720",
+    "in_reply_to_screen_name": "aishwaryaBRao",
+    "user": {
+      "id": 304932097,
+      "id_str": "304932097",
+      "name": "♡ Kushagra",
+      "screen_name": "_kushagra",
+      "location": "Delhi,India",
+      "description": "Frontend Developer ∥ Design lover ∥ Technology Enthusiast ∥ Equality Supporter ∥ Mental Health Advocate || Humanity ❤️",
+      "url": "https://t.co/NaWMFij3Yp",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/NaWMFij3Yp",
+              "expanded_url": "https://kush-agra.ml",
+              "display_url": "kush-agra.ml",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 71,
+      "friends_count": 269,
+      "listed_count": 3,
+      "created_at": "Wed May 25 10:46:17 +0000 2011",
+      "favourites_count": 10496,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1712,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "352726",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme5/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1509353695166996483/l_nmj-I9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1509353695166996483/l_nmj-I9_normal.jpg",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "favorite_count": 577,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Apr 01 13:32:17 +0000 2022",
+    "id": 1509886369832784000,
+    "id_str": "1509886369832783883",
+    "text": "How I Got a Full-Time Job at a Top Tier Free Newsletter &amp; VC Fund by Age 27:\n\n• Wake up at 5:30am every day\n• Edit… https://t.co/OBEUHctR9R",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/OBEUHctR9R",
+          "expanded_url": "https://twitter.com/i/web/status/1509886369832783883",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            120,
+            143
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 232622681,
+      "id_str": "232622681",
+      "name": "Dan McCormick",
+      "screen_name": "damccormick13",
+      "location": "",
+      "description": "Current: @notboringco",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2626,
+      "friends_count": 1026,
+      "listed_count": 20,
+      "created_at": "Fri Dec 31 18:16:44 +0000 2010",
+      "favourites_count": 3732,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1145,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/996240742917050368/P0G1KCXx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/996240742917050368/P0G1KCXx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/232622681/1651761227",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 36,
+    "favorite_count": 839,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

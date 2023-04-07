@@ -1,0 +1,430 @@
+[
+  {
+    "created_at": "Wed Nov 30 19:38:38 +0000 2022",
+    "id": 1598038815599661000,
+    "id_str": "1598038815599661056",
+    "text": "today we launched ChatGPT. try talking with it here: \n\nhttps://t.co/uWra8LKFMN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/uWra8LKFMN",
+          "expanded_url": "http://chat.openai.com",
+          "display_url": "chat.openai.com",
+          "indices": [
+            55,
+            78
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1605,
+      "id_str": "1605",
+      "name": "Sam Altman",
+      "screen_name": "sama",
+      "location": "SF",
+      "description": "@OpenAI",
+      "url": "https://t.co/teHmy8mwEz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/teHmy8mwEz",
+              "expanded_url": "http://blog.samaltman.com",
+              "display_url": "blog.samaltman.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1164068,
+      "friends_count": 786,
+      "listed_count": 9143,
+      "created_at": "Sun Jul 16 22:01:55 +0000 2006",
+      "favourites_count": 909,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 5821,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "3B94D9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/804990434455887872/BG0Xh7Oa_normal.jpg",
+      "profile_link_color": "89C9FA",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 5625,
+    "favorite_count": 29283,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 30 18:26:58 +0000 2022",
+    "id": 1598020781065527300,
+    "id_str": "1598020781065527296",
+    "text": "OK so @OpenAI's new #ChatGPT can basically just generate #AIart prompts. I asked a one-line question, and typed the… https://t.co/PlBFkg4Yg9",
+    "truncated": true,
+    "entities": {
+      "hashtags": [
+        {
+          "text": "ChatGPT",
+          "indices": [
+            20,
+            28
+          ]
+        },
+        {
+          "text": "AIart",
+          "indices": [
+            57,
+            63
+          ]
+        }
+      ],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "OpenAI",
+          "name": "OpenAI",
+          "id": 4398626122,
+          "id_str": "4398626122",
+          "indices": [
+            6,
+            13
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PlBFkg4Yg9",
+          "expanded_url": "https://twitter.com/i/web/status/1598020781065527296",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 12994,
+      "id_str": "12994",
+      "name": "Guy Parsons",
+      "screen_name": "GuyP",
+      "location": "London",
+      "description": "building things with #AI 🤖 #DALLE & #MidJourney adventurer ✍️ editor, https://t.co/77MJXuLSTd 🖼 curator of the https://t.co/8Xctk6XoPs",
+      "url": "https://t.co/8Xctk6XoPs",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/8Xctk6XoPs",
+              "expanded_url": "http://dallery.gallery",
+              "display_url": "dallery.gallery",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/77MJXuLSTd",
+              "expanded_url": "http://promptresponse.substack.com",
+              "display_url": "promptresponse.substack.com",
+              "indices": [
+                70,
+                93
+              ]
+            },
+            {
+              "url": "https://t.co/8Xctk6XoPs",
+              "expanded_url": "http://dallery.gallery",
+              "display_url": "dallery.gallery",
+              "indices": [
+                111,
+                134
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 13397,
+      "friends_count": 5103,
+      "listed_count": 291,
+      "created_at": "Sat Nov 18 18:39:45 +0000 2006",
+      "favourites_count": 46222,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3517,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1597953018623827968/c4KLWWvI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1597953018623827968/c4KLWWvI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/12994/1669816663",
+      "profile_link_color": "4E2D7B",
+      "profile_sidebar_border_color": "FF00C8",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 3983,
+    "favorite_count": 22976,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 30 18:00:11 +0000 2022",
+    "id": 1598014038306279400,
+    "id_str": "1598014038306279424",
+    "text": "I made a million from my \"silly little website project\" 😀 https://t.co/3dfiIdZUOm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1598014035475112000,
+          "id_str": "1598014035475111938",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fi1JTHKVIAI8iAZ.png",
+          "media_url_https": "https://pbs.twimg.com/media/Fi1JTHKVIAI8iAZ.png",
+          "url": "https://t.co/3dfiIdZUOm",
+          "display_url": "pic.twitter.com/3dfiIdZUOm",
+          "expanded_url": "https://twitter.com/thepatwalls/status/1598014038306279424/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 822,
+              "h": 442,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 366,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 822,
+              "h": 442,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1598014035475112000,
+          "id_str": "1598014035475111938",
+          "indices": [
+            58,
+            81
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fi1JTHKVIAI8iAZ.png",
+          "media_url_https": "https://pbs.twimg.com/media/Fi1JTHKVIAI8iAZ.png",
+          "url": "https://t.co/3dfiIdZUOm",
+          "display_url": "pic.twitter.com/3dfiIdZUOm",
+          "expanded_url": "https://twitter.com/thepatwalls/status/1598014038306279424/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 822,
+              "h": 442,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 366,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 822,
+              "h": 442,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://typefully.com/\" rel=\"nofollow\">Typefully</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2646428635,
+      "id_str": "2646428635",
+      "name": "Pat Walls",
+      "screen_name": "thepatwalls",
+      "location": "Florida",
+      "description": "Founder https://t.co/zSf5Z2Gzjh. On a mission to help 1 billion people make money online!",
+      "url": "https://t.co/J6SDjiTXyO",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/J6SDjiTXyO",
+              "expanded_url": "https://www.starterstory.com/newsletter",
+              "display_url": "starterstory.com/newsletter",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/zSf5Z2Gzjh",
+              "expanded_url": "http://starterstory.com",
+              "display_url": "starterstory.com",
+              "indices": [
+                8,
+                31
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 22678,
+      "friends_count": 765,
+      "listed_count": 493,
+      "created_at": "Mon Jul 14 21:59:57 +0000 2014",
+      "favourites_count": 14358,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5600,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1442604184725901312/tbbsFD4-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1442604184725901312/tbbsFD4-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2646428635/1668436978",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 78,
+    "favorite_count": 3155,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

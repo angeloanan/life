@@ -1,0 +1,72 @@
+{
+  "2022-06-5": {
+    "total": 20370,
+    "rem": 1770,
+    "awake": 3810,
+    "deep": 6510,
+    "duration": 24180,
+    "efficiency": 84,
+    "light": 12090,
+    "score": 66
+  },
+  "2022-06-6": {
+    "total": 20700,
+    "rem": 2730,
+    "awake": 1920,
+    "deep": 6840,
+    "duration": 22620,
+    "efficiency": 92,
+    "light": 11130,
+    "score": 67
+  },
+  "2022-06-7": {
+    "total": 20310,
+    "rem": 2340,
+    "awake": 1650,
+    "deep": 8340,
+    "duration": 21960,
+    "efficiency": 92,
+    "light": 9630,
+    "score": 62
+  },
+  "2022-06-8": {
+    "total": 26430,
+    "rem": 3720,
+    "awake": 4710,
+    "deep": 7230,
+    "duration": 31140,
+    "efficiency": 85,
+    "light": 15480,
+    "score": 76
+  },
+  "2022-06-9": {
+    "total": 24420,
+    "rem": 4290,
+    "awake": 3840,
+    "deep": 7050,
+    "duration": 28260,
+    "efficiency": 86,
+    "light": 13080,
+    "score": 70
+  },
+  "2022-06-10": {
+    "total": 24840,
+    "rem": 3870,
+    "awake": 3660,
+    "deep": 5970,
+    "duration": 28500,
+    "efficiency": 87,
+    "light": 15000,
+    "score": 69
+  },
+  "2022-06-11": {
+    "total": 28110,
+    "rem": 4440,
+    "awake": 3930,
+    "deep": 6750,
+    "duration": 32040,
+    "efficiency": 88,
+    "light": 16920,
+    "score": 75
+  }
+}

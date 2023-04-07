@@ -1,0 +1,80 @@
+{
+  "2021-09-5": {
+    "Utilities": 2490,
+    "Communication & Scheduling": 1086,
+    "Reference & Learning": 728,
+    "Software Development": 321,
+    "Uncategorized": 65,
+    "Business": 46
+  },
+  "2021-09-6": {
+    "Communication & Scheduling": 12223,
+    "Utilities": 2608,
+    "Software Development": 2141,
+    "Business": 971,
+    "Design & Composition": 702,
+    "News & Opinion": 202,
+    "Reference & Learning": 124,
+    "Uncategorized": 26,
+    "Social Networking": 25
+  },
+  "2021-09-7": {
+    "Communication & Scheduling": 12954,
+    "Software Development": 2582,
+    "Business": 1828,
+    "Design & Composition": 1683,
+    "Reference & Learning": 794,
+    "Uncategorized": 459,
+    "Utilities": 375,
+    "Social Networking": 135,
+    "News & Opinion": 52
+  },
+  "2021-09-8": {
+    "Communication & Scheduling": 17112,
+    "Software Development": 5929,
+    "Uncategorized": 1254,
+    "Reference & Learning": 1092,
+    "Business": 993,
+    "Utilities": 457,
+    "Social Networking": 423,
+    "Design & Composition": 393,
+    "News & Opinion": 383,
+    "Shopping": 61
+  },
+  "2021-09-9": {
+    "Software Development": 16590,
+    "Communication & Scheduling": 8753,
+    "Reference & Learning": 997,
+    "Business": 871,
+    "Utilities": 345,
+    "Design & Composition": 339,
+    "Uncategorized": 307,
+    "Social Networking": 111,
+    "Entertainment": 55,
+    "News & Opinion": 36
+  },
+  "2021-09-10": {
+    "Communication & Scheduling": 10749,
+    "Software Development": 6324,
+    "Reference & Learning": 1824,
+    "Utilities": 1545,
+    "Uncategorized": 744,
+    "Design & Composition": 729,
+    "Shopping": 274,
+    "Business": 260,
+    "Social Networking": 92,
+    "News & Opinion": 19
+  },
+  "2021-09-11": {
+    "Business": 1938,
+    "Communication & Scheduling": 1913,
+    "Entertainment": 1664,
+    "Reference & Learning": 962,
+    "Uncategorized": 857,
+    "Software Development": 602,
+    "News & Opinion": 417,
+    "Utilities": 218,
+    "Design & Composition": 193,
+    "Social Networking": 48
+  }
+}

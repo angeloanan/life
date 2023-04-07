@@ -1,0 +1,599 @@
+[
+  {
+    "created_at": "Sun Sep 18 23:27:52 +0000 2022",
+    "id": 1571642191050641400,
+    "id_str": "1571642191050641409",
+    "text": "A brief life update: 🇨🇭➡️🇮🇸\n\nAfter 10 wonderful years in Switzerland, I have finally returned back to my home count… https://t.co/hYjspXi1tM",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/hYjspXi1tM",
+          "expanded_url": "https://twitter.com/i/web/status/1571642191050641409",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 534042677,
+      "id_str": "534042677",
+      "name": "Eirikur Agustsson",
+      "screen_name": "etagust",
+      "location": "Iceland",
+      "description": "Senior Research Scientist @ Google 🇮🇸",
+      "url": "https://t.co/PGvN7hokQ4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/PGvN7hokQ4",
+              "expanded_url": "https://scholar.google.com/citations?user=Uhvyua4AAAAJ&hl=en",
+              "display_url": "scholar.google.com/citations?user…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1373,
+      "friends_count": 445,
+      "listed_count": 24,
+      "created_at": "Fri Mar 23 08:26:57 +0000 2012",
+      "favourites_count": 357,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 189,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/651424553608966148/3hm3MD91_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/651424553608966148/3hm3MD91_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 506,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 18 16:42:47 +0000 2022",
+    "id": 1571540247359488000,
+    "id_str": "1571540247359488000",
+    "text": "They call me 007\n\n0 commits\n0 lines of code\n7 new domains",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 223739217,
+      "id_str": "223739217",
+      "name": "Kyle Shook⚡",
+      "screen_name": "elyktrix",
+      "location": "👨🏼‍💻",
+      "description": "Frontend developer | Improve dev skills @ https://t.co/8XoFqUq6vn (fun facts in pinned tweet)",
+      "url": "https://t.co/LhFeVnZ2so",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/LhFeVnZ2so",
+              "expanded_url": "https://www.kyleshook.com/",
+              "display_url": "kyleshook.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/8XoFqUq6vn",
+              "expanded_url": "http://FrontendPractice.com",
+              "display_url": "FrontendPractice.com",
+              "indices": [
+                42,
+                65
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 36967,
+      "friends_count": 2475,
+      "listed_count": 460,
+      "created_at": "Tue Dec 07 05:56:59 +0000 2010",
+      "favourites_count": 103700,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 32326,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1408503041721090059/EjN2jVy9_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1408503041721090059/EjN2jVy9_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/223739217/1650412405",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 318,
+    "favorite_count": 3178,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 18 15:45:47 +0000 2022",
+    "id": 1571525902848364500,
+    "id_str": "1571525902848364545",
+    "text": "“What will Bun 1.0 look like?”\n\n- stable runtime, support most node core APIs + fast &amp; easy bun APIs, auto install… https://t.co/M73ynVQZ5h",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/M73ynVQZ5h",
+          "expanded_url": "https://twitter.com/i/web/status/1571525902848364545",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            120,
+            143
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 2489440172,
+      "id_str": "2489440172",
+      "name": "Jarred Sumner",
+      "screen_name": "jarredsumner",
+      "location": "Oakland, CA",
+      "description": "building bun 🐰. formerly: @stripe (twice) @thielfellowship. high school dropout 🌈",
+      "url": "https://t.co/0qpSZ1eiQo",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/0qpSZ1eiQo",
+              "expanded_url": "https://oven.sh",
+              "display_url": "oven.sh",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 38049,
+      "friends_count": 797,
+      "listed_count": 316,
+      "created_at": "Sun May 11 07:12:54 +0000 2014",
+      "favourites_count": 13436,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 9442,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1342417825483300864/Vz4ChOFG_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1342417825483300864/Vz4ChOFG_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "favorite_count": 346,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 18 15:25:12 +0000 2022",
+    "id": 1571520723989954600,
+    "id_str": "1571520723989954567",
+    "text": "Top drawer stuff on Reddit today 😂😂\n\n@peakbengaluru https://t.co/25H0wr526h",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "peakbengaluru",
+          "name": "Peak Bengaluru 🌦️",
+          "id": 956466499325116400,
+          "id_str": "956466499325116416",
+          "indices": [
+            37,
+            51
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1571520715941204000,
+          "id_str": "1571520715941203968",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fc8pw87X0AA-FHr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fc8pw87X0AA-FHr.jpg",
+          "url": "https://t.co/25H0wr526h",
+          "display_url": "pic.twitter.com/25H0wr526h",
+          "expanded_url": "https://twitter.com/babablahblah_/status/1571520723989954567/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 514,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1169,
+              "h": 883,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1169,
+              "h": 883,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1571520715941204000,
+          "id_str": "1571520715941203968",
+          "indices": [
+            52,
+            75
+          ],
+          "media_url": "http://pbs.twimg.com/media/Fc8pw87X0AA-FHr.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/Fc8pw87X0AA-FHr.jpg",
+          "url": "https://t.co/25H0wr526h",
+          "display_url": "pic.twitter.com/25H0wr526h",
+          "expanded_url": "https://twitter.com/babablahblah_/status/1571520723989954567/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 514,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1169,
+              "h": 883,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1169,
+              "h": 883,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 854896177,
+      "id_str": "854896177",
+      "name": "Aj",
+      "screen_name": "babablahblah_",
+      "location": "Singapore/Bangalore",
+      "description": "Co-Founder & CEO @TheHouseMonk. Love Startups, SaaS and Sports!",
+      "url": "https://t.co/8GSoluAqKg",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/8GSoluAqKg",
+              "expanded_url": "https://realestatextechnology.substack.com/subscribe",
+              "display_url": "realestatextechnology.substack.com/subscribe",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 612,
+      "friends_count": 579,
+      "listed_count": 47,
+      "created_at": "Sun Sep 30 15:28:35 +0000 2012",
+      "favourites_count": 35776,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 9323,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1305748476827807744/476Um8Si_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305748476827807744/476Um8Si_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/854896177/1600149146",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 529,
+    "favorite_count": 4559,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sun Sep 18 05:09:39 +0000 2022",
+    "id": 1571365813277593600,
+    "id_str": "1571365813277593601",
+    "text": "@anongirlus A wise woman once told me https://t.co/uTjTl2qTK0",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "anongirlus",
+          "name": "Rachel 🇮🇳",
+          "id": 1392299723122299000,
+          "id_str": "1392299723122298882",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/uTjTl2qTK0",
+          "expanded_url": "https://twitter.com/anongirlus/status/1571359023001374720",
+          "display_url": "twitter.com/anongirlus/sta…",
+          "indices": [
+            38,
+            61
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1571358668381388800,
+    "in_reply_to_status_id_str": "1571358668381388800",
+    "in_reply_to_user_id": 1392299723122299000,
+    "in_reply_to_user_id_str": "1392299723122298882",
+    "in_reply_to_screen_name": "anongirlus",
+    "user": {
+      "id": 361044311,
+      "id_str": "361044311",
+      "name": "Deedy",
+      "screen_name": "debarghya_das",
+      "location": "San Francisco",
+      "description": "Founding engineer at @glean. Formerly @Google Search. @Cornell CS. Tweets about tech, cricket, immigration, India, fitness.",
+      "url": "https://t.co/1iv49ewc92",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/1iv49ewc92",
+              "expanded_url": "http://debarghyadas.com",
+              "display_url": "debarghyadas.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 14887,
+      "friends_count": 2132,
+      "listed_count": 85,
+      "created_at": "Wed Aug 24 04:46:48 +0000 2011",
+      "favourites_count": 9409,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4304,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1471065068041244674/eLm0sHqx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1471065068041244674/eLm0sHqx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/361044311/1660701810",
+      "profile_link_color": "DD2E44",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1571359023001374700,
+    "quoted_status_id_str": "1571359023001374720",
+    "retweet_count": 0,
+    "favorite_count": 81,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

@@ -1,0 +1,79 @@
+{
+  "2021-12-12": {
+    "score": 81,
+    "score_activity_balance": 91,
+    "score_hrv_balance": 88,
+    "score_previous_day": 90,
+    "score_previous_night": 60,
+    "score_recovery_index": 48,
+    "score_resting_hr": 92,
+    "score_sleep_balance": 89,
+    "score_temperature": 100
+  },
+  "2021-12-13": {
+    "score": 79,
+    "score_activity_balance": 80,
+    "score_hrv_balance": 88,
+    "score_previous_day": 81,
+    "score_previous_night": 80,
+    "score_recovery_index": 31,
+    "score_resting_hr": 83,
+    "score_sleep_balance": 88,
+    "score_temperature": 86
+  },
+  "2021-12-14": {
+    "score": 82,
+    "score_activity_balance": 85,
+    "score_hrv_balance": 88,
+    "score_previous_day": 92,
+    "score_previous_night": 85,
+    "score_recovery_index": 54,
+    "score_resting_hr": 74,
+    "score_sleep_balance": 89,
+    "score_temperature": 94
+  },
+  "2021-12-15": {
+    "score": 80,
+    "score_activity_balance": 85,
+    "score_hrv_balance": 88,
+    "score_previous_day": 84,
+    "score_previous_night": 59,
+    "score_recovery_index": 82,
+    "score_resting_hr": 83,
+    "score_sleep_balance": 83,
+    "score_temperature": 95
+  },
+  "2021-12-16": {
+    "score": 87,
+    "score_activity_balance": 88,
+    "score_hrv_balance": 87,
+    "score_previous_day": 84,
+    "score_previous_night": 80,
+    "score_recovery_index": 100,
+    "score_resting_hr": 92,
+    "score_sleep_balance": 83,
+    "score_temperature": 100
+  },
+  "2021-12-17": {
+    "score": 86,
+    "score_activity_balance": 79,
+    "score_hrv_balance": 88,
+    "score_previous_day": 87,
+    "score_previous_night": 97,
+    "score_recovery_index": 100,
+    "score_resting_hr": 55,
+    "score_sleep_balance": 95,
+    "score_temperature": 100
+  },
+  "2021-12-18": {
+    "score": 86,
+    "score_activity_balance": 78,
+    "score_hrv_balance": 87,
+    "score_previous_day": 82,
+    "score_previous_night": 73,
+    "score_recovery_index": 100,
+    "score_resting_hr": 84,
+    "score_sleep_balance": 95,
+    "score_temperature": 87
+  }
+}

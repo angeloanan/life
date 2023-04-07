@@ -1,0 +1,84 @@
+{
+  "2021-08-15": {
+    "Reference & Learning": 2931,
+    "Communication & Scheduling": 2288,
+    "Software Development": 2118,
+    "Business": 1498,
+    "Uncategorized": 771,
+    "Social Networking": 687,
+    "Utilities": 332,
+    "Design & Composition": 167,
+    "News & Opinion": 123
+  },
+  "2021-08-16": {
+    "Communication & Scheduling": 18085,
+    "Reference & Learning": 6620,
+    "Business": 4415,
+    "Software Development": 2083,
+    "Uncategorized": 1915,
+    "News & Opinion": 1407,
+    "Utilities": 1219,
+    "Social Networking": 781,
+    "Design & Composition": 590,
+    "Entertainment": 274
+  },
+  "2021-08-17": {
+    "Communication & Scheduling": 21245,
+    "Reference & Learning": 6416,
+    "Business": 5139,
+    "Uncategorized": 2923,
+    "Software Development": 2180,
+    "Design & Composition": 1670,
+    "Utilities": 628,
+    "News & Opinion": 538,
+    "Shopping": 528,
+    "Social Networking": 417
+  },
+  "2021-08-18": {
+    "Communication & Scheduling": 16719,
+    "Business": 5754,
+    "Design & Composition": 5506,
+    "Reference & Learning": 2379,
+    "Software Development": 1303,
+    "Uncategorized": 979,
+    "Social Networking": 871,
+    "Utilities": 677,
+    "News & Opinion": 636,
+    "Entertainment": 157
+  },
+  "2021-08-19": {
+    "Communication & Scheduling": 10163,
+    "Entertainment": 3472,
+    "Uncategorized": 3008,
+    "Reference & Learning": 1862,
+    "Social Networking": 1851,
+    "Business": 1769,
+    "Design & Composition": 1530,
+    "Utilities": 1526,
+    "Software Development": 1499,
+    "News & Opinion": 68
+  },
+  "2021-08-20": {
+    "Software Development": 17646,
+    "Communication & Scheduling": 8605,
+    "Business": 5160,
+    "Design & Composition": 4358,
+    "Reference & Learning": 3050,
+    "Uncategorized": 2681,
+    "Utilities": 802,
+    "Social Networking": 647,
+    "News & Opinion": 471,
+    "Shopping": 189,
+    "Entertainment": 55
+  },
+  "2021-08-21": {
+    "Communication & Scheduling": 5282,
+    "Uncategorized": 5061,
+    "Software Development": 906,
+    "Reference & Learning": 733,
+    "Design & Composition": 689,
+    "Business": 503,
+    "Utilities": 299,
+    "News & Opinion": 49
+  }
+}

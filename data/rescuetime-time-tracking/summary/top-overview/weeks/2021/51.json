@@ -1,0 +1,90 @@
+{
+  "2021-12-12": {
+    "Software Development": 6766,
+    "Entertainment": 5216,
+    "Reference & Learning": 3819,
+    "Communication & Scheduling": 3331,
+    "Uncategorized": 2839,
+    "Design & Composition": 2132,
+    "News & Opinion": 1130,
+    "Business": 811,
+    "Utilities": 616,
+    "Shopping": 410,
+    "Social Networking": 379
+  },
+  "2021-12-13": {
+    "Communication & Scheduling": 5396,
+    "Software Development": 2773,
+    "Uncategorized": 1168,
+    "Reference & Learning": 1038,
+    "Business": 956,
+    "Utilities": 514,
+    "Design & Composition": 452,
+    "News & Opinion": 64,
+    "Social Networking": 39,
+    "Shopping": 14,
+    "Entertainment": 4
+  },
+  "2021-12-14": {
+    "Communication & Scheduling": 7007,
+    "Software Development": 4644,
+    "Business": 2578,
+    "Uncategorized": 1174,
+    "Design & Composition": 923,
+    "Reference & Learning": 797,
+    "Utilities": 211,
+    "News & Opinion": 125,
+    "Social Networking": 94,
+    "Entertainment": 34,
+    "Shopping": 2
+  },
+  "2021-12-15": {
+    "Software Development": 23651,
+    "Communication & Scheduling": 6973,
+    "Uncategorized": 2488,
+    "Social Networking": 1418,
+    "Design & Composition": 1410,
+    "News & Opinion": 1407,
+    "Business": 1390,
+    "Reference & Learning": 1390,
+    "Utilities": 536,
+    "Shopping": 79
+  },
+  "2021-12-16": {
+    "Software Development": 19536,
+    "Utilities": 9638,
+    "Communication & Scheduling": 5094,
+    "Business": 549,
+    "Uncategorized": 530,
+    "Reference & Learning": 336,
+    "Design & Composition": 177,
+    "Entertainment": 50,
+    "News & Opinion": 29,
+    "Social Networking": 11
+  },
+  "2021-12-17": {
+    "Communication & Scheduling": 6553,
+    "Software Development": 3514,
+    "Business": 2456,
+    "Uncategorized": 1177,
+    "Reference & Learning": 631,
+    "News & Opinion": 463,
+    "Utilities": 392,
+    "Social Networking": 72,
+    "Design & Composition": 34,
+    "Entertainment": 20
+  },
+  "2021-12-18": {
+    "Communication & Scheduling": 5533,
+    "Uncategorized": 3266,
+    "Software Development": 1716,
+    "Design & Composition": 1430,
+    "Business": 1193,
+    "Reference & Learning": 794,
+    "News & Opinion": 354,
+    "Utilities": 339,
+    "Shopping": 162,
+    "Social Networking": 148,
+    "Entertainment": 28
+  }
+}

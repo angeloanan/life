@@ -1,0 +1,285 @@
+[
+  {
+    "created_at": "Mon Jul 19 23:55:24 +0000 2021",
+    "id": 1417271887218974700,
+    "id_str": "1417271887218974728",
+    "text": "@zachleat `&lt;img generator-unable-to-provide-required-alt&gt;` https://t.co/fSoBKfFsQA",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "zachleat",
+          "name": "Zach Leatherman",
+          "id": 96383,
+          "id_str": "96383",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fSoBKfFsQA",
+          "expanded_url": "https://html.spec.whatwg.org/multipage/images.html#attr-img-generator-unable-to-provide-required-alt",
+          "display_url": "html.spec.whatwg.org/multipage/imag…",
+          "indices": [
+            65,
+            88
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1417261989240397800,
+    "in_reply_to_status_id_str": "1417261989240397831",
+    "in_reply_to_user_id": 96383,
+    "in_reply_to_user_id_str": "96383",
+    "in_reply_to_screen_name": "zachleat",
+    "user": {
+      "id": 528720846,
+      "id_str": "528720846",
+      "name": "Eric Portis",
+      "screen_name": "etportis",
+      "location": "Bellingham, WA",
+      "description": "Goes on adventures with @BrittZynaga. Web Platform Advocate @Cloudinary. He/him.",
+      "url": "https://t.co/8BCztkh7dw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/8BCztkh7dw",
+              "expanded_url": "https://ericportis.com",
+              "display_url": "ericportis.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 805,
+      "friends_count": 576,
+      "listed_count": 40,
+      "created_at": "Sun Mar 18 18:09:23 +0000 2012",
+      "favourites_count": 10135,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3340,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/2774074675/cfd29b8a58995c4e8ae9da8774a6f60d_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/2774074675/cfd29b8a58995c4e8ae9da8774a6f60d_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/528720846/1495091119",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 18,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Jul 19 20:43:01 +0000 2021",
+    "id": 1417223474897170400,
+    "id_str": "1417223474897170437",
+    "text": "A grassy hill on a sunny day. https://t.co/khEAiKimqd",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1417223470895747000,
+          "id_str": "1417223470895747076",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6r9PO4WUAQ4iNv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6r9PO4WUAQ4iNv.jpg",
+          "url": "https://t.co/khEAiKimqd",
+          "display_url": "pic.twitter.com/khEAiKimqd",
+          "expanded_url": "https://twitter.com/Microsoft/status/1417223474897170437/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1417223470895747000,
+          "id_str": "1417223470895747076",
+          "indices": [
+            30,
+            53
+          ],
+          "media_url": "http://pbs.twimg.com/media/E6r9PO4WUAQ4iNv.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/E6r9PO4WUAQ4iNv.jpg",
+          "url": "https://t.co/khEAiKimqd",
+          "display_url": "pic.twitter.com/khEAiKimqd",
+          "expanded_url": "https://twitter.com/Microsoft/status/1417223474897170437/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 383,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 675,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1920,
+              "h": 1080,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://prod1.sprinklr.com\" rel=\"nofollow\">Sprinklr Publishing</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 74286565,
+      "id_str": "74286565",
+      "name": "Microsoft",
+      "screen_name": "Microsoft",
+      "location": "Redmond, WA",
+      "description": "We're on a mission to empower every person and every organization on the planet to achieve more. Support: @MicrosoftHelps",
+      "url": "https://t.co/bKBtZeAFrh",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/bKBtZeAFrh",
+              "expanded_url": "https://news.microsoft.com/",
+              "display_url": "news.microsoft.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 9646053,
+      "friends_count": 2534,
+      "listed_count": 25193,
+      "created_at": "Mon Sep 14 22:35:42 +0000 2009",
+      "favourites_count": 9651,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 23927,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "00AEEF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1381589380112916487/iiri9xKk_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1381589380112916487/iiri9xKk_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1625676398",
+      "profile_link_color": "1570A6",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 624,
+    "favorite_count": 7096,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

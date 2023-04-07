@@ -1,0 +1,331 @@
+[
+  {
+    "created_at": "Tue Jan 04 14:27:20 +0000 2022",
+    "id": 1478372478544089000,
+    "id_str": "1478372478544089091",
+    "text": "The next release of Luna Paint, the image editor for @code, is out! Highlights this release:\n\n- New color picker (s… https://t.co/y29bvuNWKD",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "code",
+          "name": "Visual Studio Code",
+          "id": 3167734591,
+          "id_str": "3167734591",
+          "indices": [
+            53,
+            58
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/y29bvuNWKD",
+          "expanded_url": "https://twitter.com/i/web/status/1478372478544089091",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 146434491,
+      "id_str": "146434491",
+      "name": "Daniel Imms",
+      "screen_name": "Tyriar",
+      "location": "Bothell, WA",
+      "description": "Husband, border collie dad, software engineer. Building @code and xterm.js at @Microsoft, Luna Paint in my spare time. 🦘",
+      "url": "https://t.co/jZ8npdN8fK",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jZ8npdN8fK",
+              "expanded_url": "http://www.growingwiththeweb.com",
+              "display_url": "growingwiththeweb.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3507,
+      "friends_count": 371,
+      "listed_count": 102,
+      "created_at": "Fri May 21 12:33:20 +0000 2010",
+      "favourites_count": 5410,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10054,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9E9EB8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme12/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/776617605389877248/aYSZBtVe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/776617605389877248/aYSZBtVe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/146434491/1532535047",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "5056C9",
+      "profile_sidebar_fill_color": "B1B1C9",
+      "profile_text_color": "073E5C",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 66,
+    "favorite_count": 351,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 04 01:58:02 +0000 2022",
+    "id": 1478183912572481500,
+    "id_str": "1478183912572481537",
+    "text": "sooooo let’s not get these, right? https://t.co/61zghz7bIG",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/61zghz7bIG",
+          "expanded_url": "https://twitter.com/jp2e/status/1478166468076490752",
+          "display_url": "twitter.com/jp2e/status/14…",
+          "indices": [
+            35,
+            58
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3356531254,
+      "id_str": "3356531254",
+      "name": "Internet of Shit",
+      "screen_name": "internetofshit",
+      "location": "hot girl smarthome",
+      "description": "screw it, put a chip in it. say hello: internetofshit@gmail.com",
+      "url": "https://t.co/yLsdDzHJCR",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/yLsdDzHJCR",
+              "expanded_url": "http://shop.internetofshit.net",
+              "display_url": "shop.internetofshit.net",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 458602,
+      "friends_count": 251,
+      "listed_count": 3798,
+      "created_at": "Fri Jul 03 09:04:06 +0000 2015",
+      "favourites_count": 5681,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 7185,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1141772101881356288/XbkmaF-__normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1141772101881356288/XbkmaF-__normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3356531254/1581115285",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1478166468076490800,
+    "quoted_status_id_str": "1478166468076490752",
+    "quoted_status": {
+      "created_at": "Tue Jan 04 00:48:43 +0000 2022",
+      "id": 1478166468076490800,
+      "id_str": "1478166468076490752",
+      "text": "Sengled showed off a lot of new lighting products at CES, including a smart bulb that can track your sleep and moni… https://t.co/qrNLeknsFU",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/qrNLeknsFU",
+            "expanded_url": "https://twitter.com/i/web/status/1478166468076490752",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://www.voxmedia.com\" rel=\"nofollow\">Chorus publishing platform</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 18521125,
+        "id_str": "18521125",
+        "name": "Jennifer Pattison Tuohy",
+        "screen_name": "jp2e",
+        "location": "Charleston, SC",
+        "description": "Journalist covering Smart Home for @verge - https://t.co/NoOHWQcdeQ… Previously: @theambient @wirecutter @dwell @usnews",
+        "url": "https://t.co/kvwwKhwSIq",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/kvwwKhwSIq",
+                "expanded_url": "https://authory.com/JenniferPattisonTuohy",
+                "display_url": "authory.com/JenniferPattis…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/NoOHWQcdeQ",
+                "expanded_url": "http://theverge.com/authors/jennif",
+                "display_url": "theverge.com/authors/jennif",
+                "indices": [
+                  44,
+                  67
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 2141,
+        "friends_count": 3113,
+        "listed_count": 163,
+        "created_at": "Thu Jan 01 01:48:00 +0000 2009",
+        "favourites_count": 2849,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 6583,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "8B542B",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1305979269672316929/7Ch0AcY__normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1305979269672316929/7Ch0AcY__normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/18521125/1631633870",
+        "profile_link_color": "FF691F",
+        "profile_sidebar_border_color": "D9B17E",
+        "profile_sidebar_fill_color": "EADEAA",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "favorite_count": 86,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 365,
+    "favorite_count": 2557,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

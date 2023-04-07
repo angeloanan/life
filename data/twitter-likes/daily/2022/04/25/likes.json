@@ -1,0 +1,90 @@
+[
+  {
+    "created_at": "Mon Apr 25 19:49:15 +0000 2022",
+    "id": 1518678545794359300,
+    "id_str": "1518678545794359296",
+    "text": "@InvestmentTalkk Elon is such a phenomenal figure that even Nikola Tesla took his company’s name as his last name",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "InvestmentTalkk",
+          "name": "Conor Mac",
+          "id": 1226182750866149400,
+          "id_str": "1226182750866149383",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1518678291204518000,
+    "in_reply_to_status_id_str": "1518678291204517889",
+    "in_reply_to_user_id": 1226182750866149400,
+    "in_reply_to_user_id_str": "1226182750866149383",
+    "in_reply_to_screen_name": "InvestmentTalkk",
+    "user": {
+      "id": 337119125,
+      "id_str": "337119125",
+      "name": "jane",
+      "screen_name": "wongmjane",
+      "location": "",
+      "description": "",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 136105,
+      "friends_count": 1739,
+      "listed_count": 1838,
+      "created_at": "Sun Jul 17 13:48:53 +0000 2011",
+      "favourites_count": 153897,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 30696,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1531946163683078144/lV5n7AWq_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1531946163683078144/lV5n7AWq_normal.png",
+      "profile_link_color": "1D709B",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "favorite_count": 438,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

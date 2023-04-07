@@ -1,0 +1,384 @@
+[
+  {
+    "created_at": "Wed Nov 17 22:05:19 +0000 2021",
+    "id": 1461093117642301400,
+    "id_str": "1461093117642301443",
+    "text": "It is somehow still 2020 and almost 2022",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 123543103,
+      "id_str": "123543103",
+      "name": "Kelly Vaughn ☀️ kvlly.eth",
+      "screen_name": "kvlly",
+      "location": "Atlanta, GA • She/Her",
+      "description": "Reinventing digital gifting @fromgovalo. Launching @ShopifyPlus stores @taproomagency. @dxnielvaughn's shortest wife.",
+      "url": "https://t.co/ORsjXQtZGq",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ORsjXQtZGq",
+              "expanded_url": "http://kvlly.com",
+              "display_url": "kvlly.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 107606,
+      "friends_count": 1020,
+      "listed_count": 1219,
+      "created_at": "Tue Mar 16 12:15:39 +0000 2010",
+      "favourites_count": 70890,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 57574,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F7F6ED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme19/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1458545616376631298/3Z5peacZ_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1458545616376631298/3Z5peacZ_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/123543103/1636579348",
+      "profile_link_color": "EA6C54",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "F6FFD1",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 231,
+    "favorite_count": 1590,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 17 18:42:43 +0000 2021",
+    "id": 1461042131473252400,
+    "id_str": "1461042131473252352",
+    "text": "there's justice in the world https://t.co/KJlIJY3AOy",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1461042037935980500,
+          "id_str": "1461042037935980560",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEap_hkWQBAQkDL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEap_hkWQBAQkDL.jpg",
+          "url": "https://t.co/KJlIJY3AOy",
+          "display_url": "pic.twitter.com/KJlIJY3AOy",
+          "expanded_url": "https://twitter.com/benawad/status/1461042131473252352/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 927,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 525,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1206,
+              "h": 1562,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1461042037935980500,
+          "id_str": "1461042037935980560",
+          "indices": [
+            29,
+            52
+          ],
+          "media_url": "http://pbs.twimg.com/media/FEap_hkWQBAQkDL.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FEap_hkWQBAQkDL.jpg",
+          "url": "https://t.co/KJlIJY3AOy",
+          "display_url": "pic.twitter.com/KJlIJY3AOy",
+          "expanded_url": "https://twitter.com/benawad/status/1461042131473252352/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 927,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 525,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1206,
+              "h": 1562,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 840626569743913000,
+      "id_str": "840626569743912960",
+      "name": "Ben Awad",
+      "screen_name": "benawad",
+      "location": "Coding",
+      "description": "building https://t.co/SZfF7dW76F • software consultant • youtuber",
+      "url": "https://t.co/FJAfeYOJ3w",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/FJAfeYOJ3w",
+              "expanded_url": "https://voidpet.com/benawad",
+              "display_url": "voidpet.com/benawad",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/SZfF7dW76F",
+              "expanded_url": "http://voidpet.com",
+              "display_url": "voidpet.com",
+              "indices": [
+                9,
+                32
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 84608,
+      "friends_count": 418,
+      "listed_count": 533,
+      "created_at": "Sat Mar 11 18:12:47 +0000 2017",
+      "favourites_count": 5897,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 5926,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1429491920548495364/kH9yqObU_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1429491920548495364/kH9yqObU_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/840626569743912960/1629679393",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 728,
+    "favorite_count": 16562,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Wed Nov 17 16:35:08 +0000 2021",
+    "id": 1461010022834397200,
+    "id_str": "1461010022834397186",
+    "text": "Super excited to say I'm now officially a Hubber! I took a new role this week as Head of Communities at @GitHub, en… https://t.co/lQ6PmNV1XW",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "github",
+          "name": "GitHub",
+          "id": 13334762,
+          "id_str": "13334762",
+          "indices": [
+            104,
+            111
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/lQ6PmNV1XW",
+          "expanded_url": "https://twitter.com/i/web/status/1461010022834397186",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 8692942,
+      "id_str": "8692942",
+      "name": "Stormy",
+      "screen_name": "storming",
+      "location": "Colorado",
+      "description": "Head of Communities at GitHub! Life time student. Passionate about open source software.",
+      "url": "https://t.co/ogJgbZoiwn",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ogJgbZoiwn",
+              "expanded_url": "http://stormyscorner.com",
+              "display_url": "stormyscorner.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6115,
+      "friends_count": 1206,
+      "listed_count": 374,
+      "created_at": "Wed Sep 05 19:00:58 +0000 2007",
+      "favourites_count": 2682,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10883,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/414512186631802880/YaacGVyA_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/414512186631802880/YaacGVyA_normal.jpeg",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "favorite_count": 499,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

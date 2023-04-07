@@ -1,0 +1,99 @@
+[
+  {
+    "categories": [
+      {
+        "decimal": "1.80",
+        "digital": "1:48:48",
+        "hours": 1,
+        "minutes": 48,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 48,
+        "text": "1 hr 48 mins",
+        "total_seconds": 6528.508336
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "decimal": "1.80",
+        "digital": "1:48:48",
+        "hours": 1,
+        "minutes": 48,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 48,
+        "text": "1 hr 48 mins",
+        "total_seconds": 6528.508336
+      }
+    ],
+    "grand_total": {
+      "decimal": "1.80",
+      "digital": "1:48",
+      "hours": 1,
+      "minutes": 48,
+      "text": "1 hr 48 mins",
+      "total_seconds": 6528.508336
+    },
+    "languages": [
+      {
+        "decimal": "1.80",
+        "digital": "1:48:48",
+        "hours": 1,
+        "minutes": 48,
+        "name": "Other",
+        "percent": 100,
+        "seconds": 48,
+        "text": "1 hr 48 mins",
+        "total_seconds": 6528.508336
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "1.80",
+        "digital": "1:48:48",
+        "hours": 1,
+        "machine_name_id": "2aeb2df1-d87a-4902-824a-fb6484da84f8",
+        "minutes": 48,
+        "name": "Anands-MacBook-Pro.local",
+        "percent": 100,
+        "seconds": 48,
+        "text": "1 hr 48 mins",
+        "total_seconds": 6528.508336
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "1.80",
+        "digital": "1:48:48",
+        "hours": 1,
+        "minutes": 48,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 48,
+        "text": "1 hr 48 mins",
+        "total_seconds": 6528.508336
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "1.80",
+        "digital": "1:48:48",
+        "hours": 1,
+        "minutes": 48,
+        "name": "api",
+        "percent": 100,
+        "seconds": 48,
+        "text": "1 hr 48 mins",
+        "total_seconds": 6528.508336
+      }
+    ],
+    "range": {
+      "date": "2021-08-14",
+      "end": "2021-08-14T21:59:59Z",
+      "start": "2021-08-13T22:00:00Z",
+      "text": "Sat Aug 14th 2021",
+      "timezone": "Europe/Amsterdam"
+    }
+  }
+]

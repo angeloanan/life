@@ -1,0 +1,199 @@
+[
+  {
+    "created_at": "Tue Oct 19 21:03:51 +0000 2021",
+    "id": 1450568400745476000,
+    "id_str": "1450568400745476105",
+    "text": "Exclusive look at how Apple designed the new MacBook Pros. https://t.co/ommtJ10tFm",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1450568387197735000,
+          "id_str": "1450568387197734912",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCF0Q0FVEAAgGcu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCF0Q0FVEAAgGcu.jpg",
+          "url": "https://t.co/ommtJ10tFm",
+          "display_url": "pic.twitter.com/ommtJ10tFm",
+          "expanded_url": "https://twitter.com/simonbs/status/1450568400745476105/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 990,
+              "h": 929,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 990,
+              "h": 929,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 638,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1450568387197735000,
+          "id_str": "1450568387197734912",
+          "indices": [
+            59,
+            82
+          ],
+          "media_url": "http://pbs.twimg.com/media/FCF0Q0FVEAAgGcu.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FCF0Q0FVEAAgGcu.jpg",
+          "url": "https://t.co/ommtJ10tFm",
+          "display_url": "pic.twitter.com/ommtJ10tFm",
+          "expanded_url": "https://twitter.com/simonbs/status/1450568400745476105/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 990,
+              "h": 929,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 990,
+              "h": 929,
+              "resize": "fit"
+            },
+            "small": {
+              "w": 680,
+              "h": 638,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://tapbots.com/software/tweetbot/mac\" rel=\"nofollow\">Tweetbot for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 36411940,
+      "id_str": "36411940",
+      "name": "Simon B. Støvring",
+      "screen_name": "simonbs",
+      "location": "Denmark",
+      "description": "I tinker with iOS automation, poke at private APIs and build https://t.co/CPGnoK3KEN, https://t.co/sGi8oHKgMj and https://t.co/7USuFVxM4m. I like text editors.",
+      "url": "https://t.co/dESHiKbUs3",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/dESHiKbUs3",
+              "expanded_url": "http://simonbs.dev",
+              "display_url": "simonbs.dev",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/CPGnoK3KEN",
+              "expanded_url": "http://scriptable.app",
+              "display_url": "scriptable.app",
+              "indices": [
+                61,
+                84
+              ]
+            },
+            {
+              "url": "https://t.co/sGi8oHKgMj",
+              "expanded_url": "http://jayson.app",
+              "display_url": "jayson.app",
+              "indices": [
+                86,
+                109
+              ]
+            },
+            {
+              "url": "https://t.co/7USuFVxM4m",
+              "expanded_url": "http://datajar.app",
+              "display_url": "datajar.app",
+              "indices": [
+                114,
+                137
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 9594,
+      "friends_count": 160,
+      "listed_count": 343,
+      "created_at": "Wed Apr 29 17:15:03 +0000 2009",
+      "favourites_count": 5360,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 16107,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "022330",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951094313827565568/z0YPSg4k_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951094313827565568/z0YPSg4k_normal.jpg",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "A8C7F7",
+      "profile_sidebar_fill_color": "C0DFEC",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1341,
+    "favorite_count": 17216,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

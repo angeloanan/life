@@ -1,0 +1,183 @@
+[
+  {
+    "created_at": "Tue Jan 18 16:19:09 +0000 2022",
+    "id": 1483474046847225900,
+    "id_str": "1483474046847225865",
+    "text": "1. Starting today, I'm living on Airbnb. I’ll be staying in a different town or city every couple weeks",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 12901712,
+      "id_str": "12901712",
+      "name": "Brian Chesky 🇺🇦",
+      "screen_name": "bchesky",
+      "location": "An Airbnb somewhere ",
+      "description": "Airbnb",
+      "url": "https://t.co/jeulvKDUlu",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jeulvKDUlu",
+              "expanded_url": "http://airbnb.org/help-ukraine",
+              "display_url": "airbnb.org/help-ukraine",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 434333,
+      "friends_count": 86,
+      "listed_count": 4158,
+      "created_at": "Thu Jan 31 05:54:52 +0000 2008",
+      "favourites_count": 2107,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 4777,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/680250513951084544/yFwa_Sjd_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/680250513951084544/yFwa_Sjd_normal.jpg",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1414,
+    "favorite_count": 17042,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 18 14:09:50 +0000 2022",
+    "id": 1483441506455367700,
+    "id_str": "1483441506455367683",
+    "text": "By the way—we've got the .com, we've got the GitHub org, we've got the NPM scope 🔥\n\nThis never happens.",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1483198697693495300,
+      "id_str": "1483198697693495299",
+      "name": "TokenCSS",
+      "screen_name": "tokencss",
+      "location": "",
+      "description": "",
+      "url": "https://t.co/vtLJv2eqjJ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/vtLJv2eqjJ",
+              "expanded_url": "https://tokencss.com",
+              "display_url": "tokencss.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 112,
+      "friends_count": 7,
+      "listed_count": 1,
+      "created_at": "Mon Jan 17 22:05:29 +0000 2022",
+      "favourites_count": 4,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 6,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1483277867387699202/0mdJzCCt_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1483277867387699202/0mdJzCCt_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1483198697693495299/1642476183",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 23,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

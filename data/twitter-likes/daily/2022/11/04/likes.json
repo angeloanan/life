@@ -1,0 +1,347 @@
+[
+  {
+    "created_at": "Fri Nov 04 22:12:02 +0000 2022",
+    "id": 1588655335208030200,
+    "id_str": "1588655335208030209",
+    "text": "It's absurd how quickly $TWLO went from being the acquirer of choice ($60B market cap) to becoming a potential acqu… https://t.co/bZqSZa7WJG",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [
+        {
+          "text": "TWLO",
+          "indices": [
+            24,
+            29
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/bZqSZa7WJG",
+          "expanded_url": "https://twitter.com/i/web/status/1588655335208030209",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 95189128,
+      "id_str": "95189128",
+      "name": "Sudhee Chilappagari",
+      "screen_name": "webaficionado",
+      "location": "San Francisco, CA",
+      "description": "☁️ VC @BatteryVentures. Previously @Segment @Twilio. Views my own, no investment advice.",
+      "url": "https://t.co/xe7Vu14KrR",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/xe7Vu14KrR",
+              "expanded_url": "http://battery.com/sudhee",
+              "display_url": "battery.com/sudhee",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6697,
+      "friends_count": 2078,
+      "listed_count": 121,
+      "created_at": "Mon Dec 07 12:12:48 +0000 2009",
+      "favourites_count": 29144,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 9700,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1494517805739298816/xFCnhhPS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1494517805739298816/xFCnhhPS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/95189128/1654813929",
+      "profile_link_color": "4B5C07",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 138,
+    "favorite_count": 1948,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 04 21:39:39 +0000 2022",
+    "id": 1588647185859506200,
+    "id_str": "1588647185859506176",
+    "text": "god damn @Cloudflare workers are ridiculous. this is NOT local—though it might as well be since I think the server… https://t.co/aeCu41Q3Vp",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "Cloudflare",
+          "name": "Cloudflare",
+          "id": 32499999,
+          "id_str": "32499999",
+          "indices": [
+            9,
+            20
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/aeCu41Q3Vp",
+          "expanded_url": "https://twitter.com/i/web/status/1588647185859506176",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 122246321,
+      "id_str": "122246321",
+      "name": "Steve Ruiz",
+      "screen_name": "steveruizok",
+      "location": "London, England",
+      "description": "founder @tldraw 🫡 https://t.co/zUZsxIJ78o",
+      "url": "https://t.co/U8wzOclQnz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/U8wzOclQnz",
+              "expanded_url": "https://steveruiz.me",
+              "display_url": "steveruiz.me",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/zUZsxIJ78o",
+              "expanded_url": "https://mas.to/@steveruizok",
+              "display_url": "mas.to/@steveruizok",
+              "indices": [
+                18,
+                41
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 18539,
+      "friends_count": 645,
+      "listed_count": 301,
+      "created_at": "Fri Mar 12 02:46:31 +0000 2010",
+      "favourites_count": 12439,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 9918,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "89C9FA",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1593708597929713668/9FKDON7G_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1593708597929713668/9FKDON7G_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/122246321/1589227715",
+      "profile_link_color": "333333",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "EBEBEB",
+      "profile_text_color": "0A0A0A",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 65,
+    "favorite_count": 896,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Nov 04 19:33:04 +0000 2022",
+    "id": 1588615329919701000,
+    "id_str": "1588615329919700992",
+    "text": "@pitdesi @ShaanVP Forcing my portfolio companies to BeReal so I know they're always working",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "pitdesi",
+          "name": "Sheel Mohnot",
+          "id": 6228302,
+          "id_str": "6228302",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "screen_name": "ShaanVP",
+          "name": "Shaan Puri",
+          "id": 101354595,
+          "id_str": "101354595",
+          "indices": [
+            9,
+            17
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1588603560203153400,
+    "in_reply_to_status_id_str": "1588603560203153410",
+    "in_reply_to_user_id": 6228302,
+    "in_reply_to_user_id_str": "6228302",
+    "in_reply_to_screen_name": "pitdesi",
+    "user": {
+      "id": 1254214946751049700,
+      "id_str": "1254214946751049729",
+      "name": "Samuel Spitz",
+      "screen_name": "samuel_spitz",
+      "location": "San Francisco, CA",
+      "description": "CEO @Gently_com | Forbes 30u30 | This is a professional account, don’t try this at home",
+      "url": "https://t.co/MqtPkkwkXC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/MqtPkkwkXC",
+              "expanded_url": "http://Gently.com",
+              "display_url": "Gently.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 6770,
+      "friends_count": 538,
+      "listed_count": 43,
+      "created_at": "Sun Apr 26 01:05:37 +0000 2020",
+      "favourites_count": 14253,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 6934,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1573114647451865088/YxS3qYV3_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1573114647451865088/YxS3qYV3_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254214946751049729/1664288857",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "favorite_count": 249,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

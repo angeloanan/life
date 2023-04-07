@@ -1,0 +1,167 @@
+[
+  {
+    "categories": [
+      {
+        "decimal": "2.00",
+        "digital": "2:00:38",
+        "hours": 2,
+        "minutes": 0,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 38,
+        "text": "2 hrs",
+        "total_seconds": 7238.990244
+      }
+    ],
+    "dependencies": [
+      {
+        "decimal": "0.00",
+        "digital": "0:00:08",
+        "hours": 0,
+        "minutes": 0,
+        "name": "index",
+        "percent": 100,
+        "seconds": 8,
+        "text": "8 secs",
+        "total_seconds": 8.82141
+      }
+    ],
+    "editors": [
+      {
+        "decimal": "2.00",
+        "digital": "2:00:38",
+        "hours": 2,
+        "minutes": 0,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 38,
+        "text": "2 hrs",
+        "total_seconds": 7238.990244
+      }
+    ],
+    "grand_total": {
+      "decimal": "2.00",
+      "digital": "2:00",
+      "hours": 2,
+      "minutes": 0,
+      "text": "2 hrs",
+      "total_seconds": 7238.990244
+    },
+    "languages": [
+      {
+        "decimal": "1.98",
+        "digital": "1:59:24",
+        "hours": 1,
+        "minutes": 59,
+        "name": "TypeScript",
+        "percent": 98.98,
+        "seconds": 24,
+        "text": "1 hr 59 mins",
+        "total_seconds": 7164.996672
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:53",
+        "hours": 0,
+        "minutes": 0,
+        "name": "Other",
+        "percent": 0.74,
+        "seconds": 53,
+        "text": "53 secs",
+        "total_seconds": 53.207068
+      },
+      {
+        "decimal": "0.00",
+        "digital": "0:00:20",
+        "hours": 0,
+        "minutes": 0,
+        "name": "JSON",
+        "percent": 0.29,
+        "seconds": 20,
+        "text": "20 secs",
+        "total_seconds": 20.786504
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "1.42",
+        "digital": "1:25:31",
+        "hours": 1,
+        "machine_name_id": "af4d44a1-973c-43aa-8daa-5de9f0ecddf8",
+        "minutes": 25,
+        "name": "a4d634864f00",
+        "percent": 70.89,
+        "seconds": 31,
+        "text": "1 hr 25 mins",
+        "total_seconds": 5131.569901
+      },
+      {
+        "decimal": "0.58",
+        "digital": "0:35:07",
+        "hours": 0,
+        "machine_name_id": "50b34b1a-3f5b-4fd8-9d19-38541b95cd17",
+        "minutes": 35,
+        "name": "Anand's MacBook Pro",
+        "percent": 29.11,
+        "seconds": 7,
+        "text": "35 mins",
+        "total_seconds": 2107.420343
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "1.42",
+        "digital": "1:25:31",
+        "hours": 1,
+        "minutes": 25,
+        "name": "Linux",
+        "percent": 70.89,
+        "seconds": 31,
+        "text": "1 hr 25 mins",
+        "total_seconds": 5131.569901
+      },
+      {
+        "decimal": "0.58",
+        "digital": "0:35:07",
+        "hours": 0,
+        "minutes": 35,
+        "name": "Mac",
+        "percent": 29.11,
+        "seconds": 7,
+        "text": "35 mins",
+        "total_seconds": 2107.420343
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "1.42",
+        "digital": "1:25:31",
+        "hours": 1,
+        "minutes": 25,
+        "name": "pabio",
+        "percent": 70.89,
+        "seconds": 31,
+        "text": "1 hr 25 mins",
+        "total_seconds": 5131.569901
+      },
+      {
+        "decimal": "0.58",
+        "digital": "0:35:07",
+        "hours": 0,
+        "minutes": 35,
+        "name": "my-remix-app",
+        "percent": 29.11,
+        "seconds": 7,
+        "text": "35 mins",
+        "total_seconds": 2107.420343
+      }
+    ],
+    "range": {
+      "date": "2022-01-29",
+      "end": "2022-01-29T22:59:59Z",
+      "start": "2022-01-28T23:00:00Z",
+      "text": "Sat Jan 29th 2022",
+      "timezone": "Europe/Amsterdam"
+    }
+  }
+]

@@ -1,0 +1,99 @@
+[
+  {
+    "categories": [
+      {
+        "decimal": "0.35",
+        "digital": "0:21:40",
+        "hours": 0,
+        "minutes": 21,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 40,
+        "text": "21 mins",
+        "total_seconds": 1300.159901
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "decimal": "0.35",
+        "digital": "0:21:40",
+        "hours": 0,
+        "minutes": 21,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 40,
+        "text": "21 mins",
+        "total_seconds": 1300.159901
+      }
+    ],
+    "grand_total": {
+      "decimal": "0.35",
+      "digital": "0:21",
+      "hours": 0,
+      "minutes": 21,
+      "text": "21 mins",
+      "total_seconds": 1300.159901
+    },
+    "languages": [
+      {
+        "decimal": "0.35",
+        "digital": "0:21:40",
+        "hours": 0,
+        "minutes": 21,
+        "name": "TypeScript",
+        "percent": 100,
+        "seconds": 40,
+        "text": "21 mins",
+        "total_seconds": 1300.159901
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.35",
+        "digital": "0:21:40",
+        "hours": 0,
+        "machine_name_id": "4483e161-ae76-456e-a655-f780daa049db",
+        "minutes": 21,
+        "name": "Anand's MacBook Pro",
+        "percent": 100,
+        "seconds": 40,
+        "text": "21 mins",
+        "total_seconds": 1300.159901
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.35",
+        "digital": "0:21:40",
+        "hours": 0,
+        "minutes": 21,
+        "name": "Mac",
+        "percent": 100,
+        "seconds": 40,
+        "text": "21 mins",
+        "total_seconds": 1300.159901
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.35",
+        "digital": "0:21:40",
+        "hours": 0,
+        "minutes": 21,
+        "name": "pabio",
+        "percent": 100,
+        "seconds": 40,
+        "text": "21 mins",
+        "total_seconds": 1300.159901
+      }
+    ],
+    "range": {
+      "date": "2022-06-18",
+      "end": "2022-06-18T21:59:59Z",
+      "start": "2022-06-17T22:00:00Z",
+      "text": "Sat Jun 18th 2022",
+      "timezone": "Europe/Amsterdam"
+    }
+  }
+]

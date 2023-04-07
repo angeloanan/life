@@ -1,0 +1,206 @@
+[
+  {
+    "created_at": "Mon Sep 26 19:00:16 +0000 2022",
+    "id": 1574473948397326300,
+    "id_str": "1574473948397326337",
+    "text": "Men used to go to war and now they sell b2b SaaS",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 607528502,
+      "id_str": "607528502",
+      "name": "Jake",
+      "screen_name": "JustJake",
+      "location": "SF",
+      "description": "Conductor @Railway (Hiring) 🍁",
+      "url": "https://t.co/xgviZQiLES",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/xgviZQiLES",
+              "expanded_url": "https://justjake.substack.com/",
+              "display_url": "justjake.substack.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 8561,
+      "friends_count": 1865,
+      "listed_count": 145,
+      "created_at": "Wed Jun 13 20:34:30 +0000 2012",
+      "favourites_count": 24774,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 10464,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1443098436383903747/8aPr97_A_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1443098436383903747/8aPr97_A_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/607528502/1587601052",
+      "profile_link_color": "3B94D9",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1488,
+    "favorite_count": 15988,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Mon Sep 26 16:09:51 +0000 2022",
+    "id": 1574431064637874200,
+    "id_str": "1574431064637874176",
+    "text": "A rare moment in the @github DevRel team where everyone was roughly in a similar timezone and able to make the week… https://t.co/0pDDdCjVsx",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "github",
+          "name": "GitHub",
+          "id": 13334762,
+          "id_str": "13334762",
+          "indices": [
+            21,
+            28
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0pDDdCjVsx",
+          "expanded_url": "https://twitter.com/i/web/status/1574431064637874176",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 14252897,
+      "id_str": "14252897",
+      "name": "Martin Woodward",
+      "screen_name": "martinwoodward",
+      "location": "Northern Ireland",
+      "description": "VP of DevRel for @GitHub. Previously Executive Director @dotnetfdn and original creator of the @Microsoft org on @GitHub (he/him)",
+      "url": "https://t.co/iuuA2f76ZL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/iuuA2f76ZL",
+              "expanded_url": "http://www.woodwardweb.com",
+              "display_url": "woodwardweb.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 16751,
+      "friends_count": 1159,
+      "listed_count": 346,
+      "created_at": "Sat Mar 29 19:43:42 +0000 2008",
+      "favourites_count": 55371,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 14774,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1572537842911379460/Qo5Jfoa6_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1572537842911379460/Qo5Jfoa6_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14252897/1661990387",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "favorite_count": 249,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

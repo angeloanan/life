@@ -1,0 +1,134 @@
+[
+  {
+    "created_at": "Thu Dec 29 18:23:15 +0000 2022",
+    "id": 1608529094085574700,
+    "id_str": "1608529094085574656",
+    "text": "@rachel_l_woods @Superhuman @gmail Would your ideal be to filter them out/in/label?  (The main use case so far seem… https://t.co/yOwMw309m3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "rachel_l_woods",
+          "name": "Rachel Woods",
+          "id": 502400573,
+          "id_str": "502400573",
+          "indices": [
+            0,
+            15
+          ]
+        },
+        {
+          "screen_name": "Superhuman",
+          "name": "Superhuman",
+          "id": 4780060819,
+          "id_str": "4780060819",
+          "indices": [
+            16,
+            27
+          ]
+        },
+        {
+          "screen_name": "gmail",
+          "name": "Gmail",
+          "id": 38679388,
+          "id_str": "38679388",
+          "indices": [
+            28,
+            34
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/yOwMw309m3",
+          "expanded_url": "https://twitter.com/i/web/status/1608529094085574656",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1608508278283309000,
+    "in_reply_to_status_id_str": "1608508278283309056",
+    "in_reply_to_user_id": 502400573,
+    "in_reply_to_user_id_str": "502400573",
+    "in_reply_to_screen_name": "rachel_l_woods",
+    "user": {
+      "id": 13946232,
+      "id_str": "13946232",
+      "name": "rahulvohra",
+      "screen_name": "rahulvohra",
+      "location": "San Francisco",
+      "description": "Founder & CEO of @Superhuman. Founded Rapportive. Computer Scientist, Gamer, Entrepreneur, Designer.",
+      "url": "https://t.co/jEENAN4psi",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/jEENAN4psi",
+              "expanded_url": "http://superhuman.com",
+              "display_url": "superhuman.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 56321,
+      "friends_count": 1150,
+      "listed_count": 985,
+      "created_at": "Mon Feb 25 16:11:13 +0000 2008",
+      "favourites_count": 22779,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 11294,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1294349561108942848/-QncKIvb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1294349561108942848/-QncKIvb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/13946232/1537985624",
+      "profile_link_color": "ABB8C2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

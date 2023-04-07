@@ -1,0 +1,85 @@
+{
+  "2022-06-19": {
+    "Utilities": 3410,
+    "Business": 178,
+    "Communication & Scheduling": 146,
+    "Other Work": 77,
+    "Uncategorized": 3
+  },
+  "2022-06-20": {
+    "Software Development": 9499,
+    "Communication & Scheduling": 6985,
+    "Business": 4863,
+    "Design & Composition": 3528,
+    "Other Work": 3231,
+    "Uncategorized": 2574,
+    "Reference & Learning": 2396,
+    "Utilities": 588,
+    "Social Networking": 384,
+    "News & Opinion": 42,
+    "Entertainment": 1
+  },
+  "2022-06-21": {
+    "Software Development": 3977,
+    "Business": 3910,
+    "Communication & Scheduling": 3739,
+    "Design & Composition": 3607,
+    "Other Work": 1652,
+    "Reference & Learning": 1641,
+    "Social Networking": 1049,
+    "Uncategorized": 803,
+    "News & Opinion": 473,
+    "Utilities": 278,
+    "Entertainment": 208
+  },
+  "2022-06-22": {
+    "Software Development": 12808,
+    "Design & Composition": 4266,
+    "Communication & Scheduling": 3457,
+    "Other Work": 1325,
+    "Business": 1315,
+    "Reference & Learning": 883,
+    "Social Networking": 561,
+    "Utilities": 313,
+    "Entertainment": 257,
+    "Uncategorized": 197,
+    "News & Opinion": 32
+  },
+  "2022-06-23": {
+    "Software Development": 9774,
+    "Communication & Scheduling": 8989,
+    "Other Work": 4505,
+    "Business": 1413,
+    "Uncategorized": 490,
+    "Reference & Learning": 443,
+    "Entertainment": 358,
+    "Design & Composition": 282,
+    "Utilities": 186,
+    "Social Networking": 177,
+    "News & Opinion": 131
+  },
+  "2022-06-24": {
+    "Design & Composition": 5410,
+    "Communication & Scheduling": 4791,
+    "Software Development": 4745,
+    "Other Work": 2371,
+    "Business": 2220,
+    "Uncategorized": 2201,
+    "Reference & Learning": 1507,
+    "Utilities": 680,
+    "News & Opinion": 364,
+    "Social Networking": 337,
+    "Entertainment": 10
+  },
+  "2022-06-25": {
+    "Communication & Scheduling": 5437,
+    "Software Development": 672,
+    "Other Work": 389,
+    "Reference & Learning": 325,
+    "Design & Composition": 209,
+    "Business": 169,
+    "Uncategorized": 136,
+    "News & Opinion": 54,
+    "Utilities": 48
+  }
+}

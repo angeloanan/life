@@ -1,0 +1,821 @@
+[
+  {
+    "created_at": "Tue Jan 03 21:08:07 +0000 2023",
+    "id": 1610382521312899000,
+    "id_str": "1610382521312899072",
+    "text": "@carlobadini @Cron If you don't have much on your calendar, what do you need a better calendar application for?",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "carlobadini",
+          "name": "Carlo Badini",
+          "id": 385904343,
+          "id_str": "385904343",
+          "indices": [
+            0,
+            12
+          ]
+        },
+        {
+          "screen_name": "Cron",
+          "name": "Cron",
+          "id": 60743,
+          "id_str": "60743",
+          "indices": [
+            13,
+            18
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1610378122960011300,
+    "in_reply_to_status_id_str": "1610378122960011266",
+    "in_reply_to_user_id": 385904343,
+    "in_reply_to_user_id_str": "385904343",
+    "in_reply_to_screen_name": "carlobadini",
+    "user": {
+      "id": 793023,
+      "id_str": "793023",
+      "name": "Suhail",
+      "screen_name": "Suhail",
+      "location": "",
+      "description": "Founder: @playground_ai, @mixpanel\nPizzatarian, programmer, & music maker\nHiring: https://t.co/N17OIB1Ob1",
+      "url": "https://t.co/YLJca8Uf2O",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/YLJca8Uf2O",
+              "expanded_url": "http://playgroundai.com",
+              "display_url": "playgroundai.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/N17OIB1Ob1",
+              "expanded_url": "http://playgroundai.com/jobs",
+              "display_url": "playgroundai.com/jobs",
+              "indices": [
+                82,
+                105
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 197977,
+      "friends_count": 465,
+      "listed_count": 2486,
+      "created_at": "Sat Feb 24 22:17:47 +0000 2007",
+      "favourites_count": 4491,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 13890,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1467327500967579651/M-hifx0d_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1467327500967579651/M-hifx0d_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/793023/1477244032",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 12,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 03 20:10:30 +0000 2023",
+    "id": 1610368021838676000,
+    "id_str": "1610368021838675968",
+    "text": "Shopify's flagship mobile app now on React Native 🥳 https://t.co/KaX72VtbQN",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/KaX72VtbQN",
+          "expanded_url": "https://twitter.com/mauriciom/status/1607776301661708290",
+          "display_url": "twitter.com/mauriciom/stat…",
+          "indices": [
+            52,
+            75
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3003743254,
+      "id_str": "3003743254",
+      "name": "React Native",
+      "screen_name": "reactnative",
+      "location": "",
+      "description": "The official React Native Twitter account.",
+      "url": "https://t.co/YzJoQsh6C4",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/YzJoQsh6C4",
+              "expanded_url": "https://reactnative.dev",
+              "display_url": "reactnative.dev",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 167874,
+      "friends_count": 47,
+      "listed_count": 1948,
+      "created_at": "Wed Jan 28 19:03:15 +0000 2015",
+      "favourites_count": 302,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 628,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": true,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/763061332702736385/KoK6gHzp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/763061332702736385/KoK6gHzp_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3003743254/1470763303",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1607776301661708300,
+    "quoted_status_id_str": "1607776301661708290",
+    "quoted_status": {
+      "created_at": "Tue Dec 27 16:31:56 +0000 2022",
+      "id": 1607776301661708300,
+      "id_str": "1607776301661708290",
+      "text": "Since we at @ShopifyEng decided to go all in on React Native in 2020, we've been busy migrating all our native mobi… https://t.co/YouUoOApoB",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "ShopifyEng",
+            "name": "Shopify Engineering",
+            "id": 732393381444255700,
+            "id_str": "732393381444255744",
+            "indices": [
+              12,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YouUoOApoB",
+            "expanded_url": "https://twitter.com/i/web/status/1607776301661708290",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              117,
+              140
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 14306313,
+        "id_str": "14306313",
+        "name": "Mauricio Meirelles",
+        "screen_name": "mauriciom",
+        "location": "Amsterdam, The Netherlands",
+        "description": "Staff Developer @Shopify 🛒 • prev @bookingcom",
+        "url": null,
+        "entities": {
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 899,
+        "friends_count": 1730,
+        "listed_count": 25,
+        "created_at": "Fri Apr 04 21:16:08 +0000 2008",
+        "favourites_count": 1687,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 2290,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "131516",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+        "profile_background_tile": true,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1447622610611802117/JWi-WkLn_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1447622610611802117/JWi-WkLn_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14306313/1516022983",
+        "profile_link_color": "009999",
+        "profile_sidebar_border_color": "EEEEEE",
+        "profile_sidebar_fill_color": "EFEFEF",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 109,
+      "favorite_count": 516,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 72,
+    "favorite_count": 508,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 03 18:35:24 +0000 2023",
+    "id": 1610344091090583600,
+    "id_str": "1610344091090583553",
+    "text": "I'm *extremely* excited to announce that I'm teaming up with @astrodotbuild!\n\nafter an absolutely delightful month… https://t.co/Y4GV1kZVe3",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "astrodotbuild",
+          "name": "Astro",
+          "id": 1376650370340987000,
+          "id_str": "1376650370340986883",
+          "indices": [
+            61,
+            75
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Y4GV1kZVe3",
+          "expanded_url": "https://twitter.com/i/web/status/1610344091090583553",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            116,
+            139
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 15668072,
+      "id_str": "15668072",
+      "name": "Jason Lengstorf ⚡️",
+      "screen_name": "jlengstorf",
+      "location": "Portland, OR",
+      "description": "⚡️ a.k.a. Blitz Jackson \n📺 host @LWJShow \n🍔 Undisputed Smashburger Champ \n🐘 Mastodon: @jlengstorf@hachyderm.io \nhe/him",
+      "url": "https://t.co/4idxXZkIrL",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/4idxXZkIrL",
+              "expanded_url": "https://www.jason.af/links/",
+              "display_url": "jason.af/links/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 46054,
+      "friends_count": 1904,
+      "listed_count": 1043,
+      "created_at": "Wed Jul 30 23:49:03 +0000 2008",
+      "favourites_count": 75640,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 36583,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme8/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1524064394157576193/tB5HL_ES_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1524064394157576193/tB5HL_ES_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/15668072/1652200253",
+      "profile_link_color": "1C94E0",
+      "profile_sidebar_border_color": "BABABA",
+      "profile_sidebar_fill_color": "E6E6E6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "favorite_count": 326,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 03 17:16:33 +0000 2023",
+    "id": 1610324245917335600,
+    "id_str": "1610324245917335552",
+    "text": "Amazing progress on tap water hookups in rural India: https://t.co/jubUMaHLV1",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1610323449259643000,
+          "id_str": "1610323449259642881",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/FlkEpS6aUAEgeJx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FlkEpS6aUAEgeJx.jpg",
+          "url": "https://t.co/jubUMaHLV1",
+          "display_url": "pic.twitter.com/jubUMaHLV1",
+          "expanded_url": "https://twitter.com/jasoncrawford/status/1610324245917335552/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1200,
+              "h": 772,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 437,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 772,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1610323449259643000,
+          "id_str": "1610323449259642881",
+          "indices": [
+            54,
+            77
+          ],
+          "media_url": "http://pbs.twimg.com/media/FlkEpS6aUAEgeJx.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FlkEpS6aUAEgeJx.jpg",
+          "url": "https://t.co/jubUMaHLV1",
+          "display_url": "pic.twitter.com/jubUMaHLV1",
+          "expanded_url": "https://twitter.com/jasoncrawford/status/1610324245917335552/photo/1",
+          "type": "photo",
+          "sizes": {
+            "large": {
+              "w": 1200,
+              "h": 772,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 437,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 772,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 3140391,
+      "id_str": "3140391",
+      "name": "Jason Crawford",
+      "screen_name": "jasoncrawford",
+      "location": "San Francisco, CA",
+      "description": "Founder, @rootsofprogress. I write about the history of technology and the philosophy of progress. Part-time consultant to @OurWorldInData. Former tech founder",
+      "url": "https://t.co/kWkrNBsvQ5",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/kWkrNBsvQ5",
+              "expanded_url": "https://jasoncrawford.org",
+              "display_url": "jasoncrawford.org",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 26406,
+      "friends_count": 2440,
+      "listed_count": 721,
+      "created_at": "Sun Apr 01 17:42:00 +0000 2007",
+      "favourites_count": 64748,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 24227,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "9AE4E8",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1227771761078362113/AaFoJ0VI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1227771761078362113/AaFoJ0VI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3140391/1572299117",
+      "profile_link_color": "0000FF",
+      "profile_sidebar_border_color": "87BC44",
+      "profile_sidebar_fill_color": "E0FF92",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 448,
+    "favorite_count": 3980,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Tue Jan 03 16:59:40 +0000 2023",
+    "id": 1610319996260958200,
+    "id_str": "1610319996260958209",
+    "text": "Doctors don’t really understand anything; they’re just doing next word prediction https://t.co/LLo0fKWIFB",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/LLo0fKWIFB",
+          "expanded_url": "https://twitter.com/emollick/status/1610261628607512576",
+          "display_url": "twitter.com/emollick/statu…",
+          "indices": [
+            82,
+            105
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1374206341397377000,
+      "id_str": "1374206341397377026",
+      "name": "EigenGender",
+      "screen_name": "EigenGender",
+      "location": "Seattle, WA",
+      "description": "Large language models @cohereai. Aspiring to be a good enough ML researcher that killing me is an EA cause area. Pre-post-rat; kinda EA; 🏳️‍⚧️",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 3790,
+      "friends_count": 464,
+      "listed_count": 58,
+      "created_at": "Tue Mar 23 03:49:50 +0000 2021",
+      "favourites_count": 6364,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 1284,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1400535427203825664/-H_X3Jaz_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1400535427203825664/-H_X3Jaz_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1610261628607512600,
+    "quoted_status_id_str": "1610261628607512576",
+    "quoted_status": {
+      "created_at": "Tue Jan 03 13:07:44 +0000 2023",
+      "id": 1610261628607512600,
+      "id_str": "1610261628607512576",
+      "text": "Extraordinary new paper from Google on medicine &amp; AI: When Google tuned a AI chatbot to answer common medical quest… https://t.co/uA7bfUG49k",
+      "truncated": true,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "https://t.co/uA7bfUG49k",
+            "expanded_url": "https://twitter.com/i/web/status/1610261628607512576",
+            "display_url": "twitter.com/i/web/status/1…",
+            "indices": [
+              121,
+              144
+            ]
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 39125788,
+        "id_str": "39125788",
+        "name": "Ethan Mollick",
+        "screen_name": "emollick",
+        "location": "Philadelphia, PA",
+        "description": "Professor @Wharton studying innovation & startups. Democratizing business education with games (Play: https://t.co/wGEvJUzwOC) Substack: https://t.co/bizU3DII97",
+        "url": "https://t.co/uItckI9ujc",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/uItckI9ujc",
+                "expanded_url": "https://mgmt.wharton.upenn.edu/profile/emollick/",
+                "display_url": "mgmt.wharton.upenn.edu/profile/emolli…",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/wGEvJUzwOC",
+                "expanded_url": "https://interactive.wharton.upenn.edu/",
+                "display_url": "interactive.wharton.upenn.edu",
+                "indices": [
+                  102,
+                  125
+                ]
+              },
+              {
+                "url": "https://t.co/bizU3DII97",
+                "expanded_url": "https://oneusefulthing.substack.com/",
+                "display_url": "oneusefulthing.substack.com",
+                "indices": [
+                  137,
+                  160
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 98711,
+        "friends_count": 502,
+        "listed_count": 1830,
+        "created_at": "Sun May 10 22:33:52 +0000 2009",
+        "favourites_count": 5304,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": false,
+        "verified": true,
+        "statuses_count": 18905,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1601382188712398850/3AAOlqrX_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/39125788/1629211229",
+        "profile_link_color": "032A96",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1772,
+      "favorite_count": 8475,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 44,
+    "favorite_count": 881,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

@@ -1,0 +1,1175 @@
+[
+  {
+    "created_at": "Sat Feb 25 18:39:19 +0000 2023",
+    "id": 1629551631783149600,
+    "id_str": "1629551631783149569",
+    "text": "It's crazy how one tweet can make such an impact https://t.co/Ta5XyI4lwT",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ta5XyI4lwT",
+          "expanded_url": "https://twitter.com/tobi/status/1629525842064752641",
+          "display_url": "twitter.com/tobi/status/16…",
+          "indices": [
+            49,
+            72
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 423765620,
+      "id_str": "423765620",
+      "name": "Tobias Lins",
+      "screen_name": "linstobias",
+      "location": "Vienna, Austria",
+      "description": "· Building @Vercel Analytics\n· Splitbee Founder (acquired by Vercel) \n· Co-Creator of https://t.co/ntvIQbfUkG (acquired)\n· Co-Creator of https://t.co/jzbfV4f1EY",
+      "url": "https://t.co/sorJch6hY1",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/sorJch6hY1",
+              "expanded_url": "https://tobi.sh",
+              "display_url": "tobi.sh",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/ntvIQbfUkG",
+              "expanded_url": "http://feedback.fish",
+              "display_url": "feedback.fish",
+              "indices": [
+                86,
+                109
+              ]
+            },
+            {
+              "url": "https://t.co/jzbfV4f1EY",
+              "expanded_url": "http://react-notion.com",
+              "display_url": "react-notion.com",
+              "indices": [
+                137,
+                160
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 3556,
+      "friends_count": 731,
+      "listed_count": 78,
+      "created_at": "Mon Nov 28 22:28:16 +0000 2011",
+      "favourites_count": 8134,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 1309,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1361293861813956608/FBJWYoXx_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1361293861813956608/FBJWYoXx_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/423765620/1586860781",
+      "profile_link_color": "888888",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1629525842064752600,
+    "quoted_status_id_str": "1629525842064752641",
+    "quoted_status": {
+      "created_at": "Sat Feb 25 16:56:50 +0000 2023",
+      "id": 1629525842064752600,
+      "id_str": "1629525842064752641",
+      "text": "@linstobias @Shopify almost fixed. we are down to 3. From an astonishing 61 across all our systems. Thanks for pointing this out. Sigh.",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "linstobias",
+            "name": "Tobias Lins",
+            "id": 423765620,
+            "id_str": "423765620",
+            "indices": [
+              0,
+              11
+            ]
+          },
+          {
+            "screen_name": "Shopify",
+            "name": "Shopify",
+            "id": 17136315,
+            "id_str": "17136315",
+            "indices": [
+              12,
+              20
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": 1622674140791545900,
+      "in_reply_to_status_id_str": "1622674140791545863",
+      "in_reply_to_user_id": 423765620,
+      "in_reply_to_user_id_str": "423765620",
+      "in_reply_to_screen_name": "linstobias",
+      "user": {
+        "id": 676573,
+        "id_str": "676573",
+        "name": "tobi lutke",
+        "screen_name": "tobi",
+        "location": "Canada",
+        "description": "@Shopify CEO by day, Dad in evening, hacker at night. Aspiring comprehensivist. (tweets auto delete) retweet/like=noteworthy share, not endorsement",
+        "url": "https://t.co/4GpaVlpilw",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/4GpaVlpilw",
+                "expanded_url": "https://linkpop.com/tobi",
+                "display_url": "linkpop.com/tobi",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": []
+          }
+        },
+        "protected": false,
+        "followers_count": 295911,
+        "friends_count": 1860,
+        "listed_count": 3529,
+        "created_at": "Sun Jan 21 20:23:15 +0000 2007",
+        "favourites_count": 5058,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 6840,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "022330",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1596528201337028610/dX_NS_JB_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1596528201337028610/dX_NS_JB_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/676573/1640024536",
+        "profile_link_color": "0084B4",
+        "profile_sidebar_border_color": "A8C7F7",
+        "profile_sidebar_fill_color": "C0DFEC",
+        "profile_text_color": "333333",
+        "profile_use_background_image": true,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "favorite_count": 174,
+      "favorited": false,
+      "retweeted": false,
+      "lang": "en"
+    },
+    "retweet_count": 3,
+    "favorite_count": 79,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 25 15:19:29 +0000 2023",
+    "id": 1629501342715723800,
+    "id_str": "1629501342715723780",
+    "text": "Jetbrains is the adobe for devs",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1120635918,
+      "id_str": "1120635918",
+      "name": "Spencer Levitt",
+      "screen_name": "spencermlevitt",
+      "location": "",
+      "description": "cURLing 🥌 @ coast | @ycombinator s21",
+      "url": "https://t.co/wrRHJBsMuU",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wrRHJBsMuU",
+              "expanded_url": "https://coast.io",
+              "display_url": "coast.io",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 166,
+      "friends_count": 555,
+      "listed_count": 0,
+      "created_at": "Sat Jan 26 01:06:18 +0000 2013",
+      "favourites_count": 146,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 25,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1616934005651169280/Kn0Lj_bs_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1616934005651169280/Kn0Lj_bs_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1120635918/1502036832",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 20,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 25 10:55:44 +0000 2023",
+    "id": 1629434967469047800,
+    "id_str": "1629434967469047809",
+    "text": "Marc Andreessen (@pmarca), 30 years ago. https://t.co/UMvWKqCuzz",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "pmarca",
+          "name": "Marc Andreessen",
+          "id": 5943622,
+          "id_str": "5943622",
+          "indices": [
+            17,
+            24
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1629434961303355400,
+          "id_str": "1629434961303355394",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpzqdtUWwAIpiTa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpzqdtUWwAIpiTa.jpg",
+          "url": "https://t.co/UMvWKqCuzz",
+          "display_url": "pic.twitter.com/UMvWKqCuzz",
+          "expanded_url": "https://twitter.com/mikko/status/1629434967469047809/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 541,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1170,
+              "h": 930,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1170,
+              "h": 930,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1629434961303355400,
+          "id_str": "1629434961303355394",
+          "indices": [
+            41,
+            64
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpzqdtUWwAIpiTa.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpzqdtUWwAIpiTa.jpg",
+          "url": "https://t.co/UMvWKqCuzz",
+          "display_url": "pic.twitter.com/UMvWKqCuzz",
+          "expanded_url": "https://twitter.com/mikko/status/1629434967469047809/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 680,
+              "h": 541,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 1170,
+              "h": 930,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1170,
+              "h": 930,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23566038,
+      "id_str": "23566038",
+      "name": "@mikko",
+      "screen_name": "mikko",
+      "location": "Finland",
+      "description": "Infosec speaker and author. \nChief Research Officer at WithSecure, Principal Research Advisor at F-Secure.\nHey folks, stop recommending the ISO-8601 standard.",
+      "url": "https://t.co/pU7AImSvOz",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/pU7AImSvOz",
+              "expanded_url": "http://mikko.com/books",
+              "display_url": "mikko.com/books",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 228673,
+      "friends_count": 932,
+      "listed_count": 5581,
+      "created_at": "Tue Mar 10 06:53:11 +0000 2009",
+      "favourites_count": 63729,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 60731,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7B97D0",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/879614951446466560/tIIIPp2E_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/879614951446466560/tIIIPp2E_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23566038/1671808662",
+      "profile_link_color": "00398E",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "CDCFCB",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 950,
+    "favorite_count": 10224,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 25 10:55:43 +0000 2023",
+    "id": 1629434964210077700,
+    "id_str": "1629434964210077702",
+    "text": "Me in prison for copying @dannypostmaa's button gradients https://t.co/tQkm12DkkM https://t.co/2hitpNZ9D7",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "dannypostmaa",
+          "name": "Danny Postma",
+          "id": 197785542,
+          "id_str": "197785542",
+          "indices": [
+            25,
+            38
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/tQkm12DkkM",
+          "expanded_url": "https://twitter.com/dannypostmaa/status/1629425918614597633",
+          "display_url": "twitter.com/dannypostmaa/s…",
+          "indices": [
+            58,
+            81
+          ]
+        }
+      ],
+      "media": [
+        {
+          "id": 1629434760195104800,
+          "id_str": "1629434760195104768",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpzqSAIaYAAKVFj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpzqSAIaYAAKVFj.jpg",
+          "url": "https://t.co/2hitpNZ9D7",
+          "display_url": "pic.twitter.com/2hitpNZ9D7",
+          "expanded_url": "https://twitter.com/levelsio/status/1629434964210077702/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1629434760195104800,
+          "id_str": "1629434760195104768",
+          "indices": [
+            82,
+            105
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpzqSAIaYAAKVFj.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FpzqSAIaYAAKVFj.jpg",
+          "url": "https://t.co/2hitpNZ9D7",
+          "display_url": "pic.twitter.com/2hitpNZ9D7",
+          "expanded_url": "https://twitter.com/levelsio/status/1629434964210077702/photo/1",
+          "type": "photo",
+          "sizes": {
+            "medium": {
+              "w": 800,
+              "h": 1200,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 453,
+              "h": 680,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 1024,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1577241403,
+      "id_str": "1577241403",
+      "name": "@levelsio",
+      "screen_name": "levelsio",
+      "location": "📕 My book 👉",
+      "description": "👦Indiepreneur making:\n\n📸 https://t.co/lAyoqmT9Hv\n🦾 https://t.co/CzsBC0Ei5g\n👨‍🎤 https://t.co/Zhz2Y4dqiv\n🖼 https://t.co/1oqUgfDEsx\n🏡 https://t.co/vNKLuLV7vq\n🧠 https://t.co/WNLj4eGTZY\n\n🌍 https://t.co/BjTozWBvme\n🛰 https://t.co/ZHSvI2wRou",
+      "url": "https://t.co/6RM0RsVv4M",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/6RM0RsVv4M",
+              "expanded_url": "https://readMAKE.com",
+              "display_url": "readMAKE.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/lAyoqmT9Hv",
+              "expanded_url": "http://PhotoAI.com",
+              "display_url": "PhotoAI.com",
+              "indices": [
+                25,
+                48
+              ]
+            },
+            {
+              "url": "https://t.co/CzsBC0Ei5g",
+              "expanded_url": "http://aiOK.co",
+              "display_url": "aiOK.co",
+              "indices": [
+                51,
+                74
+              ]
+            },
+            {
+              "url": "https://t.co/Zhz2Y4dqiv",
+              "expanded_url": "http://AvatarAI.me",
+              "display_url": "AvatarAI.me",
+              "indices": [
+                79,
+                102
+              ]
+            },
+            {
+              "url": "https://t.co/1oqUgfDEsx",
+              "expanded_url": "http://InteriorAI.com",
+              "display_url": "InteriorAI.com",
+              "indices": [
+                105,
+                128
+              ]
+            },
+            {
+              "url": "https://t.co/vNKLuLV7vq",
+              "expanded_url": "http://THDNE.com",
+              "display_url": "THDNE.com",
+              "indices": [
+                131,
+                154
+              ]
+            },
+            {
+              "url": "https://t.co/WNLj4eGTZY",
+              "expanded_url": "http://IdeasAI.com",
+              "display_url": "IdeasAI.com",
+              "indices": [
+                157,
+                180
+              ]
+            },
+            {
+              "url": "https://t.co/BjTozWBvme",
+              "expanded_url": "http://NomadList.com",
+              "display_url": "NomadList.com",
+              "indices": [
+                184,
+                207
+              ]
+            },
+            {
+              "url": "https://t.co/ZHSvI2wRou",
+              "expanded_url": "http://RemoteOK.com",
+              "display_url": "RemoteOK.com",
+              "indices": [
+                210,
+                233
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 252531,
+      "friends_count": 694,
+      "listed_count": 3776,
+      "created_at": "Mon Jul 08 09:31:59 +0000 2013",
+      "favourites_count": 80944,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 108222,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1589756412078555136/YlXMBzhp_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1589756412078555136/YlXMBzhp_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1577241403/1665964220",
+      "profile_link_color": "FF473F",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1629425918614597600,
+    "quoted_status_id_str": "1629425918614597633",
+    "quoted_status": {
+      "created_at": "Sat Feb 25 10:19:46 +0000 2023",
+      "id": 1629425918614597600,
+      "id_str": "1629425918614597633",
+      "text": "When @levelsio copies your button gradient &amp; now your UI looks too much like his https://t.co/1HciYkYgLQ",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "levelsio",
+            "name": "@levelsio",
+            "id": 1577241403,
+            "id_str": "1577241403",
+            "indices": [
+              5,
+              14
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1629425706789732400,
+            "id_str": "1629425706789732353",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/FpziDBkXgAEMvU-.png",
+            "media_url_https": "https://pbs.twimg.com/media/FpziDBkXgAEMvU-.png",
+            "url": "https://t.co/1HciYkYgLQ",
+            "display_url": "pic.twitter.com/1HciYkYgLQ",
+            "expanded_url": "https://twitter.com/dannypostmaa/status/1629425918614597633/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 512,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 512,
+                "h": 640,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 512,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1629425706789732400,
+            "id_str": "1629425706789732353",
+            "indices": [
+              85,
+              108
+            ],
+            "media_url": "http://pbs.twimg.com/media/FpziDBkXgAEMvU-.png",
+            "media_url_https": "https://pbs.twimg.com/media/FpziDBkXgAEMvU-.png",
+            "url": "https://t.co/1HciYkYgLQ",
+            "display_url": "pic.twitter.com/1HciYkYgLQ",
+            "expanded_url": "https://twitter.com/dannypostmaa/status/1629425918614597633/photo/1",
+            "type": "photo",
+            "sizes": {
+              "small": {
+                "w": 512,
+                "h": 640,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 512,
+                "h": 640,
+                "resize": "fit"
+              },
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 512,
+                "h": 640,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 197785542,
+        "id_str": "197785542",
+        "name": "Danny Postma",
+        "screen_name": "dannypostmaa",
+        "location": "Get a new profile picture → ",
+        "description": "⚡ Indiepreneur building AI startups in public.\n\nLatest → ⚡ https://t.co/reapzFhoYc\n\nAll →  https://t.co/doMcG25wEl\n\nPreviously Headlime, acquired by Jasper.",
+        "url": "https://t.co/eeJLw0RsvG",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/eeJLw0RsvG",
+                "expanded_url": "https://www.profilepicture.ai",
+                "display_url": "profilepicture.ai",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/reapzFhoYc",
+                "expanded_url": "http://HeadshotPro.com",
+                "display_url": "HeadshotPro.com",
+                "indices": [
+                  59,
+                  82
+                ]
+              },
+              {
+                "url": "https://t.co/doMcG25wEl",
+                "expanded_url": "http://postcrafts.com",
+                "display_url": "postcrafts.com",
+                "indices": [
+                  91,
+                  114
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 62358,
+        "friends_count": 552,
+        "listed_count": 948,
+        "created_at": "Sat Oct 02 13:11:54 +0000 2010",
+        "favourites_count": 16927,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": false,
+        "statuses_count": 23738,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "FABA5A",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1587046912490090496/kuBUqNkb_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1587046912490090496/kuBUqNkb_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/197785542/1675856223",
+        "profile_link_color": "1B95E0",
+        "profile_sidebar_border_color": "C0DEED",
+        "profile_sidebar_fill_color": "DDEEF6",
+        "profile_text_color": "333333",
+        "profile_use_background_image": false,
+        "has_extended_profile": true,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": true,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "favorite_count": 406,
+      "favorited": true,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 1,
+    "favorite_count": 159,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Sat Feb 25 10:19:46 +0000 2023",
+    "id": 1629425918614597600,
+    "id_str": "1629425918614597633",
+    "text": "When @levelsio copies your button gradient &amp; now your UI looks too much like his https://t.co/1HciYkYgLQ",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "levelsio",
+          "name": "@levelsio",
+          "id": 1577241403,
+          "id_str": "1577241403",
+          "indices": [
+            5,
+            14
+          ]
+        }
+      ],
+      "urls": [],
+      "media": [
+        {
+          "id": 1629425706789732400,
+          "id_str": "1629425706789732353",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpziDBkXgAEMvU-.png",
+          "media_url_https": "https://pbs.twimg.com/media/FpziDBkXgAEMvU-.png",
+          "url": "https://t.co/1HciYkYgLQ",
+          "display_url": "pic.twitter.com/1HciYkYgLQ",
+          "expanded_url": "https://twitter.com/dannypostmaa/status/1629425918614597633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 512,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 512,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 512,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1629425706789732400,
+          "id_str": "1629425706789732353",
+          "indices": [
+            85,
+            108
+          ],
+          "media_url": "http://pbs.twimg.com/media/FpziDBkXgAEMvU-.png",
+          "media_url_https": "https://pbs.twimg.com/media/FpziDBkXgAEMvU-.png",
+          "url": "https://t.co/1HciYkYgLQ",
+          "display_url": "pic.twitter.com/1HciYkYgLQ",
+          "expanded_url": "https://twitter.com/dannypostmaa/status/1629425918614597633/photo/1",
+          "type": "photo",
+          "sizes": {
+            "small": {
+              "w": 512,
+              "h": 640,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 512,
+              "h": 640,
+              "resize": "fit"
+            },
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "medium": {
+              "w": 512,
+              "h": 640,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 197785542,
+      "id_str": "197785542",
+      "name": "Danny Postma",
+      "screen_name": "dannypostmaa",
+      "location": "Get a new profile picture → ",
+      "description": "⚡ Indiepreneur building AI startups in public.\n\nLatest → ⚡ https://t.co/reapzFhoYc\n\nAll →  https://t.co/doMcG25wEl\n\nPreviously Headlime, acquired by Jasper.",
+      "url": "https://t.co/eeJLw0RsvG",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/eeJLw0RsvG",
+              "expanded_url": "https://www.profilepicture.ai",
+              "display_url": "profilepicture.ai",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/reapzFhoYc",
+              "expanded_url": "http://HeadshotPro.com",
+              "display_url": "HeadshotPro.com",
+              "indices": [
+                59,
+                82
+              ]
+            },
+            {
+              "url": "https://t.co/doMcG25wEl",
+              "expanded_url": "http://postcrafts.com",
+              "display_url": "postcrafts.com",
+              "indices": [
+                91,
+                114
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 62358,
+      "friends_count": 552,
+      "listed_count": 948,
+      "created_at": "Sat Oct 02 13:11:54 +0000 2010",
+      "favourites_count": 16927,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 23738,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FABA5A",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1587046912490090496/kuBUqNkb_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1587046912490090496/kuBUqNkb_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/197785542/1675856223",
+      "profile_link_color": "1B95E0",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": true,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 406,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]

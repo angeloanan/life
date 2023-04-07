@@ -1,0 +1,82 @@
+{
+  "2021-10-31": {
+    "Software Development": 13696,
+    "Communication & Scheduling": 584,
+    "Uncategorized": 481,
+    "Reference & Learning": 168,
+    "News & Opinion": 95,
+    "Business": 90,
+    "Utilities": 59,
+    "Shopping": 1
+  },
+  "2021-11-1": {
+    "Software Development": 29765,
+    "Communication & Scheduling": 5485,
+    "Uncategorized": 2149,
+    "Business": 1959,
+    "Reference & Learning": 231,
+    "Utilities": 189,
+    "Design & Composition": 100,
+    "News & Opinion": 81
+  },
+  "2021-11-2": {
+    "Software Development": 23146,
+    "Communication & Scheduling": 8754,
+    "Business": 1303,
+    "Reference & Learning": 414,
+    "Uncategorized": 396,
+    "Utilities": 166,
+    "News & Opinion": 119,
+    "Shopping": 104,
+    "Social Networking": 49,
+    "Design & Composition": 6
+  },
+  "2021-11-3": {
+    "Software Development": 26220,
+    "Communication & Scheduling": 7364,
+    "Business": 2682,
+    "Reference & Learning": 2181,
+    "Uncategorized": 1367,
+    "Utilities": 312,
+    "News & Opinion": 225,
+    "Social Networking": 193,
+    "Design & Composition": 185,
+    "Shopping": 7,
+    "Entertainment": 5
+  },
+  "2021-11-4": {
+    "Software Development": 18308,
+    "Communication & Scheduling": 9954,
+    "Business": 3976,
+    "Utilities": 294,
+    "Reference & Learning": 289,
+    "Uncategorized": 284,
+    "Design & Composition": 82,
+    "News & Opinion": 52,
+    "Social Networking": 12,
+    "Shopping": 11
+  },
+  "2021-11-5": {
+    "Software Development": 17037,
+    "Communication & Scheduling": 8010,
+    "Business": 638,
+    "Reference & Learning": 338,
+    "Uncategorized": 334,
+    "Utilities": 227,
+    "Design & Composition": 92,
+    "Entertainment": 55,
+    "Social Networking": 42
+  },
+  "2021-11-6": {
+    "Software Development": 12386,
+    "Communication & Scheduling": 9240,
+    "Uncategorized": 1682,
+    "Reference & Learning": 1633,
+    "Utilities": 864,
+    "Design & Composition": 806,
+    "Shopping": 611,
+    "Entertainment": 175,
+    "News & Opinion": 152,
+    "Business": 18
+  }
+}

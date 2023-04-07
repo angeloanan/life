@@ -1,0 +1,82 @@
+{
+  "2022-06-12": {
+    "Entertainment": 601,
+    "Reference & Learning": 39,
+    "Utilities": 4,
+    "Uncategorized": 2
+  },
+  "2022-06-13": {
+    "Utilities": 1736,
+    "Reference & Learning": 363,
+    "Communication & Scheduling": 126,
+    "Uncategorized": 12,
+    "Other Work": 9,
+    "Software Development": 2
+  },
+  "2022-06-14": {
+    "Software Development": 6093,
+    "Other Work": 6045,
+    "Communication & Scheduling": 5671,
+    "Business": 5437,
+    "Reference & Learning": 705,
+    "Uncategorized": 471,
+    "News & Opinion": 281,
+    "Utilities": 249,
+    "Design & Composition": 74,
+    "Entertainment": 32,
+    "Social Networking": 22
+  },
+  "2022-06-15": {
+    "Software Development": 13203,
+    "Other Work": 5837,
+    "Business": 4256,
+    "Communication & Scheduling": 1393,
+    "Uncategorized": 980,
+    "Entertainment": 953,
+    "Reference & Learning": 927,
+    "Utilities": 869,
+    "News & Opinion": 220,
+    "Design & Composition": 151,
+    "Social Networking": 108
+  },
+  "2022-06-16": {
+    "Software Development": 11660,
+    "Business": 10411,
+    "Communication & Scheduling": 8498,
+    "Other Work": 4895,
+    "Design & Composition": 2087,
+    "Uncategorized": 1366,
+    "Utilities": 424,
+    "Reference & Learning": 303,
+    "News & Opinion": 84,
+    "Social Networking": 71,
+    "Shopping": 52
+  },
+  "2022-06-17": {
+    "Software Development": 16518,
+    "Communication & Scheduling": 5567,
+    "Other Work": 3020,
+    "Utilities": 2667,
+    "Uncategorized": 2053,
+    "Reference & Learning": 1505,
+    "Business": 1204,
+    "News & Opinion": 308,
+    "Entertainment": 263,
+    "Social Networking": 218,
+    "Design & Composition": 214,
+    "Shopping": 139
+  },
+  "2022-06-18": {
+    "Other Work": 1067,
+    "Software Development": 796,
+    "Communication & Scheduling": 770,
+    "Business": 552,
+    "Uncategorized": 511,
+    "Reference & Learning": 357,
+    "Utilities": 107,
+    "News & Opinion": 50,
+    "Design & Composition": 33,
+    "Shopping": 13,
+    "Entertainment": 11
+  }
+}

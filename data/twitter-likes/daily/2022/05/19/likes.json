@@ -1,0 +1,595 @@
+[
+  {
+    "created_at": "Thu May 19 22:19:58 +0000 2022",
+    "id": 1527413783592849400,
+    "id_str": "1527413783592849423",
+    "text": "@sternzac It'll go back up, just give it some time!",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sternzac",
+          "name": "Zac Stern",
+          "id": 1175053719374880800,
+          "id_str": "1175053719374880769",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1527407124019650600,
+    "in_reply_to_status_id_str": "1527407124019650561",
+    "in_reply_to_user_id": 1175053719374880800,
+    "in_reply_to_user_id_str": "1175053719374880769",
+    "in_reply_to_screen_name": "sternzac",
+    "user": {
+      "id": 3310826760,
+      "id_str": "3310826760",
+      "name": "Luke Sophinos",
+      "screen_name": "lukesophinos",
+      "location": "🏄 Riding the VSaaS Tsunami",
+      "description": "🔭 CEO @CourseKeyEDU  🚀 I found, operate, and invest in vertical software companies.  👾 Previously @thielfellowship @venture51",
+      "url": "https://t.co/4PEi3bv3XQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/4PEi3bv3XQ",
+              "expanded_url": "http://lukesophinos.com",
+              "display_url": "lukesophinos.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 7906,
+      "friends_count": 1299,
+      "listed_count": 173,
+      "created_at": "Sun Aug 09 21:02:44 +0000 2015",
+      "favourites_count": 6002,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3257,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1456673996087316484/znyDYyjS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1456673996087316484/znyDYyjS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/3310826760/1643908542",
+      "profile_link_color": "4A913C",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "favorite_count": 173,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 19 22:15:59 +0000 2022",
+    "id": 1527412782076940300,
+    "id_str": "1527412782076940296",
+    "text": "@sternzac @VCBrags wow, this hasn’t happened since 2008",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sternzac",
+          "name": "Zac Stern",
+          "id": 1175053719374880800,
+          "id_str": "1175053719374880769",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "VCBrags",
+          "name": "VCs Congratulating Themselves 👏👏👏",
+          "id": 1192625531025608700,
+          "id_str": "1192625531025608705",
+          "indices": [
+            10,
+            18
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1527407124019650600,
+    "in_reply_to_status_id_str": "1527407124019650561",
+    "in_reply_to_user_id": 1175053719374880800,
+    "in_reply_to_user_id_str": "1175053719374880769",
+    "in_reply_to_screen_name": "sternzac",
+    "user": {
+      "id": 1419592870164680700,
+      "id_str": "1419592870164680705",
+      "name": "monkeybunny",
+      "screen_name": "monkeybunny5",
+      "location": "",
+      "description": "float like a monkey, sting like a bunny",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2,
+      "friends_count": 101,
+      "listed_count": 0,
+      "created_at": "Mon Jul 26 09:38:27 +0000 2021",
+      "favourites_count": 478,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": false,
+      "statuses_count": 3,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1419593300525391874/AhcfG9sX_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1419593300525391874/AhcfG9sX_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "favorite_count": 1213,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 19 22:02:59 +0000 2022",
+    "id": 1527409508452016000,
+    "id_str": "1527409508452016128",
+    "text": "@sternzac @VCBrags Alt positions are risky",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "sternzac",
+          "name": "Zac Stern",
+          "id": 1175053719374880800,
+          "id_str": "1175053719374880769",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "screen_name": "VCBrags",
+          "name": "VCs Congratulating Themselves 👏👏👏",
+          "id": 1192625531025608700,
+          "id_str": "1192625531025608705",
+          "indices": [
+            10,
+            18
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1527407124019650600,
+    "in_reply_to_status_id_str": "1527407124019650561",
+    "in_reply_to_user_id": 1175053719374880800,
+    "in_reply_to_user_id_str": "1175053719374880769",
+    "in_reply_to_screen_name": "sternzac",
+    "user": {
+      "id": 253679909,
+      "id_str": "253679909",
+      "name": "PaulG3.eth",
+      "screen_name": "paulgambardella",
+      "location": "Chicago, IL",
+      "description": "Long Crypto | Space Enthusiast | Coffee Snob | Dissident | Chi • NYC • CT ☕️ 🌎 🚀 🪐🛸",
+      "url": null,
+      "entities": {
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 223,
+      "friends_count": 518,
+      "listed_count": 8,
+      "created_at": "Thu Feb 17 19:04:05 +0000 2011",
+      "favourites_count": 1409,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 4805,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1424137341308870656/QxE_zcUy_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1424137341308870656/QxE_zcUy_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/253679909/1628375874",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 80,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 19 14:01:32 +0000 2022",
+    "id": 1527288348015874000,
+    "id_str": "1527288348015874052",
+    "text": "@jaffathecake likely a social engineering attack, be careful out there",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "jaffathecake",
+          "name": "Jake Archibald",
+          "id": 15390783,
+          "id_str": "15390783",
+          "indices": [
+            0,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": 1527285697874305000,
+    "in_reply_to_status_id_str": "1527285697874305025",
+    "in_reply_to_user_id": 15390783,
+    "in_reply_to_user_id_str": "15390783",
+    "in_reply_to_screen_name": "jaffathecake",
+    "user": {
+      "id": 96383,
+      "id_str": "96383",
+      "name": "Zach Leatherman",
+      "screen_name": "zachleat",
+      "location": "",
+      "description": "🎈 Maintainer of @eleven_ty https://t.co/A3I6DtKdNA\n💾 Open Source at @Netlify\n🌍 The World Wide Web is neat\n🏳️‍⚧️ Listen to Trans Folks\n💌 Typefaces are rad\n👤 he/him",
+      "url": "https://t.co/DlKPKnfhLB",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/DlKPKnfhLB",
+              "expanded_url": "https://www.zachleat.com",
+              "display_url": "zachleat.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/A3I6DtKdNA",
+              "expanded_url": "http://11ty.dev",
+              "display_url": "11ty.dev",
+              "indices": [
+                27,
+                50
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 22552,
+      "friends_count": 642,
+      "listed_count": 810,
+      "created_at": "Thu Dec 21 04:49:19 +0000 2006",
+      "favourites_count": 73108,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 43963,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "EDECE9",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme3/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1196791261233111040/iWVjazhO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196791261233111040/iWVjazhO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/96383/1492018406",
+      "profile_link_color": "09965E",
+      "profile_sidebar_border_color": "D3D2CF",
+      "profile_sidebar_fill_color": "E3E2DE",
+      "profile_text_color": "634047",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 44,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 19 04:13:05 +0000 2022",
+    "id": 1527140258038665200,
+    "id_str": "1527140258038665216",
+    "text": "Pros of founding a startup:\n- You get first name @ domain email address\n\nCons:\n- Everything else",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 557440724,
+      "id_str": "557440724",
+      "name": "Alex Cohen",
+      "screen_name": "anothercohen",
+      "location": "Austin, TX",
+      "description": "chirping around on the bird app",
+      "url": "https://t.co/6xAegi92WQ",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/6xAegi92WQ",
+              "expanded_url": "http://alexandbartangelfund.com",
+              "display_url": "alexandbartangelfund.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 70833,
+      "friends_count": 998,
+      "listed_count": 581,
+      "created_at": "Thu Apr 19 05:09:37 +0000 2012",
+      "favourites_count": 91343,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 25942,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1540096441284182016/qHjouGvO_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1540096441284182016/qHjouGvO_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/557440724/1640301956",
+      "profile_link_color": "19CF86",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 291,
+    "favorite_count": 4358,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Thu May 19 00:19:14 +0000 2022",
+    "id": 1527081411278057500,
+    "id_str": "1527081411278057472",
+    "text": "in a bad place rn, \n\nnot mentally, \n\njust the mission",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1254214946751049700,
+      "id_str": "1254214946751049729",
+      "name": "Samuel Spitz (SD until thurs)",
+      "screen_name": "samuel_spitz",
+      "location": "San Diego (normally SF)",
+      "description": "CEO @Gently_com - one site to search across Poshmark, Depop, eBay, and more",
+      "url": "https://t.co/MqtPkkwkXC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/MqtPkkwkXC",
+              "expanded_url": "http://Gently.com",
+              "display_url": "Gently.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 4536,
+      "friends_count": 698,
+      "listed_count": 29,
+      "created_at": "Sun Apr 26 01:05:37 +0000 2020",
+      "favourites_count": 7744,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 3952,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1540122077348241408/z_zA6k7v_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1540122077348241408/z_zA6k7v_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1254214946751049729/1655935015",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "favorite_count": 72,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

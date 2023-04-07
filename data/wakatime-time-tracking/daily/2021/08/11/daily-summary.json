@@ -1,0 +1,99 @@
+[
+  {
+    "categories": [
+      {
+        "decimal": "0.23",
+        "digital": "0:14:34",
+        "hours": 0,
+        "minutes": 14,
+        "name": "Coding",
+        "percent": 100,
+        "seconds": 34,
+        "text": "14 mins",
+        "total_seconds": 874.774551
+      }
+    ],
+    "dependencies": [],
+    "editors": [
+      {
+        "decimal": "0.23",
+        "digital": "0:14:34",
+        "hours": 0,
+        "minutes": 14,
+        "name": "VS Code",
+        "percent": 100,
+        "seconds": 34,
+        "text": "14 mins",
+        "total_seconds": 874.774551
+      }
+    ],
+    "grand_total": {
+      "decimal": "0.23",
+      "digital": "0:14",
+      "hours": 0,
+      "minutes": 14,
+      "text": "14 mins",
+      "total_seconds": 874.774551
+    },
+    "languages": [
+      {
+        "decimal": "0.23",
+        "digital": "0:14:34",
+        "hours": 0,
+        "minutes": 14,
+        "name": "TypeScript",
+        "percent": 100,
+        "seconds": 34,
+        "text": "14 mins",
+        "total_seconds": 874.774551
+      }
+    ],
+    "machines": [
+      {
+        "decimal": "0.23",
+        "digital": "0:14:34",
+        "hours": 0,
+        "machine_name_id": "af4d44a1-973c-43aa-8daa-5de9f0ecddf8",
+        "minutes": 14,
+        "name": "a4d634864f00",
+        "percent": 100,
+        "seconds": 34,
+        "text": "14 mins",
+        "total_seconds": 874.774551
+      }
+    ],
+    "operating_systems": [
+      {
+        "decimal": "0.23",
+        "digital": "0:14:34",
+        "hours": 0,
+        "minutes": 14,
+        "name": "Linux",
+        "percent": 100,
+        "seconds": 34,
+        "text": "14 mins",
+        "total_seconds": 874.774551
+      }
+    ],
+    "projects": [
+      {
+        "decimal": "0.23",
+        "digital": "0:14:34",
+        "hours": 0,
+        "minutes": 14,
+        "name": "website",
+        "percent": 100,
+        "seconds": 34,
+        "text": "14 mins",
+        "total_seconds": 874.774551
+      }
+    ],
+    "range": {
+      "date": "2021-08-12",
+      "end": "2021-08-12T21:59:59Z",
+      "start": "2021-08-11T22:00:00Z",
+      "text": "Thu Aug 12th 2021",
+      "timezone": "Europe/Amsterdam"
+    }
+  }
+]

@@ -1,0 +1,297 @@
+[
+  {
+    "created_at": "Mon Jan 17 03:26:57 +0000 2022",
+    "id": 1482917331449827300,
+    "id_str": "1482917331449827330",
+    "text": "why https://t.co/29zIQigYwg",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/29zIQigYwg",
+          "expanded_url": "https://twitter.com/Blockworks_/status/1482745606229708802",
+          "display_url": "twitter.com/Blockworks_/st…",
+          "indices": [
+            4,
+            27
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 932630991298007000,
+      "id_str": "932630991298007041",
+      "name": "litquidity",
+      "screen_name": "litcapital",
+      "location": "east hampton",
+      "description": "founder @ litquidity capital // fínánçé, memes, investing // litcoin.eth // newsletter: @exec_sum podcast: @bsdpod // venture scout: @baincapvc",
+      "url": "https://t.co/i3tJ3zezPC",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/i3tJ3zezPC",
+              "expanded_url": "http://litquidity.co",
+              "display_url": "litquidity.co",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 209772,
+      "friends_count": 860,
+      "listed_count": 1413,
+      "created_at": "Mon Nov 20 15:25:30 +0000 2017",
+      "favourites_count": 28635,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 13866,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1495475563070377988/7dmQ1NU-_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1495475563070377988/7dmQ1NU-_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/932630991298007041/1641186672",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": true,
+    "quoted_status_id": 1482745606229708800,
+    "quoted_status_id_str": "1482745606229708802",
+    "quoted_status": {
+      "created_at": "Sun Jan 16 16:04:35 +0000 2022",
+      "id": 1482745606229708800,
+      "id_str": "1482745606229708802",
+      "text": "JUST IN: Walmart prepares to launch NFTs, a cryptocurrency and join the metaverse\n\n- CNBC (@laurenthomas) https://t.co/2CQ2cHdI9m",
+      "truncated": false,
+      "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "user_mentions": [
+          {
+            "screen_name": "laurenthomas",
+            "name": "Lauren Thomas",
+            "id": 45726250,
+            "id_str": "45726250",
+            "indices": [
+              91,
+              104
+            ]
+          }
+        ],
+        "urls": [],
+        "media": [
+          {
+            "id": 1482745604707164200,
+            "id_str": "1482745604707164167",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/FJPFRYTXoAcF0TF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FJPFRYTXoAcF0TF.jpg",
+            "url": "https://t.co/2CQ2cHdI9m",
+            "display_url": "pic.twitter.com/2CQ2cHdI9m",
+            "expanded_url": "https://twitter.com/Blockworks_/status/1482745606229708802/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 755,
+                "h": 406,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 366,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 755,
+                "h": 406,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "id": 1482745604707164200,
+            "id_str": "1482745604707164167",
+            "indices": [
+              106,
+              129
+            ],
+            "media_url": "http://pbs.twimg.com/media/FJPFRYTXoAcF0TF.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/FJPFRYTXoAcF0TF.jpg",
+            "url": "https://t.co/2CQ2cHdI9m",
+            "display_url": "pic.twitter.com/2CQ2cHdI9m",
+            "expanded_url": "https://twitter.com/Blockworks_/status/1482745606229708802/photo/1",
+            "type": "photo",
+            "sizes": {
+              "thumb": {
+                "w": 150,
+                "h": 150,
+                "resize": "crop"
+              },
+              "medium": {
+                "w": 755,
+                "h": 406,
+                "resize": "fit"
+              },
+              "small": {
+                "w": 680,
+                "h": 366,
+                "resize": "fit"
+              },
+              "large": {
+                "w": 755,
+                "h": 406,
+                "resize": "fit"
+              }
+            }
+          }
+        ]
+      },
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_status_id": null,
+      "in_reply_to_status_id_str": null,
+      "in_reply_to_user_id": null,
+      "in_reply_to_user_id_str": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id": 989912836901089300,
+        "id_str": "989912836901089282",
+        "name": "Blockworks",
+        "screen_name": "Blockworks_",
+        "location": "New York, NY",
+        "description": "News and insights about crypto for investors.\n\nEvent of the year: https://t.co/BXuzraxJeK",
+        "url": "https://t.co/2983zUUU3k",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "url": "https://t.co/2983zUUU3k",
+                "expanded_url": "https://blockworks.co/newsletter",
+                "display_url": "blockworks.co/newsletter",
+                "indices": [
+                  0,
+                  23
+                ]
+              }
+            ]
+          },
+          "description": {
+            "urls": [
+              {
+                "url": "https://t.co/BXuzraxJeK",
+                "expanded_url": "http://permissionlessevent.co",
+                "display_url": "permissionlessevent.co",
+                "indices": [
+                  66,
+                  89
+                ]
+              }
+            ]
+          }
+        },
+        "protected": false,
+        "followers_count": 259076,
+        "friends_count": 4904,
+        "listed_count": 2112,
+        "created_at": "Fri Apr 27 17:03:06 +0000 2018",
+        "favourites_count": 25700,
+        "utc_offset": null,
+        "time_zone": null,
+        "geo_enabled": true,
+        "verified": true,
+        "statuses_count": 14166,
+        "lang": null,
+        "contributors_enabled": false,
+        "is_translator": false,
+        "is_translation_enabled": false,
+        "profile_background_color": "000000",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+        "profile_background_tile": false,
+        "profile_image_url": "http://pbs.twimg.com/profile_images/1410611633773191177/YPoysm6k_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/1410611633773191177/YPoysm6k_normal.jpg",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/989912836901089282/1642688964",
+        "profile_link_color": "6457B6",
+        "profile_sidebar_border_color": "000000",
+        "profile_sidebar_fill_color": "000000",
+        "profile_text_color": "000000",
+        "profile_use_background_image": false,
+        "has_extended_profile": false,
+        "default_profile": false,
+        "default_profile_image": false,
+        "following": false,
+        "follow_request_sent": false,
+        "notifications": false,
+        "translator_type": "none",
+        "withheld_in_countries": []
+      },
+      "geo": null,
+      "coordinates": null,
+      "place": null,
+      "contributors": null,
+      "is_quote_status": false,
+      "retweet_count": 1141,
+      "favorite_count": 4143,
+      "favorited": false,
+      "retweeted": false,
+      "possibly_sensitive": false,
+      "lang": "en"
+    },
+    "retweet_count": 30,
+    "favorite_count": 1061,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "und"
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "created_at": "Sun Nov 07 18:41:15 +0000 2021",
+    "id": 1457417884582416400,
+    "id_str": "1457417884582416384",
+    "text": "@frankismartinez i understood most of those words",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "frankismartinez",
+          "name": "frankmartinez.eth",
+          "id": 394407895,
+          "id_str": "394407895",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": 1457417445619089400,
+    "in_reply_to_status_id_str": "1457417445619089410",
+    "in_reply_to_user_id": 394407895,
+    "in_reply_to_user_id_str": "394407895",
+    "in_reply_to_screen_name": "frankismartinez",
+    "user": {
+      "id": 14946149,
+      "id_str": "14946149",
+      "name": "Andreas Klinger 🏝",
+      "screen_name": "andreasklinger",
+      "location": "Berlin, Germany",
+      "description": "🛠 CTO @beondeck – 💰 Seed investor in @remote @hopin @commsor @galileoxp @mainstreet & more via https://t.co/MQEPoZ05p2 – ❤️ @susanneknoll – 💬 DMs open",
+      "url": "https://t.co/MseRFKlUao",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/MseRFKlUao",
+              "expanded_url": "http://klinger.io",
+              "display_url": "klinger.io",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/MQEPoZ05p2",
+              "expanded_url": "http://remotefirstcapital.com",
+              "display_url": "remotefirstcapital.com",
+              "indices": [
+                95,
+                118
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 46925,
+      "friends_count": 3072,
+      "listed_count": 1330,
+      "created_at": "Thu May 29 17:54:23 +0000 2008",
+      "favourites_count": 184087,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 51208,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/458856003732140032/EN5TET65_normal.jpeg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/458856003732140032/EN5TET65_normal.jpeg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/14946149/1604411810",
+      "profile_link_color": "B70000",
+      "profile_sidebar_border_color": "D1D1D1",
+      "profile_sidebar_fill_color": "EBEBEB",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "regular",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "favorite_count": 12,
+    "favorited": true,
+    "retweeted": false,
+    "lang": "en"
+  }
+]

@@ -1,0 +1,387 @@
+[
+  {
+    "created_at": "Fri Dec 03 22:01:45 +0000 2021",
+    "id": 1466890424031879200,
+    "id_str": "1466890424031879176",
+    "text": "When your developer tools company is 40% women https://t.co/695vdxS2ZO",
+    "truncated": false,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [],
+      "media": [
+        {
+          "id": 1466890420034711600,
+          "id_str": "1466890420034711554",
+          "indices": [
+            47,
+            70
+          ],
+          "media_url": "http://pbs.twimg.com/media/FFtxEKqXsAIMJe9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FFtxEKqXsAIMJe9.jpg",
+          "url": "https://t.co/695vdxS2ZO",
+          "display_url": "pic.twitter.com/695vdxS2ZO",
+          "expanded_url": "https://twitter.com/shensi_/status/1466890424031879176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "id": 1466890420034711600,
+          "id_str": "1466890420034711554",
+          "indices": [
+            47,
+            70
+          ],
+          "media_url": "http://pbs.twimg.com/media/FFtxEKqXsAIMJe9.jpg",
+          "media_url_https": "https://pbs.twimg.com/media/FFtxEKqXsAIMJe9.jpg",
+          "url": "https://t.co/695vdxS2ZO",
+          "display_url": "pic.twitter.com/695vdxS2ZO",
+          "expanded_url": "https://twitter.com/shensi_/status/1466890424031879176/photo/1",
+          "type": "photo",
+          "sizes": {
+            "thumb": {
+              "w": 150,
+              "h": 150,
+              "resize": "crop"
+            },
+            "small": {
+              "w": 680,
+              "h": 510,
+              "resize": "fit"
+            },
+            "medium": {
+              "w": 1200,
+              "h": 900,
+              "resize": "fit"
+            },
+            "large": {
+              "w": 2048,
+              "h": 1536,
+              "resize": "fit"
+            }
+          }
+        }
+      ]
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 1018513992321417200,
+      "id_str": "1018513992321417221",
+      "name": "shensi",
+      "screen_name": "shensi_",
+      "location": "NYC",
+      "description": "API girl and co-founder @merge_api | @expanseinc @columbia",
+      "url": "https://t.co/90NAjthdvX",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/90NAjthdvX",
+              "expanded_url": "http://www.merge.dev",
+              "display_url": "merge.dev",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 943,
+      "friends_count": 344,
+      "listed_count": 14,
+      "created_at": "Sun Jul 15 15:13:53 +0000 2018",
+      "favourites_count": 1553,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": false,
+      "statuses_count": 534,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1380000371817385984/Of1IjEoK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1380000371817385984/Of1IjEoK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1018513992321417221/1617674949",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "favorite_count": 557,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Dec 03 20:20:30 +0000 2021",
+    "id": 1466864943907500000,
+    "id_str": "1466864943907500033",
+    "text": "With this reorg, I truly believe Twitter now has the focus and capability in place to build world-class tweet editi… https://t.co/5ZHNWVAF49",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "https://t.co/5ZHNWVAF49",
+          "expanded_url": "https://twitter.com/i/web/status/1466864943907500033",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 69426451,
+      "id_str": "69426451",
+      "name": "Casey Newton",
+      "screen_name": "CaseyNewton",
+      "location": "San Francisco",
+      "description": "I write @platformer, a publication about big tech and democracy. | 1/8th of #Sidechannel | casey@platformer.news | instagram: @crumbler",
+      "url": "https://t.co/9lsZgIjBbh",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/9lsZgIjBbh",
+              "expanded_url": "https://www.platformer.news/",
+              "display_url": "platformer.news",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 148195,
+      "friends_count": 885,
+      "listed_count": 3716,
+      "created_at": "Thu Aug 27 22:37:09 +0000 2009",
+      "favourites_count": 224698,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 6316,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1053792942966497280/BOEYtrXe_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/69426451/1601674745",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "EEEEEE",
+      "profile_sidebar_fill_color": "EFEFEF",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "favorite_count": 1019,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  },
+  {
+    "created_at": "Fri Dec 03 17:57:41 +0000 2021",
+    "id": 1466829004309024800,
+    "id_str": "1466829004309024771",
+    "text": "Today is my last day as COO of @GitHub. Serving as a leader of the home for all developers has been the honor and p… https://t.co/RHqdW9qE9G",
+    "truncated": true,
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "user_mentions": [
+        {
+          "screen_name": "github",
+          "name": "GitHub",
+          "id": 13334762,
+          "id_str": "13334762",
+          "indices": [
+            31,
+            38
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RHqdW9qE9G",
+          "expanded_url": "https://twitter.com/i/web/status/1466829004309024771",
+          "display_url": "twitter.com/i/web/status/1…",
+          "indices": [
+            117,
+            140
+          ]
+        }
+      ]
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id": 23554268,
+      "id_str": "23554268",
+      "name": "Erica Brescia",
+      "screen_name": "ericabrescia",
+      "location": "San Francisco, CA",
+      "description": "MD @Redpoint. Previously, COO @GitHub, co-founder and COO @Bitnami, Investment Partner @xfactorventures. Board member @linuxfoundation. YC W13.",
+      "url": "https://t.co/ong8NrHseu",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/ong8NrHseu",
+              "expanded_url": "http://github.com",
+              "display_url": "github.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 15442,
+      "friends_count": 1707,
+      "listed_count": 373,
+      "created_at": "Tue Mar 10 04:03:20 +0000 2009",
+      "favourites_count": 18317,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 7307,
+      "lang": null,
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1269850008225890305/opdf9_eo_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1269850008225890305/opdf9_eo_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/23554268/1531943920",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "translator_type": "none",
+      "withheld_in_countries": []
+    },
+    "geo": null,
+    "coordinates": null,
+    "place": null,
+    "contributors": null,
+    "is_quote_status": false,
+    "retweet_count": 48,
+    "favorite_count": 1271,
+    "favorited": true,
+    "retweeted": false,
+    "possibly_sensitive": false,
+    "lang": "en"
+  }
+]
