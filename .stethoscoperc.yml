@@ -1,14 +1,4 @@
 integrations:
   google-fit:
     frequency: "daily"
-    status-active: true
-    status-completed: true
-    sleep: true
-    sleep-awake: true
-    sleep-deep: true
-    sleep-light: true
-    sleep-rem: true
-    still: true
-    walking: true
-    running: true
-    on-foot: true
+    all: true
