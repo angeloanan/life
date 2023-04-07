@@ -15,6 +15,7 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
           token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Update data using Stethoscope
         uses: stethoscope-js/action@master
         env:
@@ -47,11 +48,9 @@ jobs:
           TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
           TWITTER_SCREEN_NAME: ${{ secrets.TWITTER_SCREEN_NAME }}
+
       - name: Commit new data
-        uses: stefanzweifel/git-auto-commit-action@v4.15.4
+        uses: EndBug/add-and-commit@v9
         with:
-          commit_message: ":card_file_box: Update daily life data [skip ci]"
-          commit_user_name: Stethoscoper
-          commit_user_email: stethoscope-js@anandchowdhary.com
-          commit_author: Stethoscoper <stethoscope-js@anandchowdhary.com>
-          skip_dirty_check: true
+          message: ":card_file_box: Update daily life data [skip ci]"
+          default_author: github_actions

@@ -1,27 +1,14 @@
 integrations:
-  rescuetime:
-    frequency: "daily"
-    overview: true
-    top-categories: true
-    top-activities: false
-  last-fm:
-    frequency: "daily"
-    all: true
-  pocket-casts:
-    frequency: "daily"
-    all: true
-  wakatime:
-    frequency: "daily"
-    all: true
   google-fit:
     frequency: "daily"
-    all: true
-  oura-ring:
-    frequency: "daily"
-    all: true
-  twitter:
-    frequency: "daily"
-    all: true
-  # clockify:
-  # spotify:
-  # goodreads:
+    status-active: true
+    status-completed: true
+    sleep: true
+    sleep-awake: true
+    sleep-deep: true
+    sleep-light: true
+    sleep-rem: true
+    still: true
+    walking: true
+    running: true
+    on-foot: true
